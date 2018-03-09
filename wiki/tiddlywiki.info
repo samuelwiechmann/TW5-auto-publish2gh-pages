@@ -14,8 +14,15 @@
 	],
 	
 	"build": {
+		
+		"externalimages": [
+			"--savetiddlers [is[image]] images",
+        		"--setfield [is[image]] _canonical_uri $:/core/templates/canonical-uri-external-image text/plain",
+        		"--setfield [is[image]] test "" text/plain",
+			"--rendertiddler $:/core/save/all externalimages.html text/plain",
 		"index": [
 			"--rendertiddler","$:/plugins/tiddlywiki/tiddlyweb/save/offline","index.html","text/plain"],
+	
 		"favicon": [
 			"--savetiddler","$:/favicon.ico","favicon.ico"],
 		"readme": [
