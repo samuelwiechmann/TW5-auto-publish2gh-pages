@@ -14,15 +14,15 @@ drag-sort: yes
 drag-sort-action: move
 drag-sort-action-user: yes
 drag-sort-threshold: 40
-fill-gaps: yes
+fill-gaps: no
 fill-gaps-user: no
 hide-controls: no
 hide-duration: 200
 hide-leftbar: no
 hide-tags: no
 hide-titles: no
-modified: 20180316162023686
-muuri-list: [[The map]] [[What can I do?]]
+modified: 20180316172410393
+muuri-list: [[Understand the World]] [[What can I do?]]
 muuri-view: no
 muuri-view-pagetemplate: $:/plugins/BTC/tiddly-touch/PageTemplate/muuri
 previous-sidebar: 
