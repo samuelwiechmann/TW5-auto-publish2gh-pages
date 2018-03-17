@@ -1,8 +1,13 @@
 created: 20180301194029719
-modified: 20180306103241913
-tags: topic humanities 2
+modified: 20180317191643803
+tags: topic humanities 1
 title: Arts
-tmap.edges: {"5c397353-2d03-46ee-9096-b3e139c42889":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"subclass of"}}
+tmap.edges: {"5c397353-2d03-46ee-9096-b3e139c42889":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"subclass of"},"0506037e-d410-4a1c-ae53-58c8108bf5ac":{"to":"4062ca27-0fd3-46eb-8aaf-62fcd2dbdb59","type":"expression of"}}
 tmap.id: 6f710a8b-46a5-477b-ad37-35f252189b22
 type: text/vnd.tiddlywiki
 
+The arts refers to the theory and physical expression of creativity found in human societies and cultures.
+
+Major constituents of the arts include literature – including poetry, prose and drama, performing arts – among them music, dance, and theatre; and visual arts – including drawing, painting, photography, ceramics, sculpting, and architecture – the art of designing and constructing buildings.
+
+https://en.wikipedia.org/wiki/The_arts

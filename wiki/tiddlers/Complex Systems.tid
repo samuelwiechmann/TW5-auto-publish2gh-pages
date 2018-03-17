@@ -1,7 +1,12 @@
 created: 20180313152506437
-modified: 20180313152553229
+modified: 20180317193606005
 tags: physicalconcept systemstheory formal science 2
 title: Complex Systems
 tmap.id: 1ca77ab2-8b9a-4f76-94c4-5f24fffa0b1e
 type: text/vnd.tiddlywiki
 
+A complex system is a system composed of many components which may interact with each other. In many cases it is useful to represent such a system as a network where the nodes represent the components and the links their interactions. 
+
+Examples of complex systems are Earth's global climate, organisms, the human brain, social and economic organizations (like cities), an ecosystem, a living cell, and ultimately the entire universe.
+
+https://en.wikipedia.org/wiki/Complex_system

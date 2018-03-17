@@ -1,0 +1,10 @@
+created: 20180316124840019
+modified: 20180316173556166
+muuri-tiddler-width: 2
+tags: introduction
+title: The map
+tmap.id: 8c50a1e9-987b-430a-9299-42ea5dc0fee6
+type: text/vnd.tiddlywiki
+
+Click to activate the map, zoom and navigate, switch to full screen mode and open content behind the round nodes. You can also dare to move the nodes with the cursor. 
+<$tmap view="s2+c_exp2" click-to-use="true" height="600px" design="plain"></$tmap>

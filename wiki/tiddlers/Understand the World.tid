@@ -1,10 +1,9 @@
-created: 20180316124840019
-modified: 20180316160927256
+created: 20180316173601696
+modified: 20180317181242969
 muuri-tiddler-width: 2
 tags: introduction
 title: Understand the World
-tmap.id: 8c50a1e9-987b-430a-9299-42ea5dc0fee6
+tmap.id: f29cc2d8-5c87-47f9-bea0-a1f79ad22dd9
 type: text/vnd.tiddlywiki
 
-You already know what the colours mean. This is where they come to use. Click to activate the map, zoom and navigate, switch to full screen mode and open content behind the round nodes. You can also dare to move the nodes with the cursor. 
-<$tmap view="s2+c_exp2" click-to-use="true" height="600px" design="plain"></$tmap>
+{{The map}}
