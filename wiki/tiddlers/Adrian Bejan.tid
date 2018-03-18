@@ -1,8 +1,13 @@
 created: 20180313143238273
-modified: 20180313224046181
+modified: 20180318132110713
 tags: scientist physics person
 title: Adrian Bejan
 tmap.edges: {"cc272321-b506-4269-88c6-242ecec6a50b":{"to":"3a707865-a330-4a90-905d-d9b721e5da97","type":"appears in"},"519d3671-7f1f-46f0-aa82-d45582f488c0":{"to":"ba6f006d-67bf-4408-92ba-4489a29754db","type":"appears in"},"2dbfb032-bc34-478e-9eeb-28b62f48f2e7":{"to":"b6266a38-ff75-470f-b277-4a67c7e24412","type":"appears in"},"697f533b-e70a-49d2-80fc-7e83bf68a1b7":{"to":"a94709fb-de4b-4b7a-9637-f1514efddff2","type":"studied"}}
 tmap.id: a3ebec8b-a91a-4fa2-bab3-50cd079163e2
 type: text/vnd.tiddlywiki
 
+<<image-left "adrian bejan.jpg">>Adrian Bejan is an American professor who has made contributions to modern thermodynamics and developed what he calls the constructal law. He is J. A. Jones Distinguished Professor of Mechanical Engineering at Duke University and author of the 2016 book The Physics of Life: The Evolution of Everything.
+
+In 1995 while reviewing entropy generation minimization for a symposium paper and writing another paper on the cooling of electronic components, Bejan formulated his self-described constructal law. Where electronic components are too small for convective cooling, they must be designed for efficient conduction. The paper provides a method for efficiently designing conductive paths, from smaller paths leading to larger ones. The similarity of the solution to the branching structures seen in multiple inanimate and living things led to his statement of what he calls a new law of nature: "For a finite-size system to persist in time (to live), it must evolve in such a way that it provides easier access to the imposed (global) currents that flow through it." To emphasize the coming together of paths he called the theory constructal from the Latin "to build", in contrast with approaches using fractal geometry, from the Latin "to break".
+
+https://en.wikipedia.org/wiki/Adrian_Bejan

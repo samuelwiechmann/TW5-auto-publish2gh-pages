@@ -1,8 +1,13 @@
 created: 20180307163914448
-modified: 20180307164132318
+modified: 20180318124837928
 tags: topic life 4
 title: Photosynthesis
 tmap.edges: {"dc47a03d-f9c6-4735-9992-1b96aa5c038d":{"to":"c31b9f1d-0f9e-4b92-8a52-0fdd556a7eaa","type":"leads to"}}
 tmap.id: 6a23e798-625b-48a4-86f1-99a215237ec3
 type: text/vnd.tiddlywiki
 
+<<image-left "photosynthesis.jpg">>The first photosynthetic organisms probably evolved early in the evolutionary history of life and most likely used reducing agents such as hydrogen or electrons, rather than water.
+
+The biochemical capacity to use water as the source for electrons in photosynthesis evolved in a common ancestor of extant cyanobacteria. The geological record indicates that this transforming event took place early in Earth's history, at least 2450–2320 million years ago (Ma), and, it is speculated, much earlier.
+
+https://en.wikipedia.org/wiki/Evolution_of_photosynthesis

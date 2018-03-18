@@ -1,8 +1,13 @@
 created: 20180303142733283
-modified: 20180306155011449
+modified: 20180318132446435
 tags: applied science topic 4
 title: Aerospace Engineering
 tmap.edges: {"ef9661a1-4148-4773-aea5-9d2ff80a7b02":{"to":"e17b93b9-e44a-4a48-a5c7-dc8291661978","type":"subclass of"},"2b6a5719-7f89-4466-adb4-a8d6c65109b2":{"to":"b087a093-0194-4cc9-ba88-001b483abdea","type":"subclass of"}}
 tmap.id: 65ab8d81-d856-4812-97ce-7c91c48a834a
 type: text/vnd.tiddlywiki
 
+<<image-left "mission control apollo 13.jpg">>Aerospace engineering is the primary field of engineering concerned with the development of aircraft and spacecraft. It has two major and overlapping branches: Aeronautical engineering and Astronautical Engineering. Avionics engineering is similar, but deals with the electronics side of aerospace engineering.
+
+[[Aeronautical Engineering]] was the original term for the field. As flight technology advanced to include craft operating in outer space (astronautics), the broader term "aerospace engineering" has come into common use. Aerospace engineering, particularly the astronautics branch, is often colloquially referred to as "rocket science".
+
+https://en.wikipedia.org/wiki/Aerospace_engineering
