@@ -1,5 +1,5 @@
 created: 20180222130515611
-modified: 20180313181015544
+modified: 20180318154548033
 tags: object concept 2 topic
 title: Earth
 tmap.edges: {"93e1cedb-3739-4aea-9c6b-711e69a99da7":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"forms"},"9fa281dc-2fb7-4445-894b-d4feb7f92e0a":{"to":"52a38c1f-b1bb-4d00-97c4-696f5f675414","type":"appears in"}}
@@ -7,3 +7,6 @@ tmap.id: 4a18ddcd-acb8-4b43-91c7-3c68e93f2c64
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
+<<image-left "world.jpg">>Earth is the third planet from the Sun and the only object in the Universe known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4.5 billion years ago. Earth's gravity interacts with other objects in space, especially the Sun and the Moon, Earth's only natural satellite. Earth revolves around the Sun in 365.26 days, a period known as an Earth year. During this time, Earth rotates about its axis about 366.26 times.
+
+https://en.wikipedia.org/wiki/Earth
