@@ -1,13 +1,15 @@
 created: 20180302005806439
-modified: 20180317184205657
+modified: 20180318103441312
 tags: animal group family topic life organism 4
 title: Birds
 tmap.edges: {"9e55d436-6678-4ca1-88bd-1ce26d7d37a7":{"to":"672ce2a2-1f67-4ae5-a727-ad576a8ef707","type":"subclass of"}}
 tmap.id: 1b1e9b0e-5f03-423a-8b10-e4f0f0503e35
 type: text/vnd.tiddlywiki
 
-Birds (Aves) are a group of endothermic vertebrates, characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. 
+<<image-left "birds.PNG">>Birds (Aves) are a group of endothermic vertebrates, characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. 
 
 Birds live worldwide and range in size from the 5 cm (2 in) bee hummingbird to the 2.75 m (9 ft) ostrich.
+
+Some birds, especially corvids and parrots, are among the most intelligent animals; several bird species make and use tools, and many social species pass on knowledge across generations, which is considered a form of culture.
 
 https://en.wikipedia.org/wiki/Bird

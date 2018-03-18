@@ -1,12 +1,12 @@
 created: 20180228232514845
-modified: 20180317182839391
+modified: 20180318105835114
 tags: organism 1 topic nature life
 title: Animals
-tmap.edges: {"f4f9496f-3ba9-4004-bbcc-eb596aad3968":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"subclass of"},"e229edaf-b44a-4689-a4e5-87d6099f945f":{"to":"e1c604fc-8332-4520-b622-e6efdeeadd21","type":"eat"},"bfe18154-b97e-4011-9e05-a60f6323e6e0":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"subclass of"}}
+tmap.edges: {"f4f9496f-3ba9-4004-bbcc-eb596aad3968":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"subclass of"},"e229edaf-b44a-4689-a4e5-87d6099f945f":{"to":"e1c604fc-8332-4520-b622-e6efdeeadd21","type":"eat"},"11cbfdca-c67f-487b-aadc-38f1f876efc1":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"part of"}}
 tmap.id: ae48562b-93dc-4627-898e-5b359e628b93
 type: text/vnd.tiddlywiki
 
-Animals are multicellular eukaryotic organisms that form the biological kingdom Animalia. With few exceptions, animals consume organic material, breathe oxygen, are able to move, reproduce sexually, and grow from a hollow sphere of cells, the blastula, during embryonic development. 
+<<image-left "animals.PNG">>Animals are multicellular eukaryotic organisms that form the biological kingdom Animalia. With few exceptions, animals consume organic material, breathe oxygen, are able to move, reproduce sexually, and grow from a hollow sphere of cells, the [[Blastula]], during [[Embryonic Development]]. 
 
 Over 1.5 million living animal species have been described—of which around 1 million are insects—but it has been estimated there are over 7 million in total. 
 

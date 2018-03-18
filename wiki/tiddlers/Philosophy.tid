@@ -1,8 +1,11 @@
 created: 20180222130723901
-modified: 20180306103242018
+modified: 20180318103908558
 tags: topic humanities 2
 title: Philosophy
-tmap.edges: {"82adf46d-9bce-4b8c-8bf6-7b06d82a7aee":{"to":"b2353242-a4df-46d3-b4d6-8d2eaf25e27a","type":"invented"},"0ac1353e-4a45-4196-8091-b38f250f9e9c":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"subclass of"}}
+tmap.edges: {"82adf46d-9bce-4b8c-8bf6-7b06d82a7aee":{"to":"b2353242-a4df-46d3-b4d6-8d2eaf25e27a","type":"invented"},"0ac1353e-4a45-4196-8091-b38f250f9e9c":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"subclass of"},"d858f217-d594-4ebb-a571-885293d30a61":{"to":"3e5c7fad-95e6-4ba9-9118-a2b2bd4c5867","type":"deals with"},"88928110-1362-4845-b8df-166574b168d0":{"to":"8b8b123b-38d5-4c66-8bfc-384a462b5cc7","type":"deals with"}}
 tmap.id: 95353a5a-1017-4513-8eaf-d97bee5b947a
 type: text/vnd.tiddlywiki
 
+Philosophy (from Greek φιλοσοφία, philosophia, literally "love of wisdom") is the study of general and fundamental problems concerning matters such as existence, knowledge, values, reason, mind, and language.
+
+https://en.wikipedia.org/wiki/Philosophy

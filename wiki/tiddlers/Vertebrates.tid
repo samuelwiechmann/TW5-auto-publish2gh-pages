@@ -1,8 +1,13 @@
 created: 20180304220633563
-modified: 20180307170819253
+modified: 20180318102602348
 tags: animals organism 3 group topic
 title: Vertebrates
 tmap.edges: {"9e63102d-4286-4306-a4b1-3aac09790c78":{"to":"ae48562b-93dc-4627-898e-5b359e628b93","type":"subclass of"},"997660e6-9e31-429c-9f6f-fb0c92c0d147":{"to":"fbf1234b-7fe7-47d6-ada8-1162c7875c16","type":"have"},"7b37279a-20ae-4bab-8a76-900136b618f0":{"to":"cb82f812-b9fd-4921-94ca-085fd9d16cbf","type":"can experience"}}
 tmap.id: 672ce2a2-1f67-4ae5-a727-ad576a8ef707
 type: text/vnd.tiddlywiki
 
+<<image-left "vertebrates.PNG">>All vertebrates are built along the basic chordate body plan: a stiff rod running through the length of the animal (vertebral column and/or notochord), with a hollow tube of nervous tissue (the spinal cord) above it and the gastrointestinal tract below.
+
+In all vertebrates, the mouth is found at, or right below, the anterior end of the animal, while the anus opens to the exterior before the end of the body. The remaining part of the body continuing after the anus forms a tail with vertebrae and spinal cord, but no gut.
+
+https://en.wikipedia.org/wiki/Vertebrate
