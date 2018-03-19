@@ -1,8 +1,8 @@
 created: 20180303143750660
-modified: 20180306103241999
+modified: 20180319092639444
 tags: applied science topic 3 transport
 title: Rails
-tmap.edges: {"630a03d2-2d00-45ef-a114-cf6da77fdb18":{"to":"1d9eb4f8-287a-46d5-9f63-912dec3150f3","type":"subclass of"}}
+tmap.edges: {"4484fdf0-ba1c-46e6-b500-66e8d946ee04":{"to":"1d9eb4f8-287a-46d5-9f63-912dec3150f3","type":"2:subclass of"}}
 tmap.id: 31dfd671-2416-4459-9265-d9439515a013
 type: text/vnd.tiddlywiki
 

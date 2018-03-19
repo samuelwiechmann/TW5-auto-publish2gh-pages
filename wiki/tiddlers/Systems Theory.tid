@@ -1,8 +1,8 @@
 created: 20180313152350127
-modified: 20180317192649088
+modified: 20180319092220414
 tags: 4 formal science topic
 title: Systems Theory
-tmap.edges: {"92eeeabe-2f4a-41e9-afe4-eb5cc901b83c":{"to":"18fc1239-3b0c-4a48-9304-65e638dd271f","type":"subclass of"},"86657595-394d-465a-9dad-90f598589aed":{"to":"1ca77ab2-8b9a-4f76-94c4-5f24fffa0b1e","type":"studies"}}
+tmap.edges: {"86657595-394d-465a-9dad-90f598589aed":{"to":"1ca77ab2-8b9a-4f76-94c4-5f24fffa0b1e","type":"studies"},"9e0282f9-a119-482b-adaa-8d41301957dc":{"to":"18fc1239-3b0c-4a48-9304-65e638dd271f","type":"2:subclass of"}}
 tmap.id: 8688b317-5488-484e-a7f3-999bdeecd0fd
 type: text/vnd.tiddlywiki
 

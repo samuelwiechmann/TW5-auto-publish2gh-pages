@@ -1,8 +1,8 @@
 created: 20180317191344929
-modified: 20180317191458171
+modified: 20180319093233505
 tags: visualarts 3 humanities art topic
 title: Art of Architecture
-tmap.edges: {"33fe25d4-554c-439a-ac9d-3f74d275e886":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"subclass of"}}
+tmap.edges: {"33fe25d4-554c-439a-ac9d-3f74d275e886":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"subclass of"},"b554ac68-a050-4771-976f-26b5af4d0e12":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"3:subclass of"}}
 tmap.id: f7e2bf46-ba04-4964-80ff-990cdf470af7
 type: text/vnd.tiddlywiki
 

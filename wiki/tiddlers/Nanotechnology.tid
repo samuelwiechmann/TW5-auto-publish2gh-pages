@@ -1,8 +1,8 @@
 created: 20180313162803164
-modified: 20180313162910018
-tags: 2 applied science topic
+modified: 20180319094544428
+tags: applied science topic 3
 title: Nanotechnology
-tmap.edges: {"307d9427-54ed-4dc8-b57b-1dbdb729a462":{"to":"7e0b4d95-7146-41ca-8ece-415269980754","type":"subclass of"}}
+tmap.edges: {"528439a4-9047-4535-b1f6-77b21936ace4":{"to":"7e0b4d95-7146-41ca-8ece-415269980754","type":"2:subclass of"}}
 tmap.id: 07cf5271-89d2-4b11-8dc8-4b321fc755ac
 type: text/vnd.tiddlywiki
 

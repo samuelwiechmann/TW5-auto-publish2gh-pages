@@ -1,8 +1,8 @@
 created: 20180317190532418
-modified: 20180317191750639
+modified: 20180319092545048
 tags: topic humanities 2 arts
 title: Visual Arts
-tmap.edges: {"02e64e7e-699d-4614-937e-0d285792f15d":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"subclass of"}}
+tmap.edges: {"02e64e7e-699d-4614-937e-0d285792f15d":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"subclass of"},"2df3cfef-e463-4563-82f6-8ba0781f4e36":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"2:subclass of"}}
 tmap.id: fff8c909-499c-4126-b215-62c442ae3b68
 type: text/vnd.tiddlywiki
 

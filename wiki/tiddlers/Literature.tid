@@ -1,8 +1,8 @@
 created: 20180301194107228
-modified: 20180318160715110
+modified: 20180319092552722
 tags: topic humanities 2 arts
 title: Literature
-tmap.edges: {"b699e74f-7446-499e-828e-2f25c7b73ed4":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"subclass of"}}
+tmap.edges: {"b699e74f-7446-499e-828e-2f25c7b73ed4":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"subclass of"},"cd601904-6c90-4436-bb95-d527525ddee3":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"2:subclass of"}}
 tmap.id: 0561d7b8-21ea-42ac-864b-831a5b9b4dea
 type: text/vnd.tiddlywiki
 

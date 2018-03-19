@@ -1,8 +1,8 @@
 created: 20180301193728465
-modified: 20180308191003182
+modified: 20180319090734625
 tags: topic concept discipline 1 humanities
 title: Humanities
-tmap.edges: {"eec9d2a2-40bb-429b-8ccc-db48e9698ed4":{"to":"651a5bde-eefc-4903-94f6-b8e3d1b1eb38","type":"subclass of"}}
+tmap.edges: {"7c901ebd-df44-4cc8-a0ce-f08ab33af0bf":{"to":"651a5bde-eefc-4903-94f6-b8e3d1b1eb38","type":"0:subclass of"}}
 tmap.id: 2dca5c98-6b56-4275-a574-083c170193ca
 tmap.style: {}
 type: text/vnd.tiddlywiki
