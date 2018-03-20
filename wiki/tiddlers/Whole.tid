@@ -1,6 +1,6 @@
 created: 20180301193655026
 creator: Samuel
-modified: 20180317182051516
+modified: 20180320114629888
 modifier: Samuel
 tags: 0 topic concept
 title: Whole
@@ -9,3 +9,6 @@ tmap.id: 651a5bde-eefc-4903-94f6-b8e3d1b1eb38
 tmap.style: {"color":{"border":"rgba(122,115,116,1)","background":"rgba(255,253,253,1)"},"font":{"size":120},"size":10}
 type: text/vnd.tiddlywiki
 
+The whole represents the whole of all academic disciplines and therefore all branches of knowledge that are taught and researched as part of higher education. Nevertheless, a few branches are probably still missing.
+
+https://en.wikipedia.org/wiki/Outline_of_academic_disciplines

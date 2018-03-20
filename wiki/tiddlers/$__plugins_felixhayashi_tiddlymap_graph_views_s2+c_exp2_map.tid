@@ -1,5 +1,5 @@
 created: 20180301181023832
-modified: 20180319143925361
+modified: 20180320125238219
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s2+c_exp2/map
 type: text/vnd.tiddlywiki
 
@@ -786,10 +786,6 @@ type: text/vnd.tiddlywiki
  "55261812-832a-49f8-88e4-4564a4e0badf": {
   "x": 211,
   "y": 472
- },
- "21fe8e16-8550-4096-98dd-6c9a253b7505": {
-  "x": 382,
-  "y": 1773
  },
  "8688b317-5488-484e-a7f3-999bdeecd0fd": {
   "x": -274,

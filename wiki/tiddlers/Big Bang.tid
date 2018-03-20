@@ -1,8 +1,15 @@
 created: 20180307162736044
-modified: 20180307162940171
+modified: 20180320115018698
 tags: physicalconcept 2 topic
 title: Big Bang
 tmap.edges: {"00722117-3690-446f-8972-bfa37472f8d8":{"to":"7640c80b-e522-49d6-b911-9ef6ff0cd981","type":"creates"},"9a03b19d-4030-4a54-9175-6e92f4ed1f17":{"to":"fcd32670-9179-4622-a76c-058d153354a0","type":"creates"},"43cceefb-d52c-4bb4-8086-3734618fe683":{"to":"47e4ad6c-ed92-44c2-9c3d-0c6f6b59a98f","type":"creates"},"d7de90df-f76c-42f9-8801-1bb7606441ec":{"to":"a48a2aa7-66cc-4a93-8694-69248372df0e","type":"creates"}}
 tmap.id: 49a398b1-5ed8-432c-9a21-57cd78ec50d6
 type: text/vnd.tiddlywiki
 
+<<image-left "big bang.jpg">>The Big Bang theory is the prevailing cosmological model for the universe from the earliest known periods through its subsequent large-scale evolution. The model describes how the universe expanded from a very high-density and high-temperature state, and offers a comprehensive explanation for a broad range of phenomena, including the abundance of light elements, the cosmic microwave background (CMB), large scale structure and Hubble's law. If the known laws of physics are extrapolated to the highest density regime, the result is a singularity which is typically associated with the Big Bang. 
+
+Physicists are undecided whether this means the universe began from a singularity, or that current knowledge is insufficient to describe the universe at that time. Detailed measurements of the expansion rate of the universe place the Big Bang at around 13.8 billion years ago, which is thus considered the age of the [[Universe]].
+
+After the initial expansion, the universe cooled sufficiently to allow the formation of subatomic particles, and later simple atoms. Giant clouds of these primordial elements later coalesced through gravity in halos of dark matter, eventually forming the stars and galaxies visible today.
+
+https://en.wikipedia.org/wiki/Big_Bang

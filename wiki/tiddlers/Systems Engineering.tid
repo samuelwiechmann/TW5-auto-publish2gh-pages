@@ -1,8 +1,13 @@
 created: 20180303145414637
-modified: 20180319092826756
+modified: 20180320115921299
 tags: applied science topic 3 engineering system
 title: Systems Engineering
 tmap.edges: {"9c5b3fef-273a-4be4-b725-493159102d74":{"to":"88aea68f-ddf8-48fd-9dba-cf78b0bf0537","type":"2:subclass of"}}
 tmap.id: edc54762-5ce1-4a42-b922-212a2417fa32
 type: text/vnd.tiddlywiki
 
+<<image-left "systems engineering.jpg">>Systems engineering is an interdisciplinary field of engineering and engineering management that focuses on how to design and manage complex systems over their life cycles. At its core, systems engineering utilizes systems thinking principles to organize this body of knowledge. 
+
+Issues such as requirements engineering, reliability, logistics, coordination of different teams, testing and evaluation, maintainability and many other disciplines necessary for successful system development, [[Design]], implementation, and ultimate decommission become more difficult when dealing with large or complex projects.
+
+https://en.wikipedia.org/wiki/Systems_engineering

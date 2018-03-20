@@ -1,8 +1,15 @@
-created: 20180313152321716
-modified: 20180319092227506
-tags: 4 formal science topic
+created: 20180320124059154
+modified: 20180320125230216
+tags: science formal
 title: Information theory
-tmap.edges: {"919cfbac-9119-4d98-8638-34e1a456a26f":{"to":"7cc4b9b1-fc88-4281-a2d7-e27ec6339b00","type":"studies"},"f924a884-0e00-442e-b700-44dc7105e8e9":{"to":"18fc1239-3b0c-4a48-9304-65e638dd271f","type":"2:subclass of"}}
-tmap.id: 21fe8e16-8550-4096-98dd-6c9a253b7505
+tmap.id: 2136f39d-9eca-418e-9201-54ff5f3eff16
 type: text/vnd.tiddlywiki
 
+Information theory studies the quantification, storage, and communication of information. It was originally proposed by Claude E. Shannon in 1948 to find fundamental limits on signal processing and communication operations such as data compression, in a landmark paper entitled "A Mathematical Theory of Communication". 
+(comment: Ludwig Boltzmann had come up with similar ideas almost half a century before, but could not find the last piece of the puzzle and thus ultimately despaired of his findings - he hanged himself on a summer holiday.)
+
+Applications of fundamental topics of information theory include lossless data compression (e.g. ZIP files), lossy data compression (e.g. MP3s and JPEGs), and channel coding (e.g. for digital subscriber line (DSL)).
+
+https://en.wikipedia.org/wiki/Information_theory
+
+A good read on this topic is Cesar Hidalgos book "How information grows", deutscher Titel: "Wachstum geht anders"

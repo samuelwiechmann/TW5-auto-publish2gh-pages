@@ -1,8 +1,15 @@
 created: 20180307162117702
-modified: 20180307163110942
+modified: 20180320115731601
 tags: 2 topic object physicalconcept
 title: Atoms
 tmap.edges: {"f2f8e755-92dc-45d6-80ca-cd7bf7259770":{"to":"940b9005-b141-4393-8a1c-9c8525bebd79","type":"form"}}
 tmap.id: 1f62b3c6-dc61-43f1-b427-eb0ba142300b
 type: text/vnd.tiddlywiki
 
+<<image-left "helium atom.PNG">>An atom is the smallest constituent unit of ordinary matter that has the properties of a chemical element. Every solid, liquid, gas, and plasma is composed of neutral or ionized atoms. Atoms are extremely small; typical sizes are around 100 picometers (a ten-billionth of a meter, in the short scale).
+
+Atoms are small enough that attempting to predict their behavior using classical physics – as if they were billiard balls, for example – gives noticeably incorrect predictions due to [[quantum effects|Quantum Mechanics]]. Through the development of physics, atomic models have incorporated quantum principles to better explain and predict the behavior.
+
+Every atom is composed of a nucleus and one or more electrons bound to the nucleus. The nucleus is made of one or more protons and typically a similar number of neutrons. Protons and neutrons are called nucleons. More than 99.94% of an atom's mass is in the nucleus. The protons have a positive electric charge, the electrons have a negative electric charge, and the neutrons have no electric charge. If the number of protons and electrons are equal, that atom is electrically neutral. If an atom has more or fewer electrons than protons, then it has an overall negative or positive charge, respectively, and it is called an ion.
+
+https://en.wikipedia.org/wiki/Atom
