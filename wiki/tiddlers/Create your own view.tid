@@ -1,0 +1,18 @@
+created: 20180320130032234
+modified: 20180320141629710
+tags: howto tiddlywiki
+title: Create your own view
+tmap.id: 4c19f629-f245-46c0-a8f8-e0ff048e3c2d
+type: text/vnd.tiddlywiki
+
+You can easily create a map that represents your own view. 
+
+To create your own view, first save a copy of this website by clicking the "save changes" button. Ideally, find your most convenient way to [[save future changes|https://tiddlywiki.com/#GettingStarted]].
+
+You can start with a template by selecting a view you like to start with (s4_topics for example). If you have selected the view you would like to start with or want to start with an empty canvas:
+
+Open the Map's Dropdown-Menu and select "Create new view". Clone or do not clone the active view. Rename it according to your name and project.
+
+You can then add new content, new edges and Configure the view via the Dropdown-Menu. If you're ready editing or need help you can [[send me an email|mailto:samuel.wiechmann@gmail.com]] with the html-file attached. I will then help you incorporate your view into the master file.
+
+
