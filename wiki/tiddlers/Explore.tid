@@ -1,5 +1,5 @@
 created: 20180307002349420
-modified: 20180319144535348
+modified: 20180320145059460
 tags: introduction howto tiddlywiki
 title: Explore
 tmap.id: 52f4d6c2-fdf7-4fc9-978d-ecea38b2e942
@@ -7,7 +7,8 @@ type: text/vnd.tiddlywiki
 
 You can explore content linked in the map by clicking a node. This opens the corresponding Tiddler where you can read about the content and navigate to the source website. Read more about [[Navigation]] or [[Content]].
 
-If you have trouble with the English language, I recommend using [[deepl|https://www.deepl.com/translator]] whenever you need to. But there is also a bit of [[German content]] to explore.
+If you have trouble with the English language, I recommend using [[deepl|https://www.deepl.com/translator]] whenever you need to. But there is also a bit of [[German content]] to explore. You can open the view [[s3_deutsch]].
+
 
 If you want to search for something, just use the search bar or invoke the [[Search function|$:/AdvancedSearch]] using the search icon.
 
