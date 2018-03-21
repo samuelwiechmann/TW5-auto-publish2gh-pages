@@ -1,0 +1,8 @@
+created: 20180321132605760
+modified: 20180321132716645
+priority: 1
+scope: [tag[view]]
+style: {"shape":"triangle","size":50,"color":{"background":"rgba(233,230,234,1)","border":"rgba(155,154,154,1)"}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/Views
+type: text/vnd.tiddlywiki
+

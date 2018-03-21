@@ -1,0 +1,8 @@
+created: 20180321125552397
+modified: 20180321131202224
+priority: 1
+scope: [tag[source]]
+style: {"shape":"square","size":40,"font":{"size":8},"color":{"background":"rgba(249,242,242,1)","border":"rgba(209,203,208,1)"}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/Source
+type: text/vnd.tiddlywiki
+

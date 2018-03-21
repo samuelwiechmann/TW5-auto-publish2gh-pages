@@ -1,8 +1,8 @@
 created: 20180315093857264
-modified: 20180317225515973
+modified: 20180321113506802
 priority: 1
 scope: [tag[content]tag[TED]] [tag[content]tag[TEDx]]
-style: {"shape":"dot","font":{"size":10},"color":{"border":"rgba(211,70,83,0.68)","background":"rgba(127,125,124,0.67)"},"borderWidth":1,"borderWidthSelected":2,"size":40}
+style: {"shape":"dot","font":{"size":10},"color":{"border":"rgba(211,70,83,0.68)","background":"rgba(127,125,124,0.67)"},"borderWidth":1,"borderWidthSelected":2}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/TEDtalk
 tw-icon: 
 type: text/vnd.tiddlywiki
