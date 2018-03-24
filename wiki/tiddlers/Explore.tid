@@ -1,5 +1,5 @@
 created: 20180307002349420
-modified: 20180324123459359
+modified: 20180324154153049
 tags: introduction howto tiddlywiki
 title: Explore
 tmap.id: 52f4d6c2-fdf7-4fc9-978d-ecea38b2e942
@@ -9,8 +9,8 @@ First, get an overview over the map. The nodes represent the following:
 
 |!Node-type |!What it is |
 | coloured Label|''Topic'' |
-| big Dot|''Content'' (I'd strongly recommend)|
-| small Dot|''Content'' (that's less relevant but still nice) |
+| big Dot|''Content'' (I'd strongly recommend watching)|
+| small Dot|''Content'' (that's less relevant but still good) |
 | triangle|''View'' (just like the map)|
 | square|''Source'' (like a radio stream)|
 
