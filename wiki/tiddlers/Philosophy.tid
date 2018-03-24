@@ -1,8 +1,8 @@
 created: 20180222130723901
-modified: 20180319140944255
+modified: 20180324110954480
 tags: topic humanities 2
 title: Philosophy
-tmap.edges: {"82adf46d-9bce-4b8c-8bf6-7b06d82a7aee":{"to":"b2353242-a4df-46d3-b4d6-8d2eaf25e27a","type":"invented"},"d858f217-d594-4ebb-a571-885293d30a61":{"to":"3e5c7fad-95e6-4ba9-9118-a2b2bd4c5867","type":"deals with"},"88928110-1362-4845-b8df-166574b168d0":{"to":"8b8b123b-38d5-4c66-8bfc-384a462b5cc7","type":"deals with"},"6801896a-60dc-4106-9a40-6aa5cb5e1dd2":{"to":"fc560a10-fc9c-468e-a34c-efe7864db9e1","type":"deals with"},"0e36e3f8-1033-48ec-9205-c00bd553c69b":{"to":"2bcf7eee-a02b-41a5-90c1-b1b0e94865d4","type":"deals with"},"d4bb6268-b751-46d8-881f-a51613e75c5a":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"deals with"},"2854df90-fd9e-4536-a401-e688593e30fb":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"1:subclass of"}}
+tmap.edges: {"82adf46d-9bce-4b8c-8bf6-7b06d82a7aee":{"to":"b2353242-a4df-46d3-b4d6-8d2eaf25e27a","type":"invented"},"d858f217-d594-4ebb-a571-885293d30a61":{"to":"3e5c7fad-95e6-4ba9-9118-a2b2bd4c5867","type":"deals with"},"88928110-1362-4845-b8df-166574b168d0":{"to":"8b8b123b-38d5-4c66-8bfc-384a462b5cc7","type":"deals with"},"6801896a-60dc-4106-9a40-6aa5cb5e1dd2":{"to":"fc560a10-fc9c-468e-a34c-efe7864db9e1","type":"deals with"},"0e36e3f8-1033-48ec-9205-c00bd553c69b":{"to":"2bcf7eee-a02b-41a5-90c1-b1b0e94865d4","type":"deals with"},"d4bb6268-b751-46d8-881f-a51613e75c5a":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"deals with"},"2854df90-fd9e-4536-a401-e688593e30fb":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"1:subclass of"},"e22ae621-0d54-4472-a80a-795a459f5334":{"to":"651a5bde-eefc-4903-94f6-b8e3d1b1eb38","type":"deals with"}}
 tmap.id: 95353a5a-1017-4513-8eaf-d97bee5b947a
 type: text/vnd.tiddlywiki
 

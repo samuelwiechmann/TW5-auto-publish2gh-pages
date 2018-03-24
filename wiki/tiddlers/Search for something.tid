@@ -1,0 +1,12 @@
+created: 20180324123251053
+modified: 20180324123447533
+tags: howto tiddlywiki
+title: Search for something
+tmap.id: c8fe97f3-9432-4f3e-9f8e-a5aef9eb6887
+type: text/vnd.tiddlywiki
+
+If you want to search this Wiki, just use the search bar or invoke the [[Search function|$:/AdvancedSearch]] using the search icon.
+
+If you want to find something inside the map, use the search icon in the top right corner.
+
+If you're searching something specific, say, content from the year 1985, you can also use the Filter search. Just enter [tag[1985]] in the Filter tab and it will give you all Tiddlers tagged with 1985. 

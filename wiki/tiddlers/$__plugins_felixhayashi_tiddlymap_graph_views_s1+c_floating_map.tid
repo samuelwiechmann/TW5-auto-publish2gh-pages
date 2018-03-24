@@ -1,5 +1,5 @@
 created: 20180301181023832
-modified: 20180320142716616
+modified: 20180322153025910
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s1+c_floating/map
 type: text/vnd.tiddlywiki
 
@@ -431,8 +431,8 @@ type: text/vnd.tiddlywiki
   "y": -1874
  },
  "8b8b123b-38d5-4c66-8bfc-384a462b5cc7": {
-  "x": -773,
-  "y": -2041
+  "x": 765,
+  "y": -1331
  },
  "672ce2a2-1f67-4ae5-a727-ad576a8ef707": {
   "x": -760,

@@ -1,5 +1,5 @@
 created: 20180301181023832
-modified: 20180321142747279
+modified: 20180324121316872
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s3_deutsch/map
 type: text/vnd.tiddlywiki
 
@@ -87,8 +87,8 @@ type: text/vnd.tiddlywiki
   "y": -570
  },
  "136bd070-5596-4f51-8cd2-39a427d7ef14": {
-  "x": 1763,
-  "y": 256
+  "x": 1785,
+  "y": -130
  },
  "b087a093-0194-4cc9-ba88-001b483abdea": {
   "x": 2319,
@@ -781,5 +781,13 @@ type: text/vnd.tiddlywiki
  "b6e97d44-a324-4a57-adc5-2ab2631df854": {
   "x": -139,
   "y": -1352
+ },
+ "62b89b12-57fb-471d-90c2-9f1b108a14b2": {
+  "x": 2005,
+  "y": -401
+ },
+ "0e3624e7-124f-4c22-bd99-2feb2684a842": {
+  "x": -61,
+  "y": 28
  }
 }
