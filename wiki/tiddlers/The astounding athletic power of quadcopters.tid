@@ -1,0 +1,12 @@
+created: 20180325120654085
+modified: 20180325121122908
+tags: content TED talk 2013 robotics flying
+title: The astounding athletic power of quadcopters
+tmap.edges: {"2668d438-fae5-47df-b708-6e7f1ad6c2ac":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"deals with"},"fafb1650-fea9-4a21-b18f-5d714b28a88f":{"to":"6e76801d-7ba7-4536-b3ee-ff1a26e6bb6b","type":"deals with"},"f711b506-d2f2-4746-bf69-4d18df930c0e":{"to":"6078dd0f-2fa1-4090-861c-9359deb3a8e4","type":"deals with"}}
+tmap.id: 1e8833a5-31f7-40cb-b01c-bddf5cda64c7
+type: text/vnd.tiddlywiki
+
+<<image-left "the astounding athletic power of quadcopters.PNG">>"""[[The astounding athletic power of quadcopters|https://www.ted.com/talks/raffaello_d_andrea_the_astounding_athletic_power_of_quadcopters?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare]]
+''Raffaello D'Andrea | 2013 | TED | 16 min''
+
+In a robot lab at TEDGlobal, Raffaello D'Andrea demos his flying quadcopters: robots that think like athletes, solving physical problems with algorithms that help them learn. In a series of nifty demos, D'Andrea show drones that play catch, balance and make decisions together -- and watch out for an I-want-this-now demo of Kinect-controlled quads.
