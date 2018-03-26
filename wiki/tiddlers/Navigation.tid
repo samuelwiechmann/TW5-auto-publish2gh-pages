@@ -1,14 +1,21 @@
 created: 20180316144945749
-modified: 20180324122341199
+modified: 20180326220148412
 tags: howto tiddlywiki
 title: Navigation
 tmap.id: ab6f4390-bf9f-43fe-89be-8de8d52c59fb
 type: text/vnd.tiddlywiki
 
+Navigating the map can be quite easy:
+
 # get an overview of the topics 
 # find out which topics you are interested in 
 # zoom in
 # find connections
+# explore connections
+# explore neighbouring topics
+
 If you are interested in the brain and quantum theory, for example, you will also be interested in the article about the quantum brain located exactly between the two topics.
+
+Furthermore, it's often no coincidence when pieces of content are close to each other. Jill Bolte Tayler next to Neurology is close to Andy Clark because they link to topics in the same area, but they also share a similar kind of view.
 
 To give feedback on your Navigation experience or this explanation you can use this [[Google Form]].

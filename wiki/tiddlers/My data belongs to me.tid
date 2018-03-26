@@ -1,5 +1,5 @@
 created: 20180320145620962
-modified: 20180324154438001
+modified: 20180326220705225
 tags: documentation ideas
 title: My data belongs to me
 tmap.id: d631f6d0-fb78-402e-af81-a31ef6587666
@@ -9,4 +9,4 @@ I don't want to have my bookmarks managed by Evernote or Google. This would mean
 
 But I want to have the content right on my computer under my control, also when I'm offline.
 
-~TiddlyWiki allows this with greater flexibility than everything else.
+[[TiddlyWiki|https://tiddlywiki.com/]] allows this with greater flexibility than everything else.
