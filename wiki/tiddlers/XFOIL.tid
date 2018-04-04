@@ -1,0 +1,31 @@
+created: 20180404065724412
+modified: 20180404070124907
+tags: content tool mit aerodynamics freeware
+title: XFOIL
+tmap.edges: {"5eb5a7d6-0865-4462-9d28-8bdf21ff1aaa":{"to":"e17b93b9-e44a-4a48-a5c7-dc8291661978","type":"deals with"}}
+tmap.id: 24471ad5-492a-477d-a400-84861b6b7405
+type: text/vnd.tiddlywiki
+
+[[XFOIL|http://web.mit.edu/drela/Public/web/xfoil/]] is an interactive program for the design and analysis of subsonic isolated airfoils. 
+It consists of a collection of menu-driven routines which perform various useful functions such as:
+
+* Viscous (or inviscid) analysis of an existing airfoil, allowing
+** forced or free transition
+** transitional separation bubbles
+** limited trailing edge separation
+** lift and drag predictions just beyond CLmax
+** Karman-Tsien compressibility correction
+** fixed or varying Reynolds and/or Mach numbers
+* Airfoil design and redesign by interactive modification of surface speed distributions, in two methods:
+** Full-Inverse method, based on a complex-mapping formulation
+** Mixed-Inverse method, an extension of XFOIL's basic panel method
+* Airfoil redesign by interactive modification of geometric parameters such as
+** max thickness and camber, highpoint position
+** LE radius, TE thickness
+** camber line via geometry specification
+** camber line via loading change specification
+** flap deflection
+** explicit contour geometry (via screen cursor)
+** Blending of airfoils
+** Writing and reading of airfoil coordinates and polar save files
+** Plotting of geometry, pressure distributions, and multiple polars

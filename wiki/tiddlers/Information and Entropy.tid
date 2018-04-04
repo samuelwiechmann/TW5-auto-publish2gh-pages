@@ -1,0 +1,13 @@
+created: 20180404075531405
+modified: 20180404085325427
+tags: content science information entropy 1 samuel
+title: Information and Entropy
+tmap.edges: {"ce270d55-7126-4bc8-b1ae-e7c6cdd975fc":{"to":"7cc4b9b1-fc88-4281-a2d7-e27ec6339b00","type":"deals with"},"2fc74343-72d8-478d-8704-bd64f0458579":{"to":"318382e5-829e-4938-9ac1-ef5fbe61c151","type":"deals with"}}
+tmap.id: a625b47e-0eea-4668-82bf-280d81cca3b9
+type: text/vnd.tiddlywiki
+
+Information in the sense that Shannon used it was a thing reducing uncertainty. If you want to describe a system in every detail, the information you need to describe its state depends on the number of states the system can be in. The more possible states, the higher the entropy and the higher the amount of information you need to describe it. So technically or physically, order or structure decreases information. This is also why logical operations like mathematical calculations come so easy to computers, but complex, chaotic tasks like walking on loose sand are still very difficult for robots to do.
+
+__The interesting question now is:__ How can living beings decrease entropy to create order and structure when one of the most stable physical laws, the second law of Thermodynamics states that the total entropy of an isolated system can never decrease over time?
+
+__The answer might be:__ living beings are not closed systems. They are open systems taking in energy and exporting entropy into their environment. So in a sense they may serve the second law of thermodynamics by converting energy into entropy even faster.

@@ -1,5 +1,5 @@
 created: 20180301181023832
-modified: 20180326214512416
+modified: 20180404094551597
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s3/map
 type: text/vnd.tiddlywiki
 
@@ -1199,5 +1199,9 @@ type: text/vnd.tiddlywiki
  "f6ad6529-1281-45ed-8826-be8c2e9353f9": {
   "x": -1802,
   "y": -719
+ },
+ "24471ad5-492a-477d-a400-84861b6b7405": {
+  "x": 1917.4508004357922,
+  "y": -656.5794764833548
  }
 }

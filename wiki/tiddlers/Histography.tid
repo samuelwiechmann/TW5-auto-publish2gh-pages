@@ -1,0 +1,14 @@
+created: 20180404080925732
+modified: 20180404081321291
+tags: content website time 1
+title: Histography
+tmap.edges: {"738d7cf1-ea0f-4cd1-af35-13b2cee851c4":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"deals with"},"01f95570-8459-4f77-9c58-dfa3e6ed4379":{"to":"cf4e8d4d-c678-41b4-ade8-e1f442290549","type":"deals with"}}
+tmap.id: 9218e47a-7882-4586-a52e-4a2778b9dc31
+type: text/vnd.tiddlywiki
+
+[[“Histography" is interactive timeline|https://histography.io/]] that spans across 14 billion years of history, from the Big Bang to 2015.
+The site draws historical events from Wikipedia and self-updates daily with new recorded events.
+The interface allows for users to view between decades to millions of years.
+The viewer can choose to watch a variety of events which have happened in a particular period or to target a specific event in time. For example you can look at the past century within the categories of war and inventions.
+
+Histography was created as a final project in Bezalel Academy of Arts and Design.
