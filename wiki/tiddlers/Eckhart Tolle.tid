@@ -1,8 +1,8 @@
 created: 20180612180647851
-modified: 20180612180713558
+modified: 20180612180852034
 tags: person teacher author
 title: Eckhart Tolle
-tmap.edges: {"fe4f1ef2-f804-4715-a820-9738fe6968bc":{"to":"5c0a622f-629f-4f67-b0d1-e86e75b6c4c8","type":"talks"},"a94a3188-0e18-45de-8fca-0d75910dd3f8":{"to":"bc33c79f-3bff-484e-b834-95d2ecb4eade","type":"talks"},"815dae6a-92a2-4986-a5df-5fb132922737":{"to":"1d9983cf-4b6f-4cb5-bed9-27b0c4dc467a","type":"talks"}}
+tmap.edges: {"fe4f1ef2-f804-4715-a820-9738fe6968bc":{"to":"5c0a622f-629f-4f67-b0d1-e86e75b6c4c8","type":"talks"},"a94a3188-0e18-45de-8fca-0d75910dd3f8":{"to":"bc33c79f-3bff-484e-b834-95d2ecb4eade","type":"talks"},"815dae6a-92a2-4986-a5df-5fb132922737":{"to":"1d9983cf-4b6f-4cb5-bed9-27b0c4dc467a","type":"talks"},"4abd4c9a-44ed-4aa9-94b4-08e2e573626b":{"to":"9e734e31-1c06-44a8-9a06-e51f1a734956","type":"teaches"}}
 tmap.id: e0d541b4-5b1a-4615-8d15-ecc07d70ee13
 type: text/vnd.tiddlywiki
 
