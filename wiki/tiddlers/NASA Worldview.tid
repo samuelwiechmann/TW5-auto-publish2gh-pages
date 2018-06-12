@@ -1,0 +1,12 @@
+created: 20180612171511945
+modified: 20180612171749529
+tags: source 1 world earth
+title: NASA Worldview
+tmap.edges: {"ac22eed5-d4a9-4943-a93e-f0f863f19e08":{"to":"4a18ddcd-acb8-4b43-91c7-3c68e93f2c64","type":"shows"}}
+tmap.id: 40bcad09-ff6e-413e-9f9b-a898099642c9
+type: text/vnd.tiddlywiki
+
+"""[[NASA Worldview|https://worldview.earthdata.nasa.gov]]
+
+This application allows you to interactively browse global satellite imagery within hours of it being acquired.
+
