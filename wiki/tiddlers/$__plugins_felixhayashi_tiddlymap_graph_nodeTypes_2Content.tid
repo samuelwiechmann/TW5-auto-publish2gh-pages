@@ -1,7 +1,7 @@
 created: 20180321112838210
-modified: 20180321112954964
+modified: 20180611123018416
 priority: 1
-scope: [tag[content]tag[2]]
+scope: [tag[content]tag[2]] [tag[content4]tag[2]]
 style: {"shape":"dot","size":60,"font":{"size":10}}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/2Content
 type: text/vnd.tiddlywiki

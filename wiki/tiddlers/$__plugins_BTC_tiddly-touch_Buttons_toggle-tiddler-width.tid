@@ -2,7 +2,7 @@ caption: {{$:/plugins/BTC/tiddly-touch/icons!!columns-6}} cycle through 6 tiddle
 created: 20180120144951684
 description: cycle through 6 different widths for the current tiddler
 list: 6 5 4 3 2 1 0
-modified: 20180317181137255
+modified: 20180610100206220
 title: $:/plugins/BTC/tiddly-touch/Buttons/toggle-tiddler-width
 type: text/vnd.tiddlywiki
 
