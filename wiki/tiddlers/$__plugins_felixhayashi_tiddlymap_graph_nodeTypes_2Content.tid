@@ -1,6 +1,6 @@
 created: 20180321112838210
-modified: 20180611123018416
-priority: 1
+modified: 20180613150445612
+priority: 2
 scope: [tag[content]tag[2]] [tag[content4]tag[2]]
 style: {"shape":"dot","size":60,"font":{"size":10}}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/2Content
