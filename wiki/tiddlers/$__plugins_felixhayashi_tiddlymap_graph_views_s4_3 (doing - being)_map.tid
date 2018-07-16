@@ -1,0 +1,39 @@
+created: 20180617221428268
+modified: 20180617221428268
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/s4_3 (doing - being)/map
+type: text/vnd.tiddlywiki
+
+{
+ "7d8914d0-eceb-4cd5-bbf0-f9051619cc00": {
+  "x": 1199,
+  "y": 132
+ },
+ "2eb787cd-cae4-4f26-92dc-688331cc1c3d": {
+  "x": 2121,
+  "y": 55
+ },
+ "b1271f6a-3354-4f3f-be52-7f99f549940e": {
+  "x": 1413,
+  "y": -951
+ },
+ "dc5460e0-ca68-42b0-b996-45503fa7873e": {
+  "x": 2524,
+  "y": -605
+ },
+ "ab481b03-2b6d-4f7f-a99a-d435b4a7cb87": {
+  "x": -599,
+  "y": -96
+ },
+ "a5bca572-73e4-4ad4-b911-eefa6638bd91": {
+  "x": 3079,
+  "y": 171
+ },
+ "d3b83e12-a60c-4c67-b354-98448db10bcf": {
+  "x": 84,
+  "y": -1198
+ },
+ "e55ae9b8-303e-47b4-ac50-7a1c2c10a8f2": {
+  "x": 256,
+  "y": 85
+ }
+}

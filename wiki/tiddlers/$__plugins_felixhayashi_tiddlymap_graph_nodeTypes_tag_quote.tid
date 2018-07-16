@@ -1,0 +1,8 @@
+created: 20180619232117042
+modified: 20180619232144077
+priority: 1
+scope: [tag[quote]]
+style: {"color":{"border":"rgba(84,81,82,1)","background":"rgba(252,247,245,0.47)"}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:quote
+type: text/vnd.tiddlywiki
+

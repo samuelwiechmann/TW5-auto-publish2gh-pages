@@ -1,0 +1,11 @@
+config.background_image: 
+config.physics_mode: false
+config.raster: 
+config.vis: {"edges":{"font":{"size":18,"align":"middle","strokeWidth":0},"smooth":{"type":"continuous","roundness":0.05,"forceDirection":"none"},"color":{"color":"rgba(198,198,198,1)","highlight":"rgba(99,99,99,1)","hover":"rgba(153,153,153,1)"}},"nodes":{"shadow":{"enabled":false}},"physics":{"forceAtlas2Based":{"damping":0.25,"springConstant":0.05,"gravitationalConstant":-149,"springLength":80,"centralGravity":0.005}}}
+created: 20180301181023522
+id: 0e6bc074-557e-4fc8-ad54-e19255bec570
+isview: true
+modified: 20180716095139637
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5_experimental_topics
+type: text/vnd.tiddlywiki
+

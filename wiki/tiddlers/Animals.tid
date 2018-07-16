@@ -1,8 +1,8 @@
 created: 20180228232514845
-modified: 20180318105835114
+modified: 20180715192848307
 tags: organism 1 topic nature life
 title: Animals
-tmap.edges: {"f4f9496f-3ba9-4004-bbcc-eb596aad3968":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"subclass of"},"e229edaf-b44a-4689-a4e5-87d6099f945f":{"to":"e1c604fc-8332-4520-b622-e6efdeeadd21","type":"eat"},"11cbfdca-c67f-487b-aadc-38f1f876efc1":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"part of"}}
+tmap.edges: {"f4f9496f-3ba9-4004-bbcc-eb596aad3968":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"subclass of"},"e229edaf-b44a-4689-a4e5-87d6099f945f":{"to":"e1c604fc-8332-4520-b622-e6efdeeadd21","type":"eat"},"11cbfdca-c67f-487b-aadc-38f1f876efc1":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"part of"},"82dd6a75-e949-42f7-a315-06381496bd50":{"to":"ab481b03-2b6d-4f7f-a99a-d435b4a7cb87","type":"experience"},"690a384a-7fd0-4599-8224-16c83a2e4979":{"to":"66ce4148-6b94-48ca-b386-37104717b6b3","type":"experience"}}
 tmap.id: ae48562b-93dc-4627-898e-5b359e628b93
 type: text/vnd.tiddlywiki
 

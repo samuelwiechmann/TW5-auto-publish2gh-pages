@@ -1,10 +1,11 @@
 created: 20180611122606181
 list: 
-modified: 20180612201013442
+modified: 20180715182454640
 tags: s4 2 2018 article medium content
 title: A Few Principles for Intellectual Freedom
-tmap.edges: {"b5a2850d-b7db-4483-b9f0-efec465e16e3":{"to":"d9467f63-1f70-42d5-beff-b85f4881385f","type":"links to "},"4508a353-f6c7-45c8-829d-8b0e5f9065eb":{"to":"cc0e2de2-014b-49c0-9fd9-0ab03284cac0","type":"deals with"},"794ce0e1-8bb2-40a1-8988-02260b3701a0":{"to":"66ce4148-6b94-48ca-b386-37104717b6b3","type":"dealw with"}}
+tmap.edges: {"b5a2850d-b7db-4483-b9f0-efec465e16e3":{"to":"d9467f63-1f70-42d5-beff-b85f4881385f","type":"links to "},"4508a353-f6c7-45c8-829d-8b0e5f9065eb":{"to":"cc0e2de2-014b-49c0-9fd9-0ab03284cac0","type":"deals with"},"794ce0e1-8bb2-40a1-8988-02260b3701a0":{"to":"66ce4148-6b94-48ca-b386-37104717b6b3","type":"dealw with"},"682a0dc6-885c-47da-b19c-4a1ccc6dd321":{"to":"2eb787cd-cae4-4f26-92dc-688331cc1c3d","type":"deals with"},"0d8d4b41-5ae0-4afd-80f2-1961cc912956":{"to":"cb82f812-b9fd-4921-94ca-085fd9d16cbf","type":"deals with"},"42dce4dd-3c1d-4c49-9024-24e8c418563c":{"to":"a9898087-8244-4107-a94b-dbc5fad935c7","type":"deals with"}}
 tmap.id: 065f5aeb-b506-4fc8-b2df-82855ae2d235
+tmap.style: {"font":{"size":12}}
 type: text/vnd.tiddlywiki
 
 """[[A Few Principles for Intellectual Freedom|https://medium.com/the-polymath-project/a-few-principles-for-intellectual-freedom-c1bb5614fa4c]]

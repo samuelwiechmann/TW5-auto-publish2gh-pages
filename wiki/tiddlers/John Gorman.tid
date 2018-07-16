@@ -1,8 +1,8 @@
 created: 20180612175901297
-modified: 20180613144548997
+modified: 20180621193717685
 tags: person author s4
 title: John Gorman
-tmap.edges: {"1ee09938-25ca-48ca-8462-fb5da38b310d":{"to":"f691afb8-5ad8-4568-a376-e9480485fa32","type":"wrote"},"e510b1fe-4799-49be-baae-4747cf5a7b9b":{"to":"25e7cbd9-2f0e-41a7-88a4-685d10d15a8f","type":"wrote"},"cc6f690c-af62-4f00-ad7d-b9ec12cf1ee3":{"to":"674cfe42-68e7-44a3-b418-0d76291ee3f1","type":"wrote"},"5acff76a-3df0-41ac-acad-d1db4f0bf9fb":{"to":"c7052745-127c-44f3-a88d-d910db3c94ef","type":"wrote"},"b8bc65ac-8f48-4d3d-90f3-283774c7bbe2":{"to":"38e24b4e-e104-4498-991b-86c3262be4aa","type":"wrote"},"b680e13a-b235-4931-881e-161c70970123":{"to":"27a11c9d-ab61-4f5d-ae63-4587e2626df3","type":"wrote"}}
+tmap.edges: {"1ee09938-25ca-48ca-8462-fb5da38b310d":{"to":"f691afb8-5ad8-4568-a376-e9480485fa32","type":"wrote"},"e510b1fe-4799-49be-baae-4747cf5a7b9b":{"to":"25e7cbd9-2f0e-41a7-88a4-685d10d15a8f","type":"wrote"},"cc6f690c-af62-4f00-ad7d-b9ec12cf1ee3":{"to":"674cfe42-68e7-44a3-b418-0d76291ee3f1","type":"wrote"},"5acff76a-3df0-41ac-acad-d1db4f0bf9fb":{"to":"c7052745-127c-44f3-a88d-d910db3c94ef","type":"wrote"},"b8bc65ac-8f48-4d3d-90f3-283774c7bbe2":{"to":"38e24b4e-e104-4498-991b-86c3262be4aa","type":"wrote"},"b680e13a-b235-4931-881e-161c70970123":{"to":"27a11c9d-ab61-4f5d-ae63-4587e2626df3","type":"wrote"},"970ea907-8b5d-4b18-b364-1707b0cf6399":{"to":"a5ecadca-e51a-4fe3-89cd-1008cf1e2fbc","type":"wrote"}}
 tmap.id: 4a5afe81-8756-4f08-8ca9-bd58c43c712d
 type: text/vnd.tiddlywiki
 
