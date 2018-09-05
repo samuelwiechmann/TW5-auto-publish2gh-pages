@@ -1,8 +1,8 @@
 created: 20180301152159896
-modified: 20180320125439582
+modified: 20180903174456724
 tags: science topic 4 physical
 title: Chemistry
-tmap.edges: {"ee0cd97b-a110-43f3-989f-57c6f3a062fd":{"to":"87f94bb0-7d28-412f-a5eb-7a0bcf671fc5","type":"2:subclass of"},"fade4263-dbb8-4288-a841-634d7ed15ed6":{"to":"5a034110-32cc-4050-915c-b866d3273012","type":"foundation of"}}
+tmap.edges: {"ee0cd97b-a110-43f3-989f-57c6f3a062fd":{"to":"87f94bb0-7d28-412f-a5eb-7a0bcf671fc5","type":"2:subclass of"}}
 tmap.id: 492ae937-3efc-494b-8973-72f01ca74f31
 type: text/vnd.tiddlywiki
 

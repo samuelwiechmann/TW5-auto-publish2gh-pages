@@ -1,8 +1,8 @@
 created: 20180307164457166
-modified: 20180321125853757
+modified: 20180903003115840
 tags: 2 humanconcept
 title: Mind
-tmap.edges: {"2fdc4e97-f63f-45d1-b055-594b18a5c0ee":{"to":"cb82f812-b9fd-4921-94ca-085fd9d16cbf","type":"can experience"},"2d9980c4-7d36-4b56-a474-7ea29370ffb8":{"to":"bfd159dc-ffd4-45a6-b65a-406a372d00e0","type":"perceive"},"e5a3064e-16a5-4b1f-ba8e-e3901fef9f80":{"to":"6078dd0f-2fa1-4090-861c-9359deb3a8e4","type":"able of"}}
+tmap.edges: {"2d9980c4-7d36-4b56-a474-7ea29370ffb8":{"to":"bfd159dc-ffd4-45a6-b65a-406a372d00e0","type":"perceive"}}
 tmap.id: 3e5c7fad-95e6-4ba9-9118-a2b2bd4c5867
 type: text/vnd.tiddlywiki
 

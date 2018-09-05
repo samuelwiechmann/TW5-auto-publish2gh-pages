@@ -1,5 +1,5 @@
 created: 20180301181023832
-modified: 20180830150812013
+modified: 20180903002632936
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5/map
 type: text/vnd.tiddlywiki
 
@@ -1216,10 +1216,6 @@ type: text/vnd.tiddlywiki
   "x": 765,
   "y": 3674
  },
- "d3b83e12-a60c-4c67-b354-98448db10bcf": {
-  "x": -180,
-  "y": 3455
- },
  "a5bca572-73e4-4ad4-b911-eefa6638bd91": {
   "x": -877,
   "y": 3955
@@ -1239,14 +1235,6 @@ type: text/vnd.tiddlywiki
  "7d8914d0-eceb-4cd5-bbf0-f9051619cc00": {
   "x": 265,
   "y": 2891
- },
- "b1271f6a-3354-4f3f-be52-7f99f549940e": {
-  "x": 82,
-  "y": 3996
- },
- "ab481b03-2b6d-4f7f-a99a-d435b4a7cb87": {
-  "x": 292,
-  "y": 2403
  },
  "dc5460e0-ca68-42b0-b996-45503fa7873e": {
   "x": -465,
@@ -1499,5 +1487,6 @@ type: text/vnd.tiddlywiki
  "e082da5a-390f-46f1-b852-1d6ac745e72d": {
   "x": -224.69957523598904,
   "y": 888.4566700456513
- }
+ },
+ "99e20305-4fd3-4922-b9d2-be4a85cad21d": {}
 }

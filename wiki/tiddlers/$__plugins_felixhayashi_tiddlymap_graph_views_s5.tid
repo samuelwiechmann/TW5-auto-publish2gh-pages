@@ -1,11 +1,12 @@
 config.background_image: 
+config.neighbourhood_scope: 
 config.physics_mode: true
 config.raster: 
-config.vis: {"edges":{"font":{"size":8,"align":"top","strokeWidth":0},"smooth":{"type":"continuous","roundness":0.05,"forceDirection":"none"},"color":{"color":"rgba(147,147,147,1)","highlight":"rgba(99,99,99,1)","hover":"rgba(124,124,124,1)"},"width":6},"nodes":{"shadow":{"enabled":false}},"physics":{"forceAtlas2Based":{"centralGravity":0.01,"springLength":50,"damping":0.19,"gravitationalConstant":-500,"springConstant":0.01}}}
+config.vis: {"edges":{"font":{"size":8,"align":"top","strokeWidth":0},"smooth":{"type":"continuous","roundness":0.05,"forceDirection":"none"},"color":{"color":"rgba(147,147,147,1)","highlight":"rgba(201,96,96,1)","hover":"rgba(124,124,124,1)"},"width":6},"nodes":{"shadow":{"enabled":false}},"physics":{"forceAtlas2Based":{"centralGravity":0.01,"springLength":50,"damping":0.19,"gravitationalConstant":-500,"springConstant":0.01}}}
 created: 20180301181023522
 id: df77b70f-268e-448f-a685-231fbc624a06
 isview: true
-modified: 20180716115915988
+modified: 20180903140948802
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5
 type: text/vnd.tiddlywiki
 

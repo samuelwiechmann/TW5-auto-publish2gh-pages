@@ -1,17 +1,20 @@
 created: 20180307002349420
-modified: 20180404081844354
+modified: 20180905211458638
 tags: introduction howto tiddlywiki
 title: Explore
 tmap.id: 52f4d6c2-fdf7-4fc9-978d-ecea38b2e942
 type: text/vnd.tiddlywiki
 
-"""
 If you want to follow the course I wandered on for the last few months, you can read [[Linear Course One]].
 
 If you want to dive right into the map, do it!
-First, get an overview over the map. 
-Find the topics that are of interest to you, zoom in and explore the content. 
-The nodes represent the following:"""
+
+# Get an overview over the map. 
+# Find the topics that are of interest to you
+# Zoom in 
+# Explore the content. 
+
+The nodes represent the following type of content:
 
 |!Node-type |!What it is |
 | coloured Label|''Topic'' |
