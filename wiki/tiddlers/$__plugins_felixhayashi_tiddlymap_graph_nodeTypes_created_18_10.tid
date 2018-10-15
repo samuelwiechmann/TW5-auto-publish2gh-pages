@@ -1,0 +1,8 @@
+created: 20181015202441490
+modified: 20181015202443335
+priority: 1
+scope: [field:created/^201810/] 
+style: {"color":{"background":"rgba(252,163,163,1)","border":"rgba(127,119,122,1)"},"font":{"size":52},"size":166,"shape":"dot"}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/created:18/10
+type: text/vnd.tiddlywiki
+

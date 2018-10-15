@@ -1,7 +1,7 @@
 caption: {{$:/plugins/BTC/tiddly-touch/icons!!format-align-right}} align tiddlers to the left or the right
 created: 20171224144532966
 description: align tiddlers to the left or the right
-modified: 20180610100206294
+modified: 20181001162657112
 tags: $:/tags/LeftBar
 title: $:/plugins/BTC/tiddly-touch/Buttons/swap-tiddler-alignment-left-right
 type: text/vnd.tiddlywiki

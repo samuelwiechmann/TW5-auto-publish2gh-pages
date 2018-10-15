@@ -1,4 +1,4 @@
-adjacent-tiddler-width: yes
+adjacent-tiddler-width: no
 adjacent-tiddler-width-user: no
 align-bottom: no
 align-bottom-user: yes
@@ -9,20 +9,20 @@ animation-duration: 400
 child-class: tc-tiddler-frame
 column-count: 3
 created: 20171223072521383
-drag-enabled: no
+drag-enabled: yes
 drag-sort: yes
 drag-sort-action: move
 drag-sort-action-user: yes
 drag-sort-threshold: 40
-fill-gaps: no
+fill-gaps: yes
 fill-gaps-user: no
 hide-controls: no
 hide-duration: 200
 hide-leftbar: no
 hide-tags: no
 hide-titles: no
-modified: 20180610100206312
-muuri-list: Start [[Introduction Two]]
+modified: 20181001162656660
+muuri-list: [[The map s5]] [[A New Spin on the Quantum Brain]] World Academia [[The best stats you‘ve ever seen]] [[My stroke of insight]]
 muuri-view: no
 muuri-view-pagetemplate: $:/plugins/BTC/tiddly-touch/PageTemplate/muuri
 previous-sidebar: 
@@ -36,7 +36,7 @@ sidebar-new-window: no
 slider-width-value: 58
 spreadsheet-view: no
 tiddler-opacity: e6
-tiddly-list: [[I don‘t want children]] Start [[Introduction Two]]
+tiddly-list: Hello [[The map s5]] [[Linear Course One]]
 tiddly-previous-sidebar: yes
 tiddly-previous-view: 
 tiddly-sidebar-layout: fluid-fixed

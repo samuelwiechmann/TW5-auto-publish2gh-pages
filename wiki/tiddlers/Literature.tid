@@ -1,8 +1,8 @@
 created: 20180301194107228
-modified: 20180319131255280
+modified: 20181015091909529
 tags: topic humanities 2 arts
 title: Literature
-tmap.edges: {"b699e74f-7446-499e-828e-2f25c7b73ed4":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"subclass of"},"cd601904-6c90-4436-bb95-d527525ddee3":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"2:subclass of"},"da836e92-f4e4-4452-a386-334219c64112":{"to":"8b8b123b-38d5-4c66-8bfc-384a462b5cc7","type":"uses"}}
+tmap.edges: {"b699e74f-7446-499e-828e-2f25c7b73ed4":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"subclass of"},"cd601904-6c90-4436-bb95-d527525ddee3":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"2:subclass of"},"da836e92-f4e4-4452-a386-334219c64112":{"to":"8b8b123b-38d5-4c66-8bfc-384a462b5cc7","type":"uses"},"a6b8c9de-887c-4dcd-8bf5-ef63aedbbf4c":{"to":"3f476eab-5e7e-435f-894a-e76cc828b3f0","type":"deals with"}}
 tmap.id: 0561d7b8-21ea-42ac-864b-831a5b9b4dea
 type: text/vnd.tiddlywiki
 

@@ -1,8 +1,8 @@
 created: 20180902122917959
-modified: 20180903181528659
+modified: 20181014223509630
 tags: biology content lecture stanford 2011 1
 title: 1. Introduction to Human Behavioral Biology
-tmap.edges: {"1afb41bf-2d6e-4ab0-a2d1-8c038399a3e5":{"to":"7f143bab-0fac-48b3-ba1c-c7fc5dfc5d09","type":"deals with"},"b334cc9e-42e3-4533-aced-042d40cbe316":{"to":"4660a315-efa4-4b12-bae4-477188f06b2a","type":"deals with"},"21f91d06-5d55-479c-83d4-5234c145165a":{"to":"4cabe8fb-9b56-4cd2-9b92-12af4d8f3ba5","type":"precedes"},"9e3e1cd3-c416-4d2c-845e-c81c5edeaf6c":{"to":"2793b4a9-39d6-477b-97b9-76abff74b6e3","type":"deals with"}}
+tmap.edges: {"1afb41bf-2d6e-4ab0-a2d1-8c038399a3e5":{"to":"7f143bab-0fac-48b3-ba1c-c7fc5dfc5d09","type":"deals with"},"b334cc9e-42e3-4533-aced-042d40cbe316":{"to":"4660a315-efa4-4b12-bae4-477188f06b2a","type":"deals with"},"21f91d06-5d55-479c-83d4-5234c145165a":{"to":"4cabe8fb-9b56-4cd2-9b92-12af4d8f3ba5","type":"precedes"},"9e3e1cd3-c416-4d2c-845e-c81c5edeaf6c":{"to":"2793b4a9-39d6-477b-97b9-76abff74b6e3","type":"deals with"},"3d19e4b9-c23b-4782-8bbe-3207d970b71a":{"to":"3867af06-6a64-4ad7-ac40-f0998f9c4958","type":"deals with"},"e7a79305-fcab-4d92-949d-b8c403eb10ec":{"to":"084e8f3b-6f69-42de-96ef-2b812b768912","type":"deals with"}}
 tmap.id: 99e20305-4fd3-4922-b9d2-be4a85cad21d
 tmap.style: {}
 type: text/vnd.tiddlywiki
