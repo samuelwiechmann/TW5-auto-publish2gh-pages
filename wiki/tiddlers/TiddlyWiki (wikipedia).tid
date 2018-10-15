@@ -1,0 +1,16 @@
+created: 20181015220804145
+modified: 20181015221103766
+tags: information
+title: TiddlyWiki (wikipedia)
+tmap.id: 2da72af4-df00-4a1b-9e24-a10c46f15376
+type: text/vnd.tiddlywiki
+
+TiddlyWiki Is a personal wiki and a non-linear notebook for organising and sharing complex information. It is an open-source single page application wiki in the form of a single HTML file that includes CSS, JavaScript, and the content. It is designed to be easy to customize and re-shape depending on application. It facilitates re-use of content by dividing it into small pieces called Tiddlers.
+
+[[https://en.wikipedia.org/wiki/TiddlyWiki]]
+
+
+[[TiddlyWiki|https://tiddlywiki.com/]] ist eine JavaScript-Anwendung, die ein Wiki innerhalb eines einzelnen HTML-Dokuments realisiert.
+Ein leeres TiddlyWiki hat inklusive des eingebundenen JavaScript- und CSS-Codes eine Größe von etwa 1,5 Megabyte (Version 5.1.11). Es wird durch JavaScript gesteuert und benötigt keine Serveranwendung – sämtliche Änderungen werden innerhalb des Dokuments gespeichert. Dadurch eignet es sich hervorragend als portable Informationssammlung, die in allen Browsern, auf allen Betriebssystemen geöffnet, bearbeitet und gespeichert werden kann.
+
+[[https://de.wikipedia.org/wiki/TiddlyWiki]]
