@@ -1,0 +1,25 @@
+caption: Contents
+created: 20181015220348939
+list-after: $:/core/ui/SideBar/Open
+modified: 20181016032847694
+tags: 0
+title: Table of Contents
+tmap.id: cdf07743-9b0d-44f2-858d-4a73cc746b5e
+type: text/vnd.tiddlywiki
+
+This is a Table of Contents with internal tabs.
+For a Table of Contents that opens separate Tiddlers, go to [[Table of Contents 2]] or to the Contents tab in the sidebar.
+
+
+<div class="tc-table-of-contents">
+
+<$macrocall
+	$name="toc-tabbed-external-nav"
+	tag="0"
+	selectedTiddler="$:/temp/toc/selectedTiddler"
+	unselectedText="<p>Select a topic in the table of contents. Click the arrow to expand a topic.</p>"
+	missingText="<p>Missing tiddler.</p>"
+/>
+
+
+</div>

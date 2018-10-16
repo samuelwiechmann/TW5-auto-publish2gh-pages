@@ -1,7 +1,7 @@
 caption: {{$:/core/images/down-arrow}} {{$:/language/Buttons/More/Caption}} //muuri custom//
 created: 20180119092120527
 description: {{$:/language/Buttons/More/Hint}} made with love for muuri
-modified: 20181001162656891
+modified: 20181016020328881
 title: $:/plugins/BTC/tiddly-touch/Buttons/more-tiddler-actions
 type: text/vnd.tiddlywiki
 

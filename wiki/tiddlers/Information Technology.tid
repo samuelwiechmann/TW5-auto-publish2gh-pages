@@ -1,6 +1,7 @@
 created: 20180303142441806
-modified: 20180319092725405
-tags: applied science topic 3 computing
+list: 
+modified: 20181016103844503
+tags: applied science topic 3 Computing
 title: Information Technology
 tmap.edges: {"7f0aa011-ca16-4cf6-8378-a1e94253fb72":{"to":"26afc735-53ba-4406-9583-e62c070efeb6","type":"subclass of"},"7738c5c2-b64e-4a59-8af9-84af129367ab":{"to":"26afc735-53ba-4406-9583-e62c070efeb6","type":"2:subclass of"}}
 tmap.id: 8bd55b96-e821-4fa0-b999-34382d06ddcd

@@ -1,5 +1,6 @@
 created: 20180304220633563
-modified: 20180903002910532
+list: 
+modified: 20181016103844800
 tags: animals organism 3 group topic
 title: Vertebrates
 tmap.edges: {"9e63102d-4286-4306-a4b1-3aac09790c78":{"to":"ae48562b-93dc-4627-898e-5b359e628b93","type":"subclass of"},"997660e6-9e31-429c-9f6f-fb0c92c0d147":{"to":"fbf1234b-7fe7-47d6-ada8-1162c7875c16","type":"have"}}

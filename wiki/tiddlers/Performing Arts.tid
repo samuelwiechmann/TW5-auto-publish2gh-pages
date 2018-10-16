@@ -1,6 +1,7 @@
 created: 20180317185821377
-modified: 20181015091901766
-tags: humanities art topic 2
+list: 
+modified: 20181016103844669
+tags: art topic 2 Arts
 title: Performing Arts
 tmap.edges: {"e9334995-299e-49cf-bbd3-06509fa03b65":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"subclass of"},"1df26547-8215-446d-8805-39b53691908f":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"2:subclass of"},"4a1c8b22-f4a6-4891-a94e-a79e16298ae1":{"to":"8b8b123b-38d5-4c66-8bfc-384a462b5cc7","type":"uses"},"27ab6044-949c-47d4-8f09-fe002b14ab7d":{"to":"3f476eab-5e7e-435f-894a-e76cc828b3f0","type":"deals with"}}
 tmap.id: 7a4bbc50-71ce-43fa-a920-ff8ddacc420c

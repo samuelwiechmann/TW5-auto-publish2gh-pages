@@ -1,6 +1,7 @@
 created: 20180301192133806
-modified: 20180903174224184
-tags: science topic 4
+list: 
+modified: 20181016103844423
+tags: science topic 4 [[Life Science]]
 title: Biology
 tmap.edges: {"93895f2c-989a-421e-8cbd-2549db73d008":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"studies"},"8c4b49b5-410f-4d0b-8560-3e411d762037":{"to":"b1f6c12e-4d03-4a7a-a3f1-dd785029f8c8","type":"2:subclass of"}}
 tmap.id: 5a034110-32cc-4050-915c-b866d3273012

@@ -1,6 +1,7 @@
 created: 20180830150810440
-modified: 20180830152730350
-tags: 3 humanities philosophy topic
+list: 
+modified: 20181016103844730
+tags: 3 humanities topic Philosophy
 title: Metaphysics
 tmap.edges: {"30b47334-26c4-432c-98bd-387915aa6888":{"to":"95353a5a-1017-4513-8eaf-d97bee5b947a","type":"subclass of"},"7f392a79-cd30-4335-87c5-e2937d13e835":{"to":"fc560a10-fc9c-468e-a34c-efe7864db9e1","type":"deals with"}}
 tmap.id: e082da5a-390f-46f1-b852-1d6ac745e72d
