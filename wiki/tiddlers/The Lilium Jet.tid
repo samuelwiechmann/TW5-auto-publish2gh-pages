@@ -1,8 +1,8 @@
 created: 20180301145200864
-modified: 20181016023715857
+modified: 20181016181911505
 tags: content video technology future electric flying Aviation
 title: The Lilium Jet
-tmap.edges: {"31df7dba-b717-4f13-b485-5a20726112ac":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"instance of"},"f3fe522a-1398-42c3-95e6-a71a39eded12":{"to":"e17b93b9-e44a-4a48-a5c7-dc8291661978","type":"instance of"}}
+tmap.edges: {"31df7dba-b717-4f13-b485-5a20726112ac":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"humanities:instance of"},"f3fe522a-1398-42c3-95e6-a71a39eded12":{"to":"e17b93b9-e44a-4a48-a5c7-dc8291661978","type":"humanities:instance of"}}
 tmap.id: dafa5078-34de-4fe1-9d05-19932542be56
 tmap.style: {}
 type: text/vnd.tiddlywiki

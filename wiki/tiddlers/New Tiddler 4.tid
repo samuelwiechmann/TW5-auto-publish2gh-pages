@@ -1,0 +1,8 @@
+created: 20181016224520917
+modified: 20181016225807150
+tags: 
+title: New Tiddler 4
+tmap.id: a26d5f7b-011a-44e2-b2f2-d4dff2c6a39c
+type: text/vnd.tiddlywiki
+
+{{{ [tag[topic]] || $:/core/ui/TagTemplate }}}

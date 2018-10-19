@@ -1,8 +1,8 @@
 created: 20180301135242579
-modified: 20181016023715446
+modified: 20181016181911809
 tags: content video glider flying 1 Aviation
 title: Bungee Launch
-tmap.edges: {"89520105-09e4-4302-a5cd-5a38d636ca3d":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"instance of"}}
+tmap.edges: {"89520105-09e4-4302-a5cd-5a38d636ca3d":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"humanities:instance of"}}
 tmap.id: f398179d-8c09-4a7f-9456-d0e4604971c8
 tmap.style: {}
 type: text/vnd.tiddlywiki

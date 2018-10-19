@@ -1,8 +1,8 @@
 created: 20180612180455804
-modified: 20181016031858945
+modified: 20181019131458466
 tags: author s4 medium.com Person
 title: Kris Gage
-tmap.edges: {"820c1cfd-78a1-4d91-a061-e60b56f1f378":{"to":"24248ffc-354e-4315-876b-cbfa666def6e","type":"wrote"},"1ec3f17e-2e53-4928-b4bf-1e7c29c3896c":{"to":"9103da8d-a152-40f6-a1a6-0923c649d429","type":"wrote"},"23ee0cc4-c8b2-4443-bae2-31e964153140":{"to":"82697809-cfca-408d-b7ac-95f20101bab9","type":"wrote"},"b351cbb8-9104-42b9-885d-6b6471ae4110":{"to":"fe2c1227-889f-4242-8090-e7a2cc656ef9","type":"wrote"}}
+tmap.edges: {"820c1cfd-78a1-4d91-a061-e60b56f1f378":{"to":"24248ffc-354e-4315-876b-cbfa666def6e","type":"wrote"},"1ec3f17e-2e53-4928-b4bf-1e7c29c3896c":{"to":"9103da8d-a152-40f6-a1a6-0923c649d429","type":"wrote"},"23ee0cc4-c8b2-4443-bae2-31e964153140":{"to":"82697809-cfca-408d-b7ac-95f20101bab9","type":"wrote"},"b351cbb8-9104-42b9-885d-6b6471ae4110":{"to":"fe2c1227-889f-4242-8090-e7a2cc656ef9","type":"wrote"},"14eb2298-4c3d-4a9b-b784-4e693046a0d7":{"to":"944b46ff-b8d0-485f-b156-dfe3c722ff29","type":"wrote"}}
 tmap.id: 230da729-17f9-4285-8f05-46ab34271751
 type: text/vnd.tiddlywiki
 

@@ -1,0 +1,10 @@
+config.physics_mode: true
+config.show_inter_neighbour_edges: true
+config.vis: {"physics":{"forceAtlas2Based":{"springLength":40,"damping":0.8,"centralGravity":0.02,"gravitationalConstant":-248}},"edges":{"smooth":{"type":"dynamic"}}}
+created: 20181016180646943
+id: fb9c80f0-7ede-41b5-8f13-c68332b9802a
+isview: true
+modified: 20181016231228246
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5_humanconcept
+type: text/vnd.tiddlywiki
+

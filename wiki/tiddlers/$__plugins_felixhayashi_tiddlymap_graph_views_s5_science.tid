@@ -1,0 +1,11 @@
+config.neighbourhood_scope: 
+config.physics_mode: true
+config.show_inter_neighbour_edges: true
+config.vis: {"physics":{"forceAtlas2Based":{"springLength":40,"damping":0.8}},"edges":{"smooth":{"type":"dynamic"}}}
+created: 20181016180646943
+id: d8e0fad6-905c-4208-8e34-b83f0be85c28
+isview: true
+modified: 20181016231335030
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5_science
+type: text/vnd.tiddlywiki
+

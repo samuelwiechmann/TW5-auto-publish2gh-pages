@@ -1,0 +1,10 @@
+config.physics_mode: true
+config.show_inter_neighbour_edges: true
+config.vis: {"physics":{"forceAtlas2Based":{"springLength":40,"damping":0.8}},"edges":{"smooth":{"type":"dynamic"}}}
+created: 20181016180646943
+id: f794bb03-007a-4d5b-9cd0-7dc34aa1bd54
+isview: true
+modified: 20181016231856165
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5_humanities
+type: text/vnd.tiddlywiki
+
