@@ -1,0 +1,11 @@
+created: 20181027230142028
+modified: 20181028004920026
+tags: howto
+title: Examples
+tmap.id: dca9f0c5-a8cf-4d2e-bd0f-79f9534b02fa
+type: text/vnd.tiddlywiki
+
+Examples for things that I've learned.
+
+*Transcluding links to Tiddlers filtered by tags: [[Flying]]
+*Transcluding Tiddler fields (author, year, length) in text field: [[The Tragic Story of the Man-Child]]

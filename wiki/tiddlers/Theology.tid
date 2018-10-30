@@ -1,9 +1,9 @@
 created: 20180301194119633
 list: 
-modified: 20181016103844817
+modified: 20181019173334804
 tags: topic humanities 2
 title: Theology
-tmap.edges: {"d39543eb-ac46-40b2-a591-2d4deb33d889":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"1:subclass of"},"e1ccaa2b-5d10-42c6-8935-8264a43e1710":{"to":"95353a5a-1017-4513-8eaf-d97bee5b947a","type":"links to"}}
+tmap.edges: {"d39543eb-ac46-40b2-a591-2d4deb33d889":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"1:subclass of"},"6e3b1c99-e06a-4d76-a8a7-b1131a6ee0f6":{"to":"71dbba43-3b69-42cd-bbdc-df48f379c583","type":"2:subclass of"},"efeb6b1b-220c-493f-b4b9-a6c2aa9159ec":{"to":"b2e225e2-d999-44d4-8c38-583fc39b7112","type":"studies"}}
 tmap.id: 3ebd9592-c2f9-40b3-a5b1-2492f3e0f334
 type: text/vnd.tiddlywiki
 

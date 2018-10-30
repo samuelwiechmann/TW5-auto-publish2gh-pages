@@ -1,0 +1,8 @@
+created: 20181019190346199
+modified: 20181019192208733
+tags: humanconcept 3 topic
+title: Shame
+tmap.edges: {"ec65e569-e8c5-4796-b04f-581a4bd95a75":{"to":"208ad2f2-8df9-4c7b-a27e-f0cbbddd37f7","type":"is"},"0c25e6bd-436e-4828-bae5-b82987c9e7d4":{"to":"fdda689f-a027-42c8-af0f-f2f80e41358d","type":"conditional for"},"7c84aa8e-e177-41e0-88d7-ccde5a1fd4cb":{"to":"70c0df33-196b-4994-9088-ccaf4e62692a","type":"leads to"}}
+tmap.id: 0daf4640-5a59-4b49-b125-dfdf6148cfd7
+type: text/vnd.tiddlywiki
+

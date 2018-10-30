@@ -1,9 +1,9 @@
 created: 20180317191856596
 list: 
-modified: 20181016103844757
+modified: 20181019173159630
 tags: topic entertainment 3 humanities arts performing
 title: Magic
-tmap.edges: {"4f644dd6-d601-4c76-87ab-68a8ac1f4c4c":{"to":"7a4bbc50-71ce-43fa-a920-ff8ddacc420c","type":"subclass of"},"c1b4d8f3-9cb0-43ec-b0a7-221f23dd7b91":{"to":"7a4bbc50-71ce-43fa-a920-ff8ddacc420c","type":"3:subclass of"}}
+tmap.edges: {"c1b4d8f3-9cb0-43ec-b0a7-221f23dd7b91":{"to":"7a4bbc50-71ce-43fa-a920-ff8ddacc420c","type":"3:subclass of"}}
 tmap.id: c26d1d95-1370-47d9-8c2a-e0217340ae7d
 type: text/vnd.tiddlywiki
 

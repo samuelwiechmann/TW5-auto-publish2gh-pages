@@ -1,9 +1,9 @@
 created: 20180317190029234
 list: 
-modified: 20181016103844636
+modified: 20181019160349655
 tags: humanities literature art topic 3
 title: Prose
-tmap.edges: {"997987d5-8ae1-48c7-9bc3-2c69040b6d29":{"to":"0561d7b8-21ea-42ac-864b-831a5b9b4dea","type":"subclass of"},"6ec33d72-2d99-47c7-b6e3-daef1f1e74a1":{"to":"0561d7b8-21ea-42ac-864b-831a5b9b4dea","type":"3:subclass of"}}
+tmap.edges: {"6ec33d72-2d99-47c7-b6e3-daef1f1e74a1":{"to":"0561d7b8-21ea-42ac-864b-831a5b9b4dea","type":"3:subclass of"}}
 tmap.id: 54a58170-2fd9-42d6-8062-3340d73b932c
 type: text/vnd.tiddlywiki
 

@@ -1,9 +1,10 @@
-created: 20180321141440570
-modified: 20180321141515183
-tags: view
+created: 20180316124840019
+modified: 20181019205917277
+muuri-tiddler-width: 2
+tags: introduction view
 title: s3
-tmap.id: 9ff0caea-3049-4b79-b2d1-ddc9746d088d
-tmap.style: {}
+tmap.id: 8c50a1e9-987b-430a-9299-42ea5dc0fee6
 type: text/vnd.tiddlywiki
 
-The default view. Click to go back.
+Click to activate the map, zoom and navigate, switch to full screen mode and open content behind the round nodes. You can also dare to move the nodes with the cursor. 
+<$tmap view="s3" click-to-use="true" height="600px" design="plain"></$tmap>

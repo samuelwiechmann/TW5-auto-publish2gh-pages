@@ -1,9 +1,9 @@
 created: 20180317192020865
 list: 
-modified: 20181016103844820
+modified: 20181019173136131
 tags: topic entertainment 3 humanities arts performing
 title: Theatre
-tmap.edges: {"d9f939e7-2e19-4c04-afb3-8342dba819bd":{"to":"7a4bbc50-71ce-43fa-a920-ff8ddacc420c","type":"subclass of"},"395c2c1f-8ca5-4c99-8f14-b1c61bdc4568":{"to":"7a4bbc50-71ce-43fa-a920-ff8ddacc420c","type":"3:subclass of"}}
+tmap.edges: {"d9f939e7-2e19-4c04-afb3-8342dba819bd":{"to":"7a4bbc50-71ce-43fa-a920-ff8ddacc420c","type":"subclass of"}}
 tmap.id: 068fb7c2-a9fb-427f-9e30-5e05d3683217
 type: text/vnd.tiddlywiki
 

@@ -1,9 +1,9 @@
 created: 20180301194029719
 list: 
-modified: 20181016103844443
-tags: topic 1 Humanities
+modified: 20181019173447604
+tags: topic Humanities 2
 title: Arts
-tmap.edges: {"0506037e-d410-4a1c-ae53-58c8108bf5ac":{"to":"4062ca27-0fd3-46eb-8aaf-62fcd2dbdb59","type":"expression of"},"6b6a7900-88e2-43f0-81a8-78d966f27552":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"1:subclass of"}}
+tmap.edges: {"0506037e-d410-4a1c-ae53-58c8108bf5ac":{"to":"4062ca27-0fd3-46eb-8aaf-62fcd2dbdb59","type":"expression of"},"6b6a7900-88e2-43f0-81a8-78d966f27552":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"1:subclass of"},"43a6f663-842c-4dff-bff0-4f2a1ce25752":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"3:subclass of"}}
 tmap.id: 6f710a8b-46a5-477b-ad37-35f252189b22
 type: text/vnd.tiddlywiki
 

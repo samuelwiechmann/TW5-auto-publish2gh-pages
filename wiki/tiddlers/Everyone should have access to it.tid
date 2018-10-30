@@ -1,5 +1,5 @@
 created: 20180320145751180
-modified: 20180905210846794
+modified: 20181029171004687
 tags: documentation ideas
 title: Everyone should have access to it
 tmap.id: c93c7d63-c369-487f-9ea6-7e8ceafc4d3d
@@ -9,4 +9,6 @@ The usefulness of the information I am collecting and structuring increases with
 
 The approach of Open-Source could not only be a very good approach for developing software but also for designing and managing information.
 
-Everyone can access every bit of information. ~TiddlyWiki doesn't have a backend - every bit of the system can be displayed through the frontend interface. Everyone can see how content evolved over time in the ~GitHub repository. 
+Everyone can access every bit of information. ~TiddlyWiki doesn't have a backend - every bit of the system can be displayed through the frontend interface. Feel free to [[explore|Explore]] how this Wiki is made up.
+
+Additionally, everyone can see how content evolved over time in the [[GitHub repository|https://github.com/samuelwiechmann/understand2]]. Every change pushed to the repository is saved there.

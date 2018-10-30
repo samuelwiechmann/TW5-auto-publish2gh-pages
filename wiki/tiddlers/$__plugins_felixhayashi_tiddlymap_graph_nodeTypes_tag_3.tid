@@ -1,8 +1,8 @@
 created: 20180313093930942
-modified: 20180902133112455
+modified: 20181019200437015
 priority: 2
 scope: [tag[3]] -[tag[content]]
-style: {"color":{},"font":{"size":40}}
+style: {"color":{},"font":{"size":50}}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:3
 type: text/vnd.tiddlywiki
 

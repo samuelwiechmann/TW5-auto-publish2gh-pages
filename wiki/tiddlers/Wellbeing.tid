@@ -1,8 +1,8 @@
 created: 20180307164934695
-modified: 20180903002826099
+modified: 20181019181930665
 tags: humanconcept 2
 title: Wellbeing
-tmap.edges: {}
+tmap.edges: {"d3ac4150-5a05-4163-86f2-89cf915b92b8":{"to":"a9898087-8244-4107-a94b-dbc5fad935c7","type":"part of"}}
 tmap.id: cb82f812-b9fd-4921-94ca-085fd9d16cbf
 type: text/vnd.tiddlywiki
 

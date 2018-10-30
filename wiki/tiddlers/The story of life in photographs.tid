@@ -1,8 +1,8 @@
 created: 20180324152352522
-modified: 20180903003600000
+modified: 20181019153038683
 tags: content video 2005 TED 1
 title: The story of life in photographs
-tmap.edges: {"5a0817b5-1e25-446d-be2f-a8e1e419b06c":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"deals with"}}
+tmap.edges: {"5a0817b5-1e25-446d-be2f-a8e1e419b06c":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"deals with"},"3c2edc8a-a3c2-486b-9384-af003c6bc009":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"deals with"},"48f25347-e73c-4f34-b5b3-c6f5d0b91e4b":{"to":"c39fd665-e600-4395-b6d1-a237d067d52b","type":"instance of"}}
 tmap.id: 3d120e04-e30b-4b38-ab38-41a576ce3565
 type: text/vnd.tiddlywiki
 
