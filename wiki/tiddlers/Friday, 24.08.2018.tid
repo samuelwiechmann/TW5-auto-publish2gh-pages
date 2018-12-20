@@ -1,0 +1,9 @@
+created: 20181220145307195
+encrypted: {"iv":"HO9xkkxttW0gZdNwKiFQKw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"ktJLD1urbYE=","ct":"+MiZT4OOlvaq+ZRq70WCO0bGwwqndTW5vfmr5W4+VLcbMkVq1giw46YRs/xOKWKsq4K2fixvGfPv6ag6ldbQOHZQwQK4zXyfqjM4ty50mYztrelq4IE6VpYVBGs/e9w/xyE/QQ0d9LyCu0ePyiodL6z2ciBBiTorlHUaV44tH6jfP7l8Xbutm0UCLOTtfVk/AjQKrQfsRjp5s6jP0XVshIngrqqcFQlZMOTuhRvHBpbbodQHI4V6Z44Rsa/aOYgS+Z/cA6+Eiuq/G6XjWFR80cGY9TD4jicVz0zWgwxcmEXWgRb0lC/QfDQrTvE5FHNkysNoZ3G3XjVKsg1ONeNTzIoF8OeeGKy49H44Bd7j2vkvpegH0nY4y79QbAsvLG+TWGs6UteW87rNSiYmjzbNyJ5u6duSYg2PbcQFek8HD8B7O2DxfRHQzWXf9CVuBHhwECN2kPV6vPEVC1Wgs1z2njQHsD7C9dXelGXmAaQSVua/quJwXqmO9YaAQj+Nuiisk67u4C5X0VsPHTRVbYjF8lMHSHVp/mQ+vElMGIqvFqE1l9BKi2SQePZmnaJsVls="}
+modified: 20181220160152089
+tags: journal encrypted
+title: Friday, 24.08.2018
+tmap.id: d8c84f5e-49ae-40c2-a1a7-57e0d27d2d68
+type: text/vnd.tiddlywiki
+
+!This is an encrypted Tiddler

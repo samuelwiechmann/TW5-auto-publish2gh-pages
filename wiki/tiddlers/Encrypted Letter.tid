@@ -1,0 +1,10 @@
+created: 20181220150226609
+modified: 20181220155814139
+tags: letter
+title: Encrypted Letter
+tmap.id: 447cc718-91eb-4f49-a1bb-c8221882541f
+type: text/vnd.tiddlywiki
+
+To decrypt the letter and all included Tiddlers, go to the ''Encrypt Tiddlers'' tab in the  $:/ControlPanel, filter for [tag[encrypted]], enter the ''Password'' and click ''Decrypt''. You're then able to access the included content.
+
+!![[Firestarter]]
