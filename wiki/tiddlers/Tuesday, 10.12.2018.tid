@@ -1,14 +1,9 @@
 created: 20181222154249571
-date: 20181210
-modified: 20181222165401045
+encrypted: {"iv":"xD7hxTigDF0G4wY//5eMHQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"4cGREnsWY40pKzQy/Z8I51LXhqGj1Z2VpKgkjiWJM/2kuvld7pcSM/IQ1xAVZfv9uiuM8IBHqscUvhJwcMA+DfoYYZF6A5ZYqEzLQb75thCFGTG4msZXMQitr8F7aj4CaMWNL370rVVGjyyqywc1GiPix/GWCTQg1Ql5hqKOEvajNfStf5LPfnuKCEn7eMslEr0Z7SIpx7tMMIjTpFFks0i+Ynm2WK8MPWxiosEOtGxqk0HBTPgWw/LLMWiklsR7AwVLv3Dm5OCrLdZiTsueZbmJ5mNtC/td750MmlCtVRHBYl7rZCCf+bxQEDCOxUgCMRB8Lb0a+lkpBerII4KUU8CdJl4Cw34GmnMEEbSkznzZjPe3VkVoxMsB3+DntwgXA0aFoz018UB9PJ5graLqidjAnw5XfkN8R+Dw/SPA3mCMy4vEPL1BqTGR+r/LOuTPYxLEPS8ZcQXjyMycs2SuugmzVqg8O3DZCmY1RUL4OpTcwuGdfsD2r2z2ff1XuDXs8prW5txZSL+0C70BgchURRN6xUswzHGdckXyct8aEn21A55c1C87hAeD70WQfj7wVihwMlYd2ZiAf0E9soLIgro7sUS4GUnNJKSEvdEUKiM6iKK/ThItehwgkvW/N95LW7txmFzAsofn9rvzUWFIIYtwtYCaP0Ya4+2nMKbi4EHhFNbJZMr7j3PRYK67lckXRD7FcDt5yXCUbuequ72oXEtp+mSJ9Nq+7ojx88DJAKw7MU0EKfAyGEX9ydnPpgUWpLkuDie2KfO0lMnW1sJct16QkgXFHrE8RGMoOvlqEURHVJcRgUCSdr+2VQqPVBUBTiyPaHos9EfAK5gTWwnZjS5EgR2XBrX39ZSVvhstaTilDs8Tfb0dVmEDj7zqOc8OXjhuBTJv52I1HSO6/HcgkYWLXRqTKfQKZVT2BdEZsYFbY+n+Yy/csqKIk64f/s+XfKSNi0pjcMcdoLBjIRSB3oGPUw/pwmo4sfZt1qe2zonnrHwlacslUPFQD4tNcQ+QTjedKCp0zHbTKdmdsJ5MKPY6+Vor4qF3DqT0W1pJlmiohDfHlXbP05Z4UxrO+3igGiJ91/+mYsggzKeFT4+Fcvio8SmcpEk0RAIdZv8zZdPFRRkDuLKbtmq72HsHKoiAzKVCDLeaEGbUfpFqOoemENYIstkua29fN3c8WKPXTLPDDGzM55jLDgJaR8wRaA+WYTnTAIIviNaWSZzEJrmfa7lclbkOrqi3UF8IeQfhrR+RH3o13yfWecyfk8tNI3r57BdH6tqCWryT/GDxNVgr7bFuqRT8PU+jVUMKGddlcaH4g6EfZ9C7TpTLRffQXjc="}
+modified: 20181222185018079
 tags: Firestarter journal encrypted
 title: Tuesday, 10.12.2018
-tmap.id: b65480a4-782f-46d8-996b-11f8ef89e095
+tmap.id: 4ef1d6e7-873e-4590-aff7-14e8478fc043
 type: text/vnd.tiddlywiki
 
-<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
-
-Tuesday, 10.12.2018</$button>
-<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-On Tuesday we went out to buy material to build a first 1:10 scale model of the plane. In the evening we sat down at my laptop and started building a basic CAD model of the plane. Moritz and Laura were visiting Mattis, so Nils went over from time to time to enjoy their presence. It had been over a year ago since I really worked with Rhino the last time, so I had to pick up some of the basics again. It was very frustrating, but my motivation was high and at the end of the evening I had a complete wing kit ready for the laser cutter. 
-</$reveal>
+!This is an encrypted Tiddler

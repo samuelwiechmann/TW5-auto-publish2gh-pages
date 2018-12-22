@@ -1,9 +1,9 @@
 created: 20181222154259342
-date: 20181214
-modified: 20181222165401156
+encrypted: {"iv":"P4JDbKidGJVY7y0dNQ34AA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"6mJ5wr++yAM1sf5/hKOQZ09WV4ZhwaexcDVr6Uge9D19A8MXbCt+eyvv6XIHiwga2M6hrgWfA1ks52BY3Z1UjejO3D5g8B6uj38J46P0d2uKh70OPAZ8Yg7YJcu/mGhe/p/S7bHXgW9us/3r31bCRtWKGR1Gvick+TR5wOU3CZ6t4Va95JQhblOGxHaqNSOZF2yOw6QODQtalOsBQ8bjN/gimRDWvsOIKg3NjHWaNKD/3k6vWRE/x2UVHVroInG+SvJI81U1Wye81+YH+yfoFcFVo+TjXmSMX/LD1ooT5W1puf+Wn0XQ96LtJxHe/nkhP/uS4ODvYctRUKTG731V7ViY0DAZ3iI1OHZPFMP3UyHeB9g1WRa/OuEe4KYroGA6kvBxG8qIbMeezE+1IHVY657hIiSPYLOa+rDa//Mp2lV017o/31ToNNDobplIHqhZV7cjGfifu0gnzVpwCg=="}
+modified: 20181222185018296
 tags: journal encrypted
 title: Saturday, 14.12.2018
-tmap.id: 25a298b1-007a-4208-b51d-120f4f632620
+tmap.id: d7c71478-692c-41fc-857b-39d2d9633ee8
 type: text/vnd.tiddlywiki
 
-Party at Ben's home. I meet Annika and her friend Simon and, to my surprise, Kjeld! 
+!This is an encrypted Tiddler

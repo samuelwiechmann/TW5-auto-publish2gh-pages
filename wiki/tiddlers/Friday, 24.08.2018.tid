@@ -1,16 +1,9 @@
 created: 20181220145307195
-date: 20180824
-modified: 20181222165400945
+encrypted: {"iv":"7W5tghTF1IA3pmdWMospfA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"JOrgqyP3C2aNnf9z7GmhGp5nJpZNNq9e3hCbgzPg8A1hNstsqSwM5ElyJYmraXVMj5a6ENbAy48pWHuprbHvliEfF8YMy7ips8TzBbzCxknd2tuj5bwlmc147IdhGH+CvD+W9+NCK9mKaz2MjPjrIpyGreBIor/Z4RYkGaO0JDxMO1htakYukpDtMH6e68MngpG+OyeA6cVQzBlaS+UkjuC+uuyeI28vpKJtN81FAFs822WaaQR+0At80r5LMpgVRJJOgYKnluQ4wd5/GCELayiWJtojydvxUo/p4E0vykXR0uxBwtwaNIpZubb3euHUeYN9L9bnJhmn/Td9gUIVKBwO5HdxhuZcf9k8yRwEzxOeS5CM5C7ietcdBgXKaSXsSy9pEy7ZXtmyTqXZklP/pfwPkD0ikLKLlAqpQx0TUuialYa4678WGzDDqX1i/bzCh0LchyLDZ7/NZUaApF1O8lm3Q6jU3AElRYWfLzVkfbf4gmI/rpdZJchNIrIvTS+RN5H4BkIlIbyQWFNdD8AAUYLIYuvpWID9ImWSG5c6B9banbNWYC5uhyOAooDlQaN34sHpji0NjFyulbEMzfIbuEWUURALG5LNMdFEQKzFMtKeBcX+kUsM0nVHb86qhVweTk4BQDyF8iAe2p+ODp4GynHhnJEfVnUHYRPDNCI="}
+modified: 20181222185017254
 tags: journal encrypted
 title: Friday, 24.08.2018
-tmap.id: 0d963ed3-c6fa-47dc-b668-02a0d696e218
+tmap.id: 1c7ab1a4-371b-485a-a4ab-1f76cce7c538
 type: text/vnd.tiddlywiki
 
-:: <$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
-
-Friday, 24.08.2018
-</$button>
-<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-
-:: //73 km ride with Mattis in only 2:40.//  
-</$reveal>
+!This is an encrypted Tiddler

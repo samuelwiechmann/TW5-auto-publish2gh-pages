@@ -1,31 +1,9 @@
 created: 20181220141738200
-date: 20180821
-modified: 20181222165401039
+encrypted: {"iv":"eTiOkDJRlV68XhyadKa9EA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"qB1aeeUZ7UNuMVv0vcN+QXD/FtQslyp0w4RgBOjdR5SyrcM7TFFNThsSC23EczUILzxbJD602RxSO1ElzCXqknGkTxR/VUjhgZ8jNRqLvRLStuhrXmH98kZb5zd1m+oMrxX7vm2pK16gnijDeT442r4MEH3gn9+UyYectL9unYzEsJWmJkxtlrrdQuXKRVdyQHLccbWwMt4GUmDEBWU91iV7uV8IARpOcIrquOf9V7qES3kRNROAvmd0xXBxLxK+9TmL3NW+5+y9lY0rq6RIi19Nx0Kv9+ctw1BqkiSJaRFwafXcxZR7Ck/eMvs0nNsTMvl017KakDfHPPdr0lZEWIJgPeVr2J6wt3h+MXnGcCz+nmcPORUeosXBcDo9AR55YgPCp9ZePrXxMQ7I9dxgZdfUUqjAiXPNZVJrcY1JesRiI7jhMyOc5sZLPhOqPxMokE43rOuD7tpoxkOaMiZ8FHniNCVhMUGIBBuK4FJRlDGYmYlpZg6Wgyx+A5GSbLz6BVqw5NLcN2bKveV8DFmC7o6dL79URI/JhImZaiWODKZs/4GTisletlVtriu6qAlhN5/DeEjOtXbh1N9uPjW71Jq9DTr21PWw41AKjVJqzD1oH9M87TUt0z6KGfl2Wtsn5ePr1etK1qzDZSk+57+v/nMA796XaN5e64EGEHbOrMxca/Lv/pu2QIs2UOSSeo/Ya1FfmPM83ZszP5B6LyuAC6UBodvBYxxxci2gTjszP2M23i891PPWZyRjh+fLXQhvfXoRAXoaVImxY0N2/hCyJI/9xQAKcHwzwZkP68BLRemXSDY385DeOmVpkUSv6bCDaVwJcY4GILuBWgyYh0V6cg2PpNAHNroNnAhCFga7QL456dyZZA4Gy4UrkmjJ03HAoobPDovSp/dEkSuzhdAILegXIdvoOg5AFzJPRArV3vCS/Np1fh8JeNDC17hv+hA+YIGTfEaqSFz0yM/RuXiFSAtFIyg4uaNcL6+nZJvXyowNJplBoTuxiDvsD+N8uaRGXGzdz24ymh5E/BXTLizqW7otvfh9waqV/fxpEsTzi7cc0UJZFc2sOvppOjyrt4hTVYdUL5WRdCPni1xmFVRnYuVOwGvzPG0BW6zCZvDymXvGzs0knK2VwQcgjsggUPkUMh65Z/R3ajKcSbnNxMhDYYmi8fXt9Ygq2k9CxjzbThky30Lk47RmPf6lb/33YjU6VCIE7eWmZ9iGIe5lvSOjN9HE67bXLdDglWEEjE0ut476tImd6Vp66tJryKsB+AUXLy2U6vjdaUiTTjY4TamGju2kEPHBGUXrbntT9kzJzsRBI0wpmaQjPSFXgE7vJxfpudHsx/nOc46Z/GbSGb8cqyE+7yZPONM1XQdfnUvSLvVlmYgi0AN7rsIxWShjAZcLrenMg9ns/64JPomjTL+lN7BCgsnGcfLKwj9JVvsdVpY3uDYOZwOcQQfO6FGP+ca/UOI9kv98SuIipyKtMUGj5hpHWdeGKxl+Ztyk9ScOYz2Dlu5howoMai9mqN1kIHGp33n6fytjiaLIG8bg+denMRb4bTvlfhfhEWzsHyT9bQJs4JCloDvbXH6UD0I795z0x+6h6ylgUXfki9Z5vHw8tYtvnrCHqQbjiCidjbTzdvqQAnUDk9xj8OOz87ukiqYvgpUDEV+ERkQ/955AKUrM0VG6aotJavLu3MoxTClrDbC0Yq4YRE3i3tXuXWwNsP6PlhZPbWq5ONm32iM3bX3pIcvhklmPHvU2xVcSNMR3zsycU59GQt+XEs3bxn1D/kb8yzS/nVhpozhoTTpLdktiqKbob37kMINtcKwkqmY4cYNYy5+ZXD3vF+2TbW30W6nJNdDANMkvoaX/MC1EP16UhpNC6HW6BgijCOY+vSt0TGKhgNJFKQ7pc+98GVPjFdxuyaiff6RMA2wTcn2FRU289wDXMPIy6wxNpXYk8/b4c6jSmnbAc+k2+WXz4z2WJCw7l7qjyYWVJ789AKKWeVyO48jdUeeSQZ+4/D4cnlTOAItmXObH/rHH4tkjkLr1DtJPaipW8gKQU4iGhh8D2t+d/LNalP3Fhrztfs7FMHYsZBlMZOxwJPa2r4a9ApvFzhJiz2WBssWDygIJmUpkxr+xZzQiEd30EUXccGdHacAMwTeqNtv3dfYqJdgPxJGNpFda49BqDVO5MjpwCd210Nsy4SW8o8uSGMe57IOC4XlNz51bz4ks2cTcUh/0NlVzukZdlGmFZw9K8wLHVqx1AwvWtIa1hAwcv/MCIz9KU4O9mqEP1/2/7gsS2EtnuKCGNgY+KTSz3v06H7C1iIP4R+ogiuUKc/N7zJTgdOgy5Fp+rkkwP0NjpI4qaoSMAhOoD2K/Czwpb6rGbvJRpPnaKb7cBPtR9NmaxPtm0xKvQvl7APFlNvipUUW5hMIipzH3jEM1s4atAGNacmunlJmA0HnueNThkAIdk8p3+qtLKM43ioD6phBX2ofCQZ0ksKpbUJ4PfE860Vxy5gPcA8CfCJrlgZT2rrqp0uq7gO6NAY8H+WuXoRglO/yszBnbx2hL5iJLiZNrOB7JdpddNSdbiE81+p1spqtM72FiLeHKjEHP6Ps4Aq97zDnydeU26tZ4X8tt5vFMEE4JIdXjXWVA8vM2IpIqfe2J7E489A2Di5iwW2S1qA+rjaMPPs5Mnt6qV8IMQ5uOC0L/dMgQU9lkHTf6/biVdoV0s2NCwVCRog0E2VpmLn5E31CLNUBOIUk/5LzS58TAob/6oNoJs1f+A93akBNYadDf5FIkdVTCtR/z0v2ov8ZdLKoOqLxha+cBMz3V9HT1SFQFnCUCOJt83wnbPcyjnN83XSwYzQMPD9izsdmn9AXp1dSIsAfd/EUUUW6vGDu7NmCAvKGDOMNRK2LiKmXf5UYoMXGzgiIAQJvILt12NgjaUqcOfRZl4Tz/zrCEx2Svko5lgB0LeUthEkVwtU+vGjSSNgLs1iu2JnfjOKVWfp8+c+8gMUz0hG3n7zX8lydQcNEeLrUVkcg4+meyzBk="}
+modified: 20181222185018072
 tags: journal encrypted
 title: Tuesday, 21.08.2018 - I'm in love
-tmap.id: 685b79f1-e632-4317-8e93-8a8bdb3a28ed
+tmap.id: f3224564-caad-46f4-8895-30c8b4170d71
 type: text/vnd.tiddlywiki
 
-:: <$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
-
-Tuesday, 21.08.2018 - I'm in love
-</$button>
-<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-
-:: <p>
-
-//I'm in love with this new bike. I got used to its company so quickly. It rides just very well and at higher speeds it starts to get really stable. It's as if it tells you to drive fast through your position, it's sounds and the feeling it gives you. <br><br>
-
-The only problem had been that the bottom bracket made some crackling sounds whenever I started pedaling harder. Left, right, left, right, everytime a crackle and a movement of the crank and the chain ring. I thought the bearing must be broken and in the evening visited the bicycle workshop at the TU Darmstadt. It's a workshop where you can use the tools and get help, all for free, as long as you do it on your own. 
-<br><br>
-The guy who first helped me with my problem had a spanish accent and while I was working he was helping a spanish girl and explained everything to her in spanish. It was quite interesting for me to listen although I didn't understand anything.
-<br><br>
-I disassembled the crank, cleaned it, and reassembled it, but the movement persisted. Then I realized that the whole bearing was moving inside the thread of the frame.
-<br><br>
-So I unscrewed the whole bearing, cleaned all threads thouroughly, put grease on it and screwed it back in as tight as I could. I reassembled the crank, é voila, the movement was gone, the sounds were gone, it was all perfect. The bearing had looked like it was new, which seemed incredible to me, considered it is probably already 26 years old. Everything that had happened was that the locking sleeve on the left side of the bearing had loosened a bit.
-<br><br>
-Another guy, who had told me that the bearing was probably okay, was also quite happy that he had been right and that the bearing was of such a good quality.//</p>
-<br>
-
-</$reveal>
-
+!This is an encrypted Tiddler

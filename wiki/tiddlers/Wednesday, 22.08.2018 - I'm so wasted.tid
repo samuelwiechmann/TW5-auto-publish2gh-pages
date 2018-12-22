@@ -1,26 +1,9 @@
 created: 20181220142637071
-date: 20180822
-modified: 20181222165401003
+encrypted: {"iv":"kEV22+dFcks0XRAU1f/dCA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"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"}
+modified: 20181222185018318
 tags: journal encrypted
 title: Wednesday, 22.08.2018 - I'm so wasted
-tmap.id: 5043af01-ae82-4ed4-9c5e-3bfad03ba40b
+tmap.id: 538a028b-c748-402e-a137-dca81506a3aa
 type: text/vnd.tiddlywiki
 
-:: <$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
-
-Wednesday, 22.08.2018 - I'm so wasted
-</$button>
-<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-
-:: <p>//I just went for an extended evening ride with Mattis, and my legs are just wasted.<br><br>
-
-It was so much fun to drive down a curvy road with so much speed. This would have been impossible with my mountainbike. Even so, with my sandals on those normal pedals I sometimes had a hard time following Mattis. When we stopped at one T-junction, another biker stopped in front of us. When he and Mattis took their shoes out of their pedals, I could hear the characteristic „click“. I stopped next to the guy with the modern red bike, took my sandal of the pedal and to the ground and said: „click.“ This was a joke I would have never done in other conditions, but I was so wasted that I actually found it incredibly funny…<br><br>
-
-A moment later I found myself driving up the hill close behind Mattis. When I turned around to see how far the red biker had fallen back, I startled. He was right behind me, only centimeters, from my tire, in my slipstream. I got more and more exhausted, desperately wanting some water in my mouth. My solution was to shift down, but instead of shifting down my brain activated my thumb and I shifted up. When I had finally shifted back down again, my thighs were done. I needed to let him overtake. My mouth was dry as fuck. I took some water. It felt so good, like sugar in my mouth, but I didn't actually want to swallow it. I just wanted to enjoy the feeling. When I finally accelerated again, Mattis was almost gone. I reached Darmstadt about two minutes after him.
-<br><br>
-Earlier in the morning I had been driving a short round with Moritz. Driving down a way in the forest was incredible fun.
-<br><br>
-Later in the evening, I attended a demo against the convention of the anti-progress, -foreign and -feminist party AFD. It was a really cool event. Very many people, good music, good signs.//
-</p>
-</$reveal>
-
+!This is an encrypted Tiddler

@@ -1,24 +1,9 @@
 created: 20181222154258041
-date: 20181222
-modified: 20181222165401144
+encrypted: {"iv":"+g/qnObBUbxbkVdFkK4u9g==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"Sy0TScwW5FsMHEk6D7RiPfTC9xq1Cx5K8Ragx+IeasLZmgex5olKpW1g89Cxn9S9K4U+nYhZw1pA4W1dTF2rVDIwtECF7q3Upfzd+fw8oQXWJR8kMtkx3zBhkOEu9sYFGGTi/QyNrtEgc64+pMcfjLqBojs+wcuvF+Scq6NuR4gUEz7l+vKAQwVGAMlSD0T6sXo00luZK2MCT1+Ni9jlIbTZdI/sreMeg+3ZyP/qNYbAP56d4aOLgvB+RXTHiHvznVMBIQHP7upNjRZwo2MkRR34v3IyPvZ8m2zuZYYkShiLld/Vh4+qTlTzun0h8iSSFHDIPO/y7cV7I8Qibtj6m7cJLe8NsUUka9bMPgULdNyVOOmPVTSEhML5T1D6xEwtpeBIpJchwL2gEmWJo6mp08VSyAHAL/vsRzhsp3bh/IKYsrpxI2iXq1kOrpmbWWUOe3pMsY5jc+QnoPwHwoPqCjEWVPoaMr8MsKx/hBH/6p9td6kKaz+31S+I31dMogaZMxxPwZY/sxC5fsnuijvGH1kSPm5SeG5bBrl5XvMGDAkWxHd/UcIQAlO3ugOgyzCkxpsX7WHJuc9Ct8mjClq0Yhka+IbOAk7hwd3c3PGw9wHbm95Tsm6KXw9l3j8FuQlCR0jFuJ1Sg7ME0r97R6n0WI2L0p9I/kRohgF3evu3AgMlvQNqsgBUW+qLGxKTTc2c5VXLRhPue/8a0fGjjXMiwlUXtXd6S67l/kUorNMwV9B9OI9c2h5u9xIclBXNZtfyv7ykoTIR1gxyZsmtKnKz1/7jJcLwsB5eg+831eci6t3lYCJpWQC+Xo6MsT+ToVl+EnhPU/LV7l+IEK8GSOq/dNlw94wtfe7uNuPgkVRIDMK7YMF9bJXKYUvewJNXNVkvY/fU/xfui1yz6AKK5dJO9eYwT1ukt+2NWJPhzvOc1zu4hT/q7FiPkVGKFHOWIh9Z4raCXUFa/IU+AAmBHH9kXto+lRBWMcZizJOKD62bUiwJiRejLhye1UyL5r9U4OssYHVCLbIuQajMfwRZ2Xe7bS22E8x+ohr0DYEFBS5m3cAyNzB0f3HV+30g0R+yqm4bxRds4CiHUSUf3dO2zBejaEg4jLtdeiugHU5THX6IuT4X3HxyBR3CAkOQNV29/FDBvm0lPAi/BXh63pX8Om1YRq587VSg2sBpUsYc5WoOqNFL3280HZ6O2MygzwOfNJAOMnF1DoJRcRmakBEiVrPao9UFh17ohYqt90fs7PCHaQIOJB+SINZL9apnkkxgq96qpRTJ3fXauM4rj56HPjo7ZEXjRO3TeB30EEsz68sciKaw+pdWUGDu7BYfQ9qJFOUsdkFrxCjuylRkKWBkNlYsnsVcc4jhqH+vKWZrp4hkbnKRc7HFTG2MWhtjSp/xygS0kGhe7kZU7bx66ZhZBEI/RMycXLl7gSTw+BxFWAx59iF1gBRX3ybaIvwX1odkve0QSL86vFPGmR2DFmSjDLvj0Ye07q/Sm4gxysrSjRl5QcltMngw+hQz25UlUXLZUh+Bt/yQaF0skWCvRM0z8cwxne+xXpAmkcx8rNlElfHY1FO+dQ=="}
+modified: 20181222185018275
 tags: journal encrypted
 title: Saturday, 22.12.2018
-tmap.id: c11a378b-89fd-4fdc-941a-da07e5667e13
+tmap.id: 89d2ef05-faf9-422d-8ccc-7be00e5d9fdf
 type: text/vnd.tiddlywiki
 
-"""Woah, this was an easy rescue.
-I had loaded so many images into the wiki that the node.js server on my machine just crashed and didn't want to start again.
-
-The file must have been gigantic.
-
-Luckily, with some cheats from tiddlywiki.com it was easy to restore the functionality by just externalising all images:
-
---savetiddlers [is[image]] images
---setfield [is[image]] _canonical_uri ~$:/core/templates/canonical-uri-external-image text/plain
---setfield [is[image]] text "" text/plain
---rendertiddler ~$:/core/save/all externalimages.html text/plain
-
-Somehow the tinkering with Tiddlywiki is fun. When I want to turn an image, for example, I somehow can't find the function in my wiki, so I drap it into tiddlywiki.com, edit the image there and then drag it back into my wiki. Works just fine.
-
-
-Oh, but now the images are all broken... I'll have to solve this tomorrow. 03:25 is no working time.
+!This is an encrypted Tiddler

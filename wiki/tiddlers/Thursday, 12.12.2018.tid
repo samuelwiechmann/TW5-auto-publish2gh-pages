@@ -1,9 +1,9 @@
 created: 20181222154253295
-date: 20181212
-modified: 20181222165401084
+encrypted: {"iv":"Bn6fnt/m8eTuCsGN15lMbw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"LOIkCFAHf0l9ij3G/8HTd4qia7XeGi3kINsCzqCPeR4h5NbfgzYy7bcCs46IwhLxjwhQpWeFO+jge3eYynek/p1Gu81eZTlmDWsfq/ItDyzXA3thegajdfLp6DdCOFpIEXGbHkp4okTA3OEeZcWiXe06BklQiAIhRW55d/3LcTr3eQLHCvEk5KiJbKlsDleVK+iQuU+G9M7KasmKnoFT4GTEUeE766WYqFtImYY+RybCDwUD0pgWFK2qW5FsCyf/QGVfUzp0dfk34cYj/tDknHm4sn4JgVx6XZKpXNRqDfL7L3ZqXW1Dg0DFBqYRy1AkLbohPs5xBEA7Mubbwr1FOqwDjOUN4h7s25OgV8AqDg+z0iYdItvUp8VHo05Qk3Pti4x21JCXLrGp5iHRGKS+BP3BorHUMyxNQr7E+jdARnbq9AE7GIEAPS5QdGGs/uuFLA=="}
+modified: 20181222185018217
 tags: journal encrypted
 title: Thursday, 12.12.2018
-tmap.id: 1a34b1de-4012-4783-b11f-12f933566adf
+tmap.id: 0b9df86c-dbcf-47cc-b781-9307d04c52c8
 type: text/vnd.tiddlywiki
 
-Lasercutting the second model for myself and assembling the first wing. 
+!This is an encrypted Tiddler

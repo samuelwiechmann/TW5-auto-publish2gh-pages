@@ -1,8 +1,9 @@
 created: 20181222154306100
-modified: 20181222165400972
+encrypted: {"iv":"8TNiFRMdAbWdTep2RibeDA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"8kaZcWpuNTaltoOqXwsYTpPJ5aAXhlg11wSv7BfzpqVc5A7Qsas9CEBcvaH9EtYY5SCSzILw2XNBy1f/P62ViTL7Kg42sLLyKmAYKCcoyTNOfi7GLoIHFCWKlY/TIUliHdvWTAC1gubMLdSI3FCrnNpded5pQZlQlOYSS86Gl1bXB/P7Z+OE1N9TeSb0VRDGUlwU5HO1mYuSYrzrf956fhoE8jTuarTFxn4c2RHDEi1mEiapUhcZDvsjvR+AB1jO9zrubnwS/ndvMEsrIdApWXv33VHIvw+hmo2EHXmGjcC9axiEPAoIKE9NZ80C/pKOErbLF0v5JUAz226S1Rl7/ZyDxfEkzkztUjK8ZHwloNH1Z2XgWg4Qt+gf4GeZhsWnMw88iIby97oew4wlaDmTwg1PHQRc4tCk82t6V2U9RIJpD7og"}
+modified: 20181222185017286
 tags: journal encrypted
 title: Fachbereich Gestaltung
-tmap.id: 489cd879-4b09-4660-8d1e-88c32ef19889
+tmap.id: d5e29a1d-46b8-4ea4-8e89-8b4d2e0671ff
 type: text/vnd.tiddlywiki
 
-<$list filter="[tag[fbg]sort[date]] -[tag[letter]] -[title[Journal]]"/>
+!This is an encrypted Tiddler

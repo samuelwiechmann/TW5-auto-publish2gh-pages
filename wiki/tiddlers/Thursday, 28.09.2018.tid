@@ -1,19 +1,9 @@
 created: 20181222154251427
-date: 20180928
-modified: 20181222165401060
+encrypted: {"iv":"RRz7h4Y3/+csRKolKm0huw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"UyqfsWHuBE6t3dvVE/GlsAyS+B2huDtAxtHGUxE1TXU58N0Gr55ej8TOxqGbp+NHSIS1msxoV3rIqmDHZoJ+nMRSIwpGlPu8ImL4tEB1aIImTGOS8Y7SoC/ygGjsG+EjSmXs2t2ufspMDSdH1HwKyZI+FumhityYV4s/Wj9dg3t+k+KpZTpB3DPtrdox5JHRNa9/zkwyC8ImpgT8DAKsBefb8l4Fv9zc1cwRgxr8zgd1Z1zRG29X0em3SSpUnaV/Qz8xCacvEepOuGEXn6zkVQ06sy3/Zhc3hFF03FjwCAZYGUwPSxR9jG4fR7BkzaIrFzmmdLLMEdZItMoUXiIQS2T9aP1NjD8kYgu5HIJiWlDDqqe1RJbk5s7KiCz4W/hRx4c0kLQTQQcF74sMvNRcVyLos0FTKdktaQz+CpLpqVTlJ97SyBfHrKaGXBwmtmARrliQNIDCU8ZHLYjlfWaYqbYeT6/70NU+VwYZYaPsw7rCObNu0jQGWw5Mi7qM1/CjXupme62RZMaQN74xvvZRgQ89UV1+DUFAb0kRS4XF0MVRYxsEUkv5cTT/J9I8z4pY6dq1JvwQz3miQdirVd4Eh1W/r5LmyU6QIU/g4UF8p5DG0wqfk+pwb9jCRMrkmZfdDG/ek/54VlhSACJ/632W7IjGG1sCJg6amozXV+d+N2LhaKUGRpiCWOAIglOx4f30GmkkArvDmrHoitN+ALOqFHUdLnQJiosiZ0XAFKOgEv7/01iJd5cavrxAGS0L0TYMeOfc/1CoK/vbwASmicMdp2Wkt/70i668quhL4Yc/1zVguoSreGDwe4L0eNY1sFKhBShBrEhYFFDjs+IrbU1rG5JKXS8="}
+modified: 20181222185018194
 tags: journal encrypted
 title: Thursday, 28.09.2018
-tmap.id: 0b9e2c4c-3713-4060-9eb9-0e5606362ed4
+tmap.id: 98f600e7-5c5e-453b-9a95-82a7f64fb8b0
 type: text/vnd.tiddlywiki
 
-The next day I stay in Mainz quite long and drive back in moderately good weather. 
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1871204387/embed/c817932c2c52b8dbbf631a4f956f0a18b0a902fc'></iframe>
-
-[img[20180928_114510.jpg]]
-
-[img[20180928_170319.jpg]]
-
-[img[20180928_170323.jpg]]
-
-
+!This is an encrypted Tiddler

@@ -1,29 +1,9 @@
 created: 20181222154245732
-date: 20181219
-modified: 20181222165401008
+encrypted: {"iv":"QsWSUNZH3bWQ+YXSvBjOFQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"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"}
+modified: 20181222185017776
 tags: journal encrypted fbg
 title: Wednesday, 19.12.2018 - Vulva 3.0
-tmap.id: 315b835e-a469-4db8-8847-52b29de7a1ac
+tmap.id: 3ad344e6-6fa3-4b25-8baa-3a79157f404c
 type: text/vnd.tiddlywiki
 
-<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
-
-19.12.2018 - 18:00 Uhr - Vulva 3.0</$button>
-<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-"""Earlier this evening I went to a film evening at our faculty. Sounded interesting + I got a recommendation for the film. First, we saw a short movie titled "How come?" that dealt with the topic of mutual orgasms and the question whether one should announce an orgasm.
-
-The actual movie was a documentary movie about the Vulva, the female genital. It's really weird how we as a society produce our own prison in the form of beauty ideals that are hard to match. The worst thing seems to be that many young women today feel disgust at the sight of their own Vulva. And the number of women who could tell them that they're beautiful the way they are is declining. It looks like a vicious circle. 
-And then there's a weird old guy using Photoshop to cut off labia for magazines.
-And women in Africa cutting off labia of young girls while thinking this is normal.
-And a surgeon with smiley-headband cutting off labia with a scalpel to make them more symmetric and reducing the distance of the clitoris to the vagina. 
-
-The intelligent gynaecologist in the film brought up the myth of Prokrustes, a giant who had a guesthouse and would perfectly fit every guest to his bed by either stretching or cutting him to the right length (stretching labia to make them fit to a beauty ideal of large labia is also common in some African countries).
-
-He argued, that what Prokrustes did with his guests is what we're doing in almost every aspect of our culture.
-
-And it's also what China is doing right now. They're cutting off everyone who doesn't fit in with the present system. They're lucky that it's only about 1% and 99% are quite content.
-
-
-When I think back from two hours later I realize that it was quite funny to see what moments of the film seemed to be funny to whom. Sometimes I needed to laugh, sometimes someone else laughed."""
-</$reveal>
-<br>
+!This is an encrypted Tiddler

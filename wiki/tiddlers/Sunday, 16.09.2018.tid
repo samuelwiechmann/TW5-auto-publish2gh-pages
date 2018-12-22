@@ -1,20 +1,9 @@
 created: 20181222151815088
-date: 20180916
-modified: 20181222165401129
+encrypted: {"iv":"Brc/oZNbrCfe5pp5/m3OHg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"jnEdKE+MugMA9p9l+8gMBA7sdR/vqHGbzE+wtRlNmFzuqQU2QpmA2SBAVILCVQ+DK5QNpQHHDv8ldCD/I6CSvIOL/Av0QMhuxH2xU8cjFHXJ/SkFu1hMyfbUZ2tF3rlDG8bH1js5Wo/dLrPgbkx4Gade2hKtlJYrsiJykHmG1Z61khjjgqvLM0fgyEUWX1ZqH68zDMfR76JrqZyHb4k06oqCLRCVvMTkKnzMph4UxQIj39gZHPZdKTcPA3HLMtft27JH1cYnmA0O1yxgSgUSDdhSVYmmgMSKHgfkYHjDQqsFYaZwzsC9C2fOw52t487J+Ol/o2xjFNSKLIZautJ4h4oGuHMtmJmbn+bnLVfi5FxX+DH+6ypGtLkUc7Y2LFH2e+ssvLRVfzmjdQrD5XR4wDX7YuHivF21QakWPoiGHg22JwlddSUKGzcwsD6BA/39tUNfwGJXsFuqsadOArg4MrXrL6HF7yzkfkEDh6HGggNlqiFPzyHgLi8WGqRHuAslMhHRIJMkdNFjS9TLlEdWEMwfLBpKyL1i3MPeQYdT3PM2x9EJiSm3cCXNO6S7m65HG4tvie1mgOIAdL5IBdkVSS7en9zmHJ/NcdgoSR74cvA1zBDFRnX7VOqJ6Oq6pGFlhFbO3lKYRYYvUGhqPj/+6OpiQLQcAO2eyhyGrImhM4ZmY5aJdi3TpY3UbkftL8k15AMtb5+qRcaMM16xDQTLvJYokOP+M1ACQUKwKwB5sGLosifHHjmuxgZ3buAVwPj29AYi3u9RQyP0HheoG6AfHj7kI56cfS16f6YOy/OQQv9tMD/Bp1SIiUrY1rI3Svk="}
+modified: 20181222185018261
 tags: journal encrypted
 title: Sunday, 16.09.2018
-tmap.id: 04c8df1e-b372-4348-b37b-42d7e97b370e
+tmap.id: 4f552ab8-a9f8-4b0c-856b-1bae8399d31e
 type: text/vnd.tiddlywiki
 
-<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
-
-I bought and restored a road bike for my father and tested it extensively. It was quite fun.
-</$button>
-<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-This is the bike right after buying it near Mannheim.
-{{20180916_183100.jpg}}
-
-<br>
-
-</$reveal>
-
+!This is an encrypted Tiddler

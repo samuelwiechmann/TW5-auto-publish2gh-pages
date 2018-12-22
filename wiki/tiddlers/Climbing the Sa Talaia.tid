@@ -1,25 +1,9 @@
 created: 20181220153841027
-date: 20181011
-modified: 20181222165400984
+encrypted: {"iv":"Lk+JkwtJFRctuUYPG+LFcg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"EYsazjO82AHWpiZV6Jw0RpRE7kMOTQz64vSkkggGeSuihG53M5cvevbK3ORb3JT91LyLNsuc5r1mo/uybXM6TcVeKJI49xDdv1Sm4e9D32TPcuQ3gR6uC0La1aJREuzuX43srzafD4fyMiKqWK0Twy8YO64ogsGWEfWTbuEuqE1pjY4soLaaAAhhDX1PIJESpxBud08h+a1qws+nNyMSK2wYxYVkGoIYQloR20wC+/YToZHR20y6orZYYO+k61BidKcbUBOmDKdDzqjRarKTV1PJ5G5NMGcdyx2tviSsI7jRtiA4+Z19e8+fwAEYfEr5t46w4O0izTCnByT4zVl0XVM+JGDCwSCVbG2djN54sQCw1ZnUJ0wildu9YEo5aDtAXy9YdQd9bC8SokZMGRq8VhVimZrPCagCP/SPXZ8NAA+5KEwHNSttkajBu76bGE6eq3H8pAXmOQnc2DsCZG9oJt6NxHt4ntbzymDlRbZhzTt0MGYr2YUVti0SoarK0lYNSB85vHM8BQnvxOCD6YGY5ChpejOoHRsKsRaLkzI4ifSCZx+QFsZQsqznvzn3EPqnGF6hbJIuc2yrlr8pf7Ozf3Sntbu76yB7WREytSwIWyACOM2DQQyZbQe2PRSVl5zoAUe6vnS0E13355WxndU0U+2RxKKsqfTHeSAlXeG9yksPlN6+CybVQ5UL34mrkHqPMm8FYieTre/CunEJCNXkGY6v+MlduRbr+ZD6d/PGW78t0Mx5nojycjoGFilCgn6HYnTqNtP1m2jlZdfP0gY8xjXgINLNQZ92y8zgvPSohC5bodKPZ55ncuxPjAoxaorLjzxzuhclWaKwc28RDJ5Wlh5FQK5KixTxadNfI4+1fH14ID7vaMRzhACfa227bhjXFIUpqx4sYGWBrX01kbKJ0Y8UpoEgxhwQEGRzC05OY0Qqd/SlENY3wBsIBo54kV6y3wTmSgosJyBTcMU5FI0TK2WFOZVd8SI01MchRfMRYS7OfTUhCR0SjH64btbgSEvv9vZhtnXL6Ot1VxnhWsZBG7kBEBpbTJaClys0jiNHyt8yyb49A1HW4j4EUvI4wkiZwrjf2H3KCnIPqt+t+EH8LH3pn3Rj0olVYl1NB7Yy9M9yjPagRzDsia/AkL8WXxf6O7qfASE5m13pKXsPJmJxbHiXrIwmS8+LrFY5lavuo/rkeng8SHB9M2XHqSz3+pnk6Z5E92lwf/7PSOmv9/OIjHOHUjQK1Xi0RwOOKbVuFsSIIh9Oi0fmJ9uiVCQ1mMHpVPliWHxeYKfk2f9w"}
+modified: 20181222185017308
 tags: journal encrypted
 title: Climbing the Sa Talaia
-tmap.id: 6a09ec4f-a326-4d8e-9a31-a75fcfc4c412
+tmap.id: c5e8e125-0b72-4fe3-bdfd-74a1f0ca763e
 type: text/vnd.tiddlywiki
 
-<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
-
-I climbed the highest hill of the island.</$button>
-<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-<p>[img[20181011_232655.jpg]]
-
-I was curious about the view and was determined to use my opportunity. I didn't care about how I would get back in the dark of the night and decided to keep going. Only real trouble will bring real solutions. So it was. I found a road that went from the top of the mountain all the way back to our home. It was much longer than the small and steep path, but much more safe and relaxed. Lesson learned?
-
-<br>
-
-
-
-<br>
-
-[img[20181012_001438.jpg]]</p>
-
-</$reveal>
+!This is an encrypted Tiddler

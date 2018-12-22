@@ -1,9 +1,9 @@
 created: 20181222154246363
-date: 20181211
-modified: 20181222165401015
+encrypted: {"iv":"eyeAYqQo10DcmrUXdumo/g==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"/dxC5cosY7mD2y69wheqiLN6GWGvIPeIs5FnRI7hlFQX21uwnNRfdWFPsAp/2bKfTAl6sAnGGkzdu7Gi2VMTbTNF5FKDO3So/GXiw+IerEv3rZ19pc9JVHaGkLUVbNN0r5xxkcZPubAb3+NIESy8NqhEgO9sMUdPZ9oC6hawboTvguI7MkWQlP0a/rXYfqUOjjGvyF3B/dp1Ecn3judmEcI75TTVS3xsAj3K3TCseBb5GI2BilH0btvePgjzEMi9A+U8acra9jsHjAIb27/mDtyIaUW2GXdST817TrNPsTahek3PBIf22qIWEXSoISM0HCWHLiUcXHxOx263mlmLDVT7zIHaLTY8FjhT+JHLDw1szbGjxvkc3L8eAnxAKWId2oXcCAtRFO1VsRY+MbWPslExjEt2jtGIbYZ17qqJPQx1XMuJYoktsklPpgkS00TabGfl6DK7Tw8sP+1MEGY8NVbymnkBvpPVQVIsQXXbiFxJkH0XvbIphLCmzk404Bc1D+cZ4W4WiuPsdntPtAfFBl//h9ey8i705sF1x4jeGvUbkhjOHkTIeenWpA/qbnpFUN31q5wYYiqnZvVzdYMQk9+fXg=="}
+modified: 20181222185017783
 tags: journal encrypted
 title: Wednesday, 11.12.2018
-tmap.id: e593a37d-f3a0-4ec0-b3a5-ca86c31ecb34
+tmap.id: 47421021-9bf1-4650-a1a2-e3959a7e8cf0
 type: text/vnd.tiddlywiki
 
-On Wednesday we got up relatively early to go into the workshop and laser our kits. I used way more material than I thought I would need, but in the end I got at least one complete kit.
+!This is an encrypted Tiddler

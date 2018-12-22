@@ -1,11 +1,9 @@
 created: 20181222154304870
-date: 20181005
-modified: 20181222165400956
+encrypted: {"iv":"/z6YUcYOxfjcRboFmBuVbg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"xD318aHp/qjJHkFrZE7BBWkQlDp18bQEHMSelk3YUpuidD8hGlSyfwUzCPjnLTRTMJO44mfEAjfMA3nO6t2fx1CtZvOThMOnwi8SHr2dmHhZsFUM/tkWWH8M47hzfGqsu0J1/PaGOJ6LvgCJWM97z4tNzGF7rArhKQMSrMLbDoEk7pbUjPp/fHqSzlFJ7jtdAAKU5lcINfCE3sFV0R8M2OAhZtQ+OYflMBf9HoW9/daQsPivY40Z0+5xVhrfXG5jH8oJslwPttx4wfDsYfUo70T9UmHs7UoMgVDtIT6hyveFEvpT9xpfbQbJ5K9PW+xE18MnsVqkCNPe9KF3oQpvSMpYZYy69+Qry5/JpLkCvXKtFmj+rF9Oc/KSmq5c7IW7RMts1jp3i10m0oPcEqBGLfhZEt6E8iIQwiZUrKoVtgHu5Bb+R1Hp8UiuM5ePYpI87PcU4O15pO3oWqTjlcTH1Ohhp0LO78xyLRqt5WwkchSC73Hf2P061IFfYP9Q54XV9ZZ+FfE5Ptd+W7Og9Lqx1HgqBRisb42tGFMCbYDFtqlmcQCuYaG39e531hlluzzgRPBwDBN6NQ1cltpkqZNxBFs7rV/SbyWFtSTe7z2HeaEs3axioNP8Z+/pwXCY8TNLzRj9zLk2oMYq129I3WeU1nHdl6UvYV5o/HciG2d624YKMaKHXaTn/CxETK09ao+6cnT75XEOo1hVshhLEeDF/hj5ol0mE3HT"}
+modified: 20181222185017272
 tags: journal encrypted
 title: Friday, 05.10.2018
-tmap.id: b4817f16-045f-46a8-b60d-582c51ef7853
+tmap.id: 138e4b19-f162-426b-bffb-c2f144b0b987
 type: text/vnd.tiddlywiki
 
-On this day I decided to follow Clara and Carl on their way to Wiesbaden and vist Ryder. 
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1885650521/embed/810c1d91105e7c32f35640c0ad09a6ec5e1dbda3'></iframe>
+!This is an encrypted Tiddler

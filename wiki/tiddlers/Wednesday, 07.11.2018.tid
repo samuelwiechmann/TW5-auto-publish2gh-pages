@@ -1,34 +1,9 @@
 created: 20181222154246986
-date: 20181107
-modified: 20181222165401024
+encrypted: {"iv":"dGG9Ly6roiGO6OiFpbNYlg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"Oy57biUAXt1LP0w9ai0FczqOWNl870RzrJOnu6E8Vzw0C7SzQhhi48HfFK0fs5P7fO19oJTBB5Lk2J/VBgigHuMwexbEvHdo1P2jjPLPZsjbr6jYrxGn3yOZbZ8aYeYTScUwqEXk0qJnRHX5w/fbKzZ7c8wH5ki58vaNf3Rn16nqAB4UKqZn4rRzhWYBE+Z1/B1q/8h1J0xYpQIx0+3r0hTZAAzkgt8MkUul7LtnmRCNYdWFtj/rD41RpSrCXVDl8BO5lwqBT2TTvVZJOq+jk1uRJOvFI+LM6XNjZ86wym25rw+A+bmC4mv8bCaNVCFOl5rp3vL4jK1s6+KPsxDaqlQ234/3yvKv5dfb1zediDTEl0WIzoB/+jYaHPZiCAz73VqS+rgcFgrOh6x1U+H3TxqLowAk24qaV+X5ak7Tv9Gcb+qdWl4l+I7O5QWHqXFI36XJ99iobVWnuAOa77nJMx+QVchsxAc2PtL2hb/j8QcnnhkQN5v0qr2LZQBhWgFDyWKlttldAMA66MAomvVFdFawbXoQqtptksu5IfJhu9f13t3jncM2EuYUGSY8Y8rTL4NYR97ElAtAGOP8QiaE2IMP+aO6SFFNvzL3KgK6m2fH09G9COCJjgyiBZ25sbGPog9xDPBx55yI5LWFSEcA0VGIooQJDc5T0kXdTWc0tbvsaMk02mSOjgqmUuI24PxvgDnxcn4re5exmDQidAg36M6R01Mi1B9rgNErH00mFvcBWb4j2PiSTCDFnJbkvzlXsbrdv9eskx2NGUiuCRwj7LOBzuBfWq4h54rPGsgWOQRqw2yMrrE51ujCa3SbW0vZl8eUwrX6eHL606D4zdNNnyPh+BfTfw7r7u/AVgzWD3Yfcw3JDP4r6o23AEhPCNQzzhgYgdkPuiDL2iPjnBc36QFuXiWtJM9Gb9Qmgczf1VFK6rSnelcAR2p8qafx/9KP6zxc3g78+1O0e5WD8j4QFlJVB9beedQ5lviR/ANt/L0mnZkDW/hd/purvOm0MtUzV5N7MDjgROar3VerTzkYuC/Q7q6R42JKuCMSdUZYsGmya2jkQquJd8WS4i7enEQcEhGA/lLl/sxEBlRAUc+VOsI3A5NyiM1m9/RjB9H6I5EmYmganwhetoJEdILjDv/gba2Zf0BmHRMQp8a7ep1MIB+zGsr4y40EVxspnf5/JEmhehg01USb0DcdS5LxujaQTKyF/ecHmL+jEv82bkBH7GqEDVe2pyWAfIaYHPPi2LjN91EXQNvNOOUx1cE4PhpvGisP9hKUgCOCSX79oB8eGFv97Xz0VH3cBfo7HzFcXB6pF6cg7+WSfu1ow+YUQ37nIDC7mRspCXUNDZI/6p9y77j0nF4oEqRD8+w8MQahZpYmdB8Zpd6OJzdWe1nlkehpJ22WGJk0teCDbndjKocFC4e+fUuENE6MDhCEvsOBynZFSiL2hxanSmenP7EBUCuU5fysDEf8uzESXulxTCUDRyfG5UcpYXU8Wk5eVkHjKhYHBk2xha2j3engFJq32bvxPEn5ukf40b+LbGi9koXphhCBPbjuAmmbLWZEXAEVklDvoJnqWSFGkr4IuC2C6Mw+yZ6BdaXq+V/uO6EUbw4Qr620TKInOm7vU30A+AOh8oGHUzkNlO2rU3M0rnCpiHsEfyWoAgWQ6Iibd9Rzaf0H1QQn9JfX0g=="}
+modified: 20181222185017914
 tags: journal encrypted
 title: Wednesday, 07.11.2018
-tmap.id: 81b64945-264c-472b-8006-c7ba1c189c65
+tmap.id: 6228cdeb-4fec-46d4-a7bf-679269ebc916
 type: text/vnd.tiddlywiki
 
-<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
-
-The weather is still beautiful. 
-</$button>
-<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-
-And the cats seem to enjoy the sun as much as I do.
-[img[20181107_115339.jpg]]
-
-
-I'm walking to Moritz to pick him up for the Aesthetic Theory course with Professor Theinert. 
-[img[20181107_135341.jpg]]
-
-
-After the course I'm in a hurry, I'm taking a ride to Freiburg with a guy and his six-year-old son. 
-
-I'm visiting Clara because two days earlier she had called me and offered me a ticket for a [[Bukahara]] concert.
-
-My goal is to arrive at 19:00, but because of a navigation error we arrive back in Darmstadt one hour after departure.
-
-In the end, after a lot of Lego-talk, we arrive just in time; the opening act is still playing.
-[img[20181107_220609.jpg]]
-
-It's fun, and most of all, it's freaking interesting to see the town where Clara has moved two weeks earlier.
-
-</$reveal>
+!This is an encrypted Tiddler

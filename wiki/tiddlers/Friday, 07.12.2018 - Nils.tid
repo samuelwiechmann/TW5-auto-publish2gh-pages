@@ -1,25 +1,9 @@
 created: 20181222154304243
-date: 20181207
-modified: 20181222165400951
+encrypted: {"iv":"P7JleLhH2fycXsnckv1UOg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"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"}
+modified: 20181222185017263
 tags: Firestarter encrypted journal
 title: Friday, 07.12.2018 - Nils
-tmap.id: f6690942-c647-48a0-91d2-5b826c2c0061
+tmap.id: 0e0141ec-8e59-466e-b0f3-2dbc64223759
 type: text/vnd.tiddlywiki
 
-<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
-
-Friday, 07.12.2018 - Nils</$button>
-<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-
-"""Mattis brother Nils came for a visit. He's studying aerospace engineering and is taking a break before finishing his Master. 
-
-He told me about a concept for an electric ultralight aircraft (in Europe they can have a Maximum Take-Off Mass of 472,5 kg) that is designed as a flying wing. 
-
-By saving construction weight the range can be increased to 550 km at a cruise speed of 150 km/h. Single-seated with 100 kg extra battery it could have a range of up to 1000 km. I was instantly fascinated by the idea of a flying wing electric UL and started discussing the odds and ends of the design with him. 
-
-As we are both glider pilots we share a similar experience and as I know a fair bit about aerodynamics he was able to explain all his calculations to me. It was thrilling to talk about a common interest with our slightly shifted perspectives. So we spent the weekend alternating between partying and pondering the design.
-(The party part was very funny and interesting as well)
-
-
-The most important aspect to me is the construction of the central wing section where the two passengers will be seated. It must be strong enough to protect them in a crash but open enough for them to have a good view. It must be as thin and short as possible to minimize drag but still spacious enough for a tall person to sit in it. After all we agreed upon 270 cm length and 80 cm height of the central wing section."""
-</$reveal>
+!This is an encrypted Tiddler
