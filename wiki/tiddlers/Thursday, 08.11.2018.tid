@@ -1,9 +1,26 @@
 created: 20181222154253913
-encrypted: {"iv":"JUGrNE2WVXE2LFsIDcMxjg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"PpCj2/V/6IxlUajSI9YIwIEOWMB0yv5LYyorxQan8v3dy9H5OadXkcQNh3jJuY7slDW5nfCmlIdoJCvyWtsqNlVjnBE1WHMo/+J2tzMXEV6DFXiib2KW1DH8DiCRA7b/P8XuRUHqWvM8INyFgXWDa5eayikTtq/+14b5808GNIvVNJHiEbdt3561jpKOa7bI2ATDhNSrt7Unn3M0ypQtv7lMYFO4Zl25BxGXmLNVhlkaQtigc3emty0Pv7QlQozRSLldyJ2DYFWJ0/ParXYpSjozdmae16fAbckYGUfDTyW8IGx8L45l3EXFEIFqtK3B4KEgQXQ5wixEZfloSBSPHMsN6O0ZuqMaj/g7UrizBSPJGM9tc6U4j/z5A5qQRbucKbhnJSGp9JUXarmpTbxE5lYa0HZQ4I7Q1ao0AWhAdlHTlpAMsce3JAGaH2PfCRWQpjlWWXKdwe5MlCJn8ryuWK077Rw7B3Xtu5muYWYnTxHioneHm9Zr+mkAKiPE+d68e3qTFLrglZd0ukHDaj4cfepcs6/1VflyakEK9LxLgR3to7FjPOBt9+ImW7hgP0oIGesCJL6astafF8Xo8giy9pPv3kuALMYImEvojnhUwpbdvvFjeXrJ6CaL0WG2t+OEJtfiTPth0Ne4Yl2VwpefW+HLeE7N0WXzg223tWLaCfAfFtUtqMQ8DcxyTC9i3JjTDY8A/swyVGUAgdoEF/iIEL6oF3MELG0hkv3T8ZENIZzOR4+tPIP3byDaawdQZx23StqGiZI4nvKie5tiAGLd6uDBkeKLoBnLjLhnq/mipPhkC7WeDZNGODI7x3xnNJmNBbrdsn4oJ+0deXFiBSQRTERvZqvp8RU87rQEjzGMffNrvgp+w5nUi5aFqlSklUxnc9qjSXkAPAt0PFZ5kh3o9HYIaj1yokFfa5wpvS3RWQnTOAwrqCl5rIkeFjG+CzJpygrHjScWWw9p6vCJdhGIXP7HGvHQ8bCsA9GTKhj4Hc5SGX+DFGARgR+vfWVkDE4WEDVY5bkSETbh1+u8zBspy7z2RObbRQ6P8QJhdOkTbE2ZqaRQwNCmif5EJpgROOo+IInUnawR45L/C7h4luHYnDV1m5gEB9L8xyJg8jVmtNTZMPuWvCzczRUo2JaM0vGONBfmneDFEJY/zLJuQx5NtLZtkKvkMtVZu8wtDf3dGfXDSxqZQEpG/4Ng1agJVKoZtQuTbyqiVieCSUmrpPWGxY/gn4u0IthnQW3gvYqiw7kLqIr3cpF/pzMJNEJmGXWePho="}
-modified: 20181222164455266
+date: 20181108
+modified: 20181222165401094
 tags: journal encrypted
 title: Thursday, 08.11.2018
-tmap.id: 52ee869e-7893-4f67-96c3-c9e701c40f95
+tmap.id: 4be71526-18c1-46a0-8bd7-74a17e9cb465
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
+
+One day later the weather is not so nice anymore. 
+
+</$button>
+<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
+"""
+  //[[Thursday, 08.11.2018]]//
+
+I accompany [[Clara]] in a lecture about polymer viscosity and meet [[Annika]] in the universities canteen. We have a good talk and I tell her with all my fascination about the [[interstellar object that had been spotted in our solar system|Oumuamua]].
+
+I meet [[Clara]] and her costudents again and finally go on a walk to the "Schlossberg" of Freiburg which has a great view:
+
+[img[20181108_141312.jpg]]
+"""
+</$reveal>
+
+<br>

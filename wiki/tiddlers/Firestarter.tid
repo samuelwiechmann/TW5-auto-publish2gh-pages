@@ -1,9 +1,160 @@
 created: 20181220135337854
-encrypted: {"iv":"yXUV3GppetT1KXffM7allw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"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"}
-modified: 20181222164455134
+modified: 20181222165400968
 tags: letter encrypted
 title: Firestarter
-tmap.id: fd85e368-0445-4269-8823-4ed0eb064dac
+tmap.id: 6340aca9-deed-446f-9896-040a05f882cc
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+<br>
+Hello Gaby,
+
+<br>
+I want to write about some experiences of the last few weeks and months before they fade into the last year. They've been quite intense and mostly good. 
+
+I've chosen this format instead of an E-Mail or a call because this way it seems easiest to stitch everything together. This wiki is my place to collect beautiful talks, articles or tools. I don't know how understandable the structure is to you; but there's certainly a loot of good stuff inside. 
+
+
+
+<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
+
+For example, do you know this one?</$button>
+<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
+{{history of the entire world, i guess}}
+</$reveal>
+
+
+
+
+<br>
+<br>
+
+While content like this is open to everyone, my journal in this wiki is encrypted exactly like this letter was, only with a different password.
+
+As this letter links to some of them, to decrypt them you have to go to the ''Encrypt Tiddlers'' tab in the ''$:/ControlPanel'', filter for Tiddlers with the "''[tag[encrypted]''", enter the Password "''oskar''" and click ''Decrypt''. You'll then be able to see the included content.
+
+<br>
+
+If it worked, let's jump right in at August. Or December if you like.
+
+<br>
+
+<br>
+
+!!August 2018
+
+Back in August I had a lot of fun with my new road bike. Thank you for encouraging me to buy it. Some excerpts from my journal:
+
+{{Tuesday, 21.08.2018 - I'm in love}}
+{{Wednesday, 22.08.2018 - I'm so wasted}}
+{{Thursday, 25.08.2018}}
+{{Friday, 24.08.2018}}
+
+
+I also had some very nice flights in August. It was also due to the feeling of accomplishment after riding to the airfield by bike in the morning that I could relax in a different way and go for more than I had ever before.
+
+{{Sunday, 26.08.2018}}
+
+<br>
+
+!!September 2018
+
+In September you were in hospital and I didn't hear anything from you. When Clara asked me if I wanted to join her and her brother Carl to learn flying hangglider (ala delta) and paraglider in Bavaria (Bayern), I agreed without much hesitation and only few days later I was lying in a hammock talking to you on the phone. You had just been thrown out by your grandfather and to my surprise sounded very happy, especially compared to the email you had sent me a day earlier.
+
+Although I didn't tell you anything about the experience - I was afraid I would not stop talking about it and instead wanted to hear what you had to say - it was amazing. {{Hanggliding}}
+
+<br>
+
+Then of course there was the epic flight along the "Bergstraße" that I told you about where I could see all the miradores I had visited by bike before - but now closeup from a birds view.
+
+{{Sunday, 16.09.2018}}
+{{Thursday, 19.09.2018}}
+
+Then there was your birthday from which I mostly remember your mother's voice and the fact that you were thinking too much on your birthday party to really enjoy it.
+
+<br>
+<br>
+
+!!October 2018
+
+In the first week of the semester I joined my family on a trip to Ibiza where one night {{Climbing the Sa Talaia}}
+
+<br>
+
+I also spent some days helping Mattis and Hans with the construction wagon in the trailer park. It is a beautiful construction and will hopefully be a great home to Hans.
+
+{{Saturday, 20.10.2018 - Bauwagen}}
+
+After all, not much happened in October and it was marked by the odd feeling of not having accomplished the goal of meeting you in my summer holidays.
+
+<br>
+<br>
+
+!!November 2018
+
+In November, I read a book called "Zen in the Art of Archery" by Eugen Herrigel. 
+Surprisingly, without any training, I successfully implemented the philosophy of Zen into a beer pong match on the same day. It was startling how much of a difference it made. Mattis was very sure that I had cheated in some way. But I am sure that giving the process of the throw it's own liveliness instead of trying to control it completely, is key to a good toss.
+
+{{Wednesday, 07.11.2018}}
+<br>
+{{Thursday, 08.11.2018}}
+<br>
+{{Trip to Amsterdam 1}}
+
+<br>
+
+{{Open Letter from Sabeth}}
+
+<br>
+<br>
+
+Later in that week I spent a whole day at a school to get a feeling for the atmosphere. 
+
+I built drums with Nathan and Valentina for a planned musical performance and was fascinated by the extremely weird presentation with Gesa in the following week.
+
+<br>
+<br>
+
+!!December 2018
+
+{{L.A. Salami concert}}
+
+In the following week, Professor Theinert suggests me to leave the GESA-project and instead focus on developing my concept for a school table. I can understand his point but also feel a bit disappointed. In the evening I get a bad headache, probably from thinking too much about it.
+Here are a few journal entry from the following days:
+
+<br>
+
+{{Wednesday, 05.12.2018}}
+
+{{Thursday, 06.12.2018}}
+
+{{Friday, 07.12.2018 - Nils}} 
+
+{{Tuesday, 10.12.2018}}
+
+[[Wednesday, 11.12.2018]]
+
+<br>
+
+So on Wednesday we got up early, I got into the workshop and started laser-cutting the wing ribs and spar sections twice so that Nils could take one kit home to Braunschweig and assemble it there.
+
+Yesterday, on Tuesday, I showed the model to Professor Theinert. He seemed very excited and hopeful that we will actually build this plane.
+
+
+Summing up, one month after Sabeth's email it feels like the atmosphere at our faculty has changed. Maybe it's just Christmas, but I think everyone who has read her email has understood what she expressed in her text. It's now up to us, the people, to make and accept change into the direction we want. 
+
+<br>
+
+{{Wednesday, 19.12.2018 - Vulva 3.0}}
+
+<br>
+
+I'm so much looking forward to New Years Eve (Silvester)! Assuming that a party is as good as the combination of people it will better than any New Years Eve I have ever celebrated, probably even better than my average birthday.
+
+All my closest friends from Mainz and Frankfurt (Ryder, Caro, Waldemar and Ben) will be there as well as Mattis closest friends from Oldenburg. Zina, Johnny, Marius and Arendt will come for sure. I hope his brother might also join. Those are some lovable people.
+
+I remember the time short before Christmas two years ago when I accompanied Mattis on his way to Oldenburg to pick up an old oven and dishwasher from his parents.
+We ended up spending a week together at his parents home, delaying the transport of the kitchen appliances. Mattis stayed and I took a bus back to Darmstadt.
+
+
+New Year 2019
+

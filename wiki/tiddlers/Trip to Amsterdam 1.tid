@@ -1,9 +1,24 @@
 created: 20181221160543716
-encrypted: {"iv":"7AZbUZySVAJSTJUpFi9eDA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"Fguh0lCw7svhXZImdOszWsW8jHe/POIv2kb8Pi5XcRsEO8zAqLChNnzzBTsiLJ0ycVATi860A3eQHrXoyGVJWimQ2UOX5Jfm3nsZAG2VWB7CUUzEF8OVRc0wu6uv1/V/yxksPAWl7UdhPs1DGYFN3Q6qFGXLu1GLnmI2yUbf2fDZKzuCclsBhiljN8+O8r5fFoopaCTvwFabQcKo0rqLlyQhP76QvzH8SyNed2/I4VQlasEEsea4iLs+36S7fcNpBo3uJWTIKsZKcCRLFOY2QRaVrH/yb4oEatS2nkRDhl0bxuaN8OHDl6HYm3mfWyT6MF/2R0auDRhkrTuIpcspgkTf+Ha4n1CqsLZOn3uJ0nm/Lyz2XJfx41vgimeyub8uK/mHG/3I/cKxJIEQxrtxUzArQKNO6fAyj5fd/S3mKADZpWuZffEEYBHuF7yAEK2PicAaFYq6X+zGOL8P9qRw58aoXAkmChtGyu64+9HoKpTdjMZ+RCwu+I2vskqJnJ9otGPVPX1toyPmFthdMdyLSHqAnBxCArFSiDtuw2gtoDL9ETT2zbaQ+0IjyhvHutl2IktArxJZysIw/qnFzJ3yyymTHcCOmnkaEL2D9RQEdfBXKkLjcTwQLWMcrA4o/EoPyWKoXtlFK/obFlA47j9mdN/OxV3ksMMzbjpBOGFhSzcjH+3anKmWeppVDMOE7uJEEW+ibEa+e+BG1wc1JvyvZjiUPQCcimizV3/v2U9/oWNhuDqte8J73K2P4KIzjmsdrWSOI2t0wVr4NEcizADXFqcQhuIM9bVwPGIvWTD0kpHF4Vh0MCUjs0okJmxkfuEfkOrlWuUME+dLzu7PfrwQZFuwScRXrsSiNDq5Gq51ATZWCra072zXlXVNfJ9Xy5CqXT0Pa+3OZNiV2UTzd7hnXpgE1ST/dlXlWsyEpOIsXQE7/7MJJcG0dHrclb3b67utTxDJm/dYIW4C"}
-modified: 20181222164455233
+date: 20181115
+modified: 20181222165401050
 tags: Firestarter encrypted letter
 title: Trip to Amsterdam 1
-tmap.id: f5e10067-6614-4fea-9110-1a95139be1b8
+tmap.id: 5d8d3fbf-8467-40e8-bb3c-b71d08c72d9e
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+<$navigator story="MySubStoryList" history="MySubHistoryList">
+
+[[Half-way into November, I go on a trip to Amsterdam with Ryder, Ben, Waldemar and Fabi.|Trip to Amsterdam]]
+
+<$list filter="[list[MySubStoryList]]" history="MySubHistoryList">
+<div>
+
+<$button message="tm-close-tiddler" class="tc-btn-invisible">{{$:/core/images/close-button}}</$button> <$view field="title"/>
+
+<$transclude/>
+</div>
+</$list>
+
+</$navigator>
+
+

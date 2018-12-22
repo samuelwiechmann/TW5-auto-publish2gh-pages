@@ -1,9 +1,25 @@
 created: 20181220153841027
-encrypted: {"iv":"Yk/gwIgTsrBpcqY8uTD39Q==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"WB50vtTsVdsQgggh4Vg4epEEA56VhOuYGyXVgAv0YPewAsloiwedf7udOJf+Fdkqa2jNhGidY9QhW6KDl110cB+6TpjANPhOTt1LskJtefdnDw4l01+H3nAaOFz5v98MxF7MT+lcd0Ak45+pt2hqEl8tMvJNcXcJ+BdL8qpwLz20xx+dG8N79X2ss95gL8JgHJEDtT69b7yObLvy6a0etMLx0HoXCLsQYaYyYIasf7XBNLMmFcVSOnK4h/kYFJekRHrBYirIB4Q9JKxzkmfjUJ81bMAGfAy+4eDqPOtyZSnPYf5zL+hy2k0SGzeS214pde3a4+Vgu0cE7bMmowRPYN859ozxjoXB+7oTngguO9mD47hHGtCiyFVVyDSUswHPqVesocWNpx0ilc1wLynqdUsFY3LjsvFgGa+TE9eFMAORwhUkUf13CjHuqS/m7B2W7mR0gztD6MNsjtk1yOEopnmUndwp9rXSWjzi/f5s/QyHIyT9p06/qvezxiOI8VUr03aS26MKqiVTFtHDQ4ZHtG4hY8QjfJtb77PyV3+YhuBOuuLWG1v4k/Lcd/JpDXlpcR03AjLLS9pvpq+l6Li9B6vCwBBA2+ob3phYEPeh7KeeOCO79bh1DKoI81ClboqChdMJ8isz1r2340cxu/mN1juRs0Nfqt1lFDMDb5rPPnZ0VtdjD34+XTrSWtxfAtkSEiu32VVzXkqO9xS8RDnaZA/3Zu+BiIftA4kBIN3EDvaTapIhYo61fP9XQsJCd/SIDYglRsfAjryGhDWjhc2K6xoprNsq1LHZMSY1x0v020eHed9ccsVF0hwymg/EhiH5Mq300YVFPUusiWAGQoChvrdGtDKYHYBG9lEUP/ql+MLTigKGnSPKHxAC9bliWmY/F8nZ82t4QWGM+RwwQ/JkIIWGBI83KyUePJAUzf/kHROzSY969cYWHd9DZGXOW/D98R9rgiCALWlk2yW6O/GRNGre3qJbu7i4kr1mnUOF4CFkSxbDxXzHIB5mq45mzniYv1aS6zKt6S3Xqm0WpB8JTXedbJdEgo4sHPMNQ6nEDg4nY0I1WVwTSfrBvX8jkBrYO6pLgJepZvJbfzu4WLHbSOcw68IEhLKH8RY4LXGMs5QCxe2QboFmYhvt0idqUYJEOpMlHePlwWMrEoCwmDtDpm+Yg+pOZqMenmu87zr/bOHFFJ6tPUQGEz96CfkKKC0nT4PWZ44KPMK1fEG93VyntBbUvQhoBL1IbHbiTHCfG4bgEo+HVv862hrM9uQTju+8oLQyeIBWD9DJ8tRh"}
-modified: 20181222164455154
+date: 20181011
+modified: 20181222165400984
 tags: journal encrypted
 title: Climbing the Sa Talaia
-tmap.id: a2c7a6b2-3bf0-4435-a8f7-766ee99913c4
+tmap.id: 6a09ec4f-a326-4d8e-9a31-a75fcfc4c412
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
+
+I climbed the highest hill of the island.</$button>
+<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
+<p>[img[20181011_232655.jpg]]
+
+I was curious about the view and was determined to use my opportunity. I didn't care about how I would get back in the dark of the night and decided to keep going. Only real trouble will bring real solutions. So it was. I found a road that went from the top of the mountain all the way back to our home. It was much longer than the small and steep path, but much more safe and relaxed. Lesson learned?
+
+<br>
+
+
+
+<br>
+
+[img[20181012_001438.jpg]]</p>
+
+</$reveal>

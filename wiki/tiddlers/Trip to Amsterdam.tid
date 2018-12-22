@@ -1,9 +1,43 @@
 created: 20181221160543716
-encrypted: {"iv":"Kum/oln5EtYZ8iLTgn8LcQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"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"}
-modified: 20181222164455239
+date: 20181115
+modified: 20181222165401055
 tags: journal encrypted
 title: Trip to Amsterdam
-tmap.id: 602785dc-fb3c-4f73-b7d5-8f0b5debcd62
+tmap.id: ac8e5594-5f9d-425e-a324-1c8afdf93bd2
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+<br>
+
+
+//Thursday, 15.11.2018//
+
+<br>
+
+Without much of a plan, we arrive after four hours of driving in a small car with five guys. First thing: Find a coffee shop. We sit in the nearest coffeeshop to our apartment and through a big window I survey the people walking around on the street. 
+
+<br>
+
+{{Amsterdam Images}} 
+All images also available at:
+https://ernststraat.tumblr.com/
+
+<br>
+"""
+
+One evening we decided to eat psychedelic mushrooms, which turned out to be a deeply spiritual experience for me.
+
+First it felt like I could see reality a little bit more clearly, more crisp and more colourful. Then, the movement of my body seemed completely effortless. It felt as if I was not my body but the energy flowing through it, moving it around with it and it's intentions. I realized that this was quite a good answer to the question: "Who am I?" I am the energy of life or more concrete, the distinct pattern that this bunch of energy performs over the time of my life.
+Back in the apartment I was able to make modifications to my visual perception of reality at will. It was as if I had Photoshop in my brain. Closing my eyes I could imagine the most delicate and beautiful patterns and was tempted to let myself fall into it completely. 
+
+What held me back in the real world was Ben's negative experience of losing touch with reality. Losing his sense of time he also started losing his sense of meaning. "How do words make any sense?" he asked. "I guess by forming stories." I answered. That all didn't help him, so he demanded us to call an ambulance for him, which we did, finally. Two guys came, only to tell him that they can't give him Valium and that he will just have to wait another four hours.
+But even without giving him any medication, they helped quite a lot. With their sense of humour they cheered up every one of us and after half an hour, Ben was also able to laugh again and they could leave us again.
+
+I felt like I was basically able to think straight all the time, but in the bathroom I felt even more clear than in the living room. But looking at a round perforated plate in the bathtub, the pattern of holes in it kept morphing into different symmetrical arrangements all the time. So many possibilities to arrange the holes in the plate, and all of them were more beautiful than the "real" arrangement that got covered by my imagination all the time. 
+This pulsating variation was omnipresent in my perception of reality. I could break it down whenever I want and just imagine an alternative reality in all clarity.
+
+I was curious how deep I could let myself fall myself so I went to bed, closed my eyes and relaxed. When I finally dared to take a look into the dark abyss below me (turning around onto my belly) I was shocked by what I saw. It was not only ugly, it was disgusting, brutal. But out of curiosity and because I felt very energetic I didn't turn away but opened the energy in my heart to the darkness. What could possibly go wrong? I felt the darkness calming down and mixing into the energy of my heart. It didn't hurt but instead I felt a kind of gratitude.
+
+In the next moment I remember, everything is bright and I'm overwhelmed by the cuteness of some being I do not clearly recognize. Is it Fritz? It's soo fluffy and bright! But I feel that the dark energy still whirling around in my heart and in the surrounding is like a catalyst for my experience of the cute and beautiful. 
+
+I think this fantasized experience contains a profound truth. There is no good without bad. No light without dark. No joy without sadness. It's a universal truth I have never felt so strongly as in this hallucinated experience."""
+

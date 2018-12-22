@@ -1,9 +1,14 @@
 created: 20181220153141258
-encrypted: {"iv":"oo8SS/jR3S3W9FS9pq+C7w==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"g7fJizuCnOxs61EsPTLdNhDIf88loTSMGNUQX/dlVB3ooi0PfQE1oLLWNiTxzppqcCv4HnOIozkVlvEvMiNzJ+uDtenXM5d425wVDxTy8UVz0FvxLoVy4g1f9JyYkU1KUYZmURajQ6ILK8j7N92HK9Z3Org/tEebOuoX4RPzZQ/kNGErjX/VlM/qgpD+Po86Pfukunp1jrDokApWYhiEKnYSpzFoQWUMY6st2FhaTx363z0OoKevNWOXlsl2DKaTvX81sCJLJXPOjX4sKhG0OG4/mkP2OSG0Yez05fxKaXsULeUlqxGaGuhV/4khM0Fyyw846CsJGXudjUaTxEjHmW49kDU5FhfVEI/41VHAjE/5wAdtwW2rA3reyM1rWmmert8YHzKMMQqgn8kRZcM0m/+Pck+lFXcw1dioT2V2rTTcxz3XEOQpNQuEXpF3Xrr1WRhNQaFVVxxxJZxuTZmFDmKZMqvj5IIs2IkjNdR9Fnvb6/t3luipwkFK7Q6OyqF1/mTNKIP6eWjQWnGKwsXn/6YwxqzlGbXk7KDEpXVTUOxYS06mp6L5OzlAvdiU0rvgVNFrEIvq6fnyJvzh8QazDJhfYaUS2ygRyhN1YNsjttKG7soxUr/5d/ljQHcNeKpXvq/GNMsJinxaGBhmavWaySH13JRD/8KaW/oK100hgSKhiAq6ZSbDN/FvxEIN3uqJCf3hpq2vWpyiAOv6Ovxb7zXtCX23Gr/8tJeBE2XDBcHFs+Jxu6lCho1MVWafOwirz4B1pGZ7vl+GoSko+/lPrFKc9KgEnFgLEoPGUK6gewgAnRNMv6AxZ/eOsXb9KyXHN3Y9fbLKgLuagv17y2shuC6Mzr08Yj9BmJlMrf2G7RXwwTeU5ROY21eE9fQenp20NswytmTUrf4CzyffXcB+7I/VIFKH5j5nSA9bXMh4oHbP0uS81LqD3qQt998ZR2wEOcEmtwwT1emSLLVrUvvqThRMlo8RQnrdsglme4Nlo46d5iVGcKpiMhcPj8LDDxV5pJtYUnSZVAOxzulUQfQUpIu2b3CjvRAv6vX3NYy+a8u6RuDT/XbEBs2WToCSncW78hgSx2lCmJNzQ2IUViS69ticS9F1KNH/iFacXyQXKibGlN5zf8X6FBEPC2znZrQzuk5DgcWVPQv3ZySsz6kdjV6NA4AUvWjFIRoLHJi+gc1tRXfxVFwAtiOmlLef2pTmsJt4Pg/wfMIV"}
-modified: 20181222164455105
+date: 20180908
+modified: 20181222165401189
 tags: journal encrypted
 title: Hanggliding
-tmap.id: b121df83-a335-44e9-b694-c38236d46b91
+tmap.id: c58aae9a-a6e0-4f28-a48b-440fae90234a
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
+
+It was a completely new way to fly.
+</$button>
+<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text=""> Running down the hill, lifting off, steering with your weight and landing on your feet - if you can do it - feels very much different than flying a regular glider. There are a lot of funny videos of me landing on my belly like a young Albatross. And a few where I get the landing straight. 
+After all, it was also very interesting to spend time with Clara and her brother. They're really cute together and I learned a lot about their background that I didn't know.

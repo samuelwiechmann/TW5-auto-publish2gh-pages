@@ -1,9 +1,25 @@
 created: 20181222154301492
-encrypted: {"iv":"dPjchEdpbDJezOWk/C2xRw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"82MjyKk8yiG2UsVxmGGyxRT8L1ke9a26UYuIc9Pl3aPTq5ZVfiZUF7fb5ajQUydS/WFN4o6xjLZkfDrX9oWqQ2WCps0VR1c0u7bm4dQXw2iNPEFY6y6r34Dsa1PQ7uLeeVICwxaIQ31eF87amk650jvk5uOdFuVFZCUbKPcCbcdi+sjwso7gQ2yU7rt2tGNREcxqZhkXp0hWVM+PDFnA+AcmPsPR+zuZ9mKoSfkWVbOCsm8knl7bEcI25DlLOwb5wHSlTCHloyOVyP8IhcI/uDIhG3v8P/isfxzpeBvXc/YRYsouk8KwDj1HjkD+0XWr4GMyLHZDM3YL6S5z3SHGnsDFHIjWgZT1ULgbjXC7VBKbo3GgtITYSUM9Kib6puXpsEbKQD3x+9+hH0M3tCG6MlyN5hzt06B8uy+CAzdIiEs2XRaAN2/P69unz94IF+YjOaqpLe0uPleDi9SVg7VUu3ePBst1i0cAOvAFlQ0xGN3lFSyM5RWM5TK1+7FbBr6UKUxsXSdo23dpCUW40sz92SI7fUdVsXqBTqvgsa3ew1LNk2Fh18PGJhyIp/KWyrlo+HQ9IZATFuywqECFAEr+/QKf0e8j1TgLohJNoh5BWGrIAmqoKjFQOvJ4Tk6FzKpk0GAGTAtcvCgcjF7Q9hVGU1F3orZtjRpX6Bp08EgMCIdOWoTIrkJDrODe5RwqZCUkf8jMTshD3sAUV7MyCXTIkqsMxM0tp/c0c+HNNGzd+JzaIftM1AL6Jf9i1zQ9tF8jWsQOACi2k6XXjVTH+p5BRVFWaa024587xLqhnDAbvwSj0qz4WQ/M4F6BBibUiTnTziFmjIDFSfU6sJhNRmnZ9fHpZFFq3RrC9CxjBqWBE6WssO3AZHy75kmK2glyTHwFVJXWzv9KOhbRaQ8BAptB2BFpk9Aak8RPW4Js+b4JI/0aoE5xL3IPmKHqTKQmAe4jeRhJ155H0cSRMyBnxAG+nFB13bB0m65OtxHcp2AifOVL4M0xucUqufQiOs1bDmzpo3sQlTx9kt2hR4Fhs8BMrYmoDBKOE4FqYLoWxpv5QotNJwQ8uusO1LRHgamnKwSzL4ulh/zeB2Fx95xPvOjRAG3C/qy17fgs3MryLS4KydTlm9BXQUDVBDh6u4WhCRqWvHyfM7MD6/AhSsIx5Kny1aQkLCmzRZ1AUUlg7JaT8RI0IjcN+xNv5cS4NI8qWp4yzG58itDsZv78/oAj5j1wmgDG6lJe54+0MywlmhTWs5pW1+SCvVSI2PpFCYDW3EuI2eh2v2/kmrg+msq6z4UcYC8e7yLF/eGk0JJpJ3PW350zo1OJ57aadSGBnuJnlbWPZpTzRHNkan7tBL+dyAMgGUOsu5oVQ1Rgj6cDn2keL08CmXOecZ7lTiTVRIEQPxiIG+VTSxAQGhMUe2myh5BBTj8PaIF7UHsBaWmmEqXfj8FzwAyxSS2Ye+SaqMXrJOPOSNyk0zFLzxNh2FCtKt6+KyZoZ7O0ryxu4qsLUm/+QVMDGvHjE9Px4B9d3ryWs8jj4BSP0e4ooHLl9EjNEK8KdXMSnDoRtwFK6zcCYV0gjGiQlOYOi5UvySO74CI/k4+e9l7dzzvPt5m2PWt2iWbcowPpL3A5zudm5qUzkk0CqMxnxh7W9128vTAhrrHXz4C9QDNPQ4fJPX27WpF+6AsdoelkghqSAhbpkek="}
-modified: 20181222164455342
+date: 20181202
+modified: 20181222165401176
 tags: Firestarter encrypted letter
 title: L.A. Salami concert
-tmap.id: 8b9d030c-4535-4629-9638-f9f94bf5f99a
+tmap.id: 39a10ff1-148c-4a0b-870e-966ffe06b993
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
+
+First weekend in December, Marianne has a guy she met on Tinder visiting her.</$button>
+<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
+"""Few hours later, Mattis is on his way home and goes into the Kessel to go to the toilet. He meets two guys from our faculty and invites them to come with him. They enter our flat, see the pair of shoes in front of Mariannes room and ask: "Is Benjamin here??" 
+
+Some minutes later I join them in Mattis room and both our flat communities are united in our flat. What a freaking coincidence. 
+
+
+One day later, on Sunday, Mattis, Marianne and I visit a concert with L.A. Salami in Frankfurt. And who do we meet at the train station in Darmstadt? The three guys from the day before...
+
+In front of the location my eye gets stuck on a small graffiti. It's the only photo I took this evening.
+
+[img[20181202_203013.jpg]]"""
+</$reveal> 
+
+<br>

@@ -1,9 +1,10 @@
 created: 20181222154307369
-encrypted: {"iv":"RDc9Lb7NdKRrUZMJc8chog==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"4mGQq+jC92XpeS9vsmtBQiOHsBVjGuKGwugmZswkhw6KNWTme4yWdX/fnLo+VDHif9W5b/kzn7N3VvfaTUNxeSSwmZjGnFXaCgZuWg8qs4Ma+yeMtTGYE/VFZ6AlSM71a9rTWGRdUWb67PyL6z2iWM3phcbFQ3CeQ5qJVnZeQTzlAFjqNgtotNyZjwBBX1Y8Q2hdNLWRT4MlL/GsVu+ozYqCBUHzJNHtG/wzGIKfP9/g+VTy8eZe8UbZTvXmDbWqN9F9vbdc5Msea8MkowNR7Ys4By+WzcHIU4sw4zVE3IAEvtSzdEro1N/Qiji4IwSjBxAg0+4RfFgr+mb9i8snU/f+hVyvBVIJOKtpJgs3/qAVbu2xPMn9Y9h2QpJ5rQqob7YcvhibPcpNsObPV9S5uK5AAJG2f1Ds1pqZyI93MLYF1mYit19KoDc62uccz1hpejbI+DCHEN40QAgm11Lcbq4v2S3BfD6n5jiaJGrAYHlorxSkRp0vGTYHntF3I/NYD8IcoathjGi9rceDn4K/FhyOCpp8+sH2HP5ffzd+EWVFrp+Isjm0nZfZ5KASIhFwD2n1pJuoJeA="}
-modified: 20181222164455348
+modified: 20181222165401184
 tags: encrypted journal
 title: Journal
-tmap.id: 45bb7560-df18-40f4-a8c2-b282937e02f0
+tmap.id: dfa2d6ae-be9a-4b18-92e9-1811e944afc5
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+this is a collection of journal entries. If you're like me and have the password to decrypt them, you're free to read them.
+
+<$list filter="[tag[journal]sort[date]] -[tag[letter]] -[title[Journal]]"/>

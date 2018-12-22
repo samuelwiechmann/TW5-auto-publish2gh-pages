@@ -1,9 +1,20 @@
 created: 20181220144819196
-encrypted: {"iv":"uw9ScOp282wlIalBr0XAZQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"Pu+k1rIW0KavG9J/hX5OgTysF1UUVEi/UEXJN8FcJGIs4sNnybKbKvIJwoTjB6G4VZu5uYYT9TbvrrrzmVcBbhIPbvfPrjnTqtfnWx7G/17FzJNV37jxz9XsvJ4EvWFj8OPLXSMEPeLP+bqZrwj1gR2+QatqEXfiUto6ntX3iO55uL7/98p8CGut4K5dFP+LzK3bmmUc7x3z1mUcQbzvy8hLBAxYTa6mWTRww0fzS+jQlr4/hsuyj7CLGxwzVQIBcoUw3QqGW0flJya7vyMLirxyAGf2oBFirZAs/19CM1edKPC5LO4/4IG1dGn5FkjrDSdoAEMEkZw5Beh3RR3eYZsirWOsE7AG15N48UGKgFy16L8s99vtPSuxbWWmrbdwk8pDk7enSK5DLC4b8UWpeA/Pbv1v9LZWHb6PACVYHdEQfPIJtzslrPidqYc8EVYJoZPDHUFj3ql2emKZ0DQzmwXxTjwmxjwN4Mj/iMh8U+k+L79VHvBmzIf+xCo9XTwXKNrQiN1ktqihKcRpZE9qjfw46DnkTHMvwQiS3/dHmYw2CKpSKqL+SvpnHVbI96Ihe2fCCzZP3YeNSJYpYnsm9+9nMm0PNNYn8mwYvtoRIQpc5GK7FtXph1Hp73wmZ2wNfca4KFWSKiqJN3NGnQbHDO/wyvN2QtMAVmkovZk0L8FxxrIV+1tNteezyEkdz8ojO2Gc2Yt1aAcfFF5Tr7Mld1BwrwY5k5Qe4ThF/nrgvmMFa5xE+/C9L6enrSnE7MqHsYf8OmSU1HjxQE+gwXuE7jWhCWAz5yzobTQ1+Qs+wboHMTKSYPj6qhu/ArQ+qcML2OdnegjNIO+Sv/ftj8c3vT0vCNCHApJ6ZsnOQyTngFsrWV1EOIj1Ev5+CW1vhHgq9zMpxyvbbmhnLeU948OW8NGqJ5M4YqFx08z2+60vDTWbRa6G8Qk/8T4ZkBtgfetBh0dGoq+KfTLFoAny6DWzQ/SjlP8F1HIYrQ=="}
-modified: 20181222164455256
+date: 20180825
+modified: 20181222165401076
 tags: journal encrypted
 title: Thursday, 25.08.2018
-tmap.id: 05aff2a4-6783-4401-927d-36bc8d3fc460
+tmap.id: 481854c9-d53a-43dd-92ae-aa342fa78b16
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+:: <$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
+
+Thursday, 25.08.2018
+</$button>
+<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
+
+:: //Bike ride to Dieburg and back with Moritz. Halfway back Moritz' rear derailleur broke, so I had to push him all the way back to Darmstadt. Afterwards he made some noodles with vegetables before we went to Giulia for some beer where we also met Mattis and Hannah.//
+
+</$reveal>
+
+
+

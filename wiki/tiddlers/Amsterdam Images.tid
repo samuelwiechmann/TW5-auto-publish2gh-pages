@@ -1,9 +1,17 @@
 created: 20181222154309325
-encrypted: {"iv":"CmnJN2mc/7lj+dIXXCGZMQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"zodvcaWSyoHBLLfUsr/8L63AiJHyfENe4tHJyX9Ez9VR0GjD1AQfq8gtEI3ZiGYe2z4VOsKPRme/Ra+lRLzKxsgRtmsEtZuOZcjadlYE6Q8JBBPomPyNtp4gaB7lslf+rqRZrlaiBx/VEFTeRXPUCIUi3soUu+Xi/aDUBIymMB+l53BwbiqEckZJ+YgXdpGKAOAx+1lZug3+kCOFRZQMC5hvzSiCxyaFCCNmm/oL4ee1dVH5tvuKzasjrpxKcDdlNRnSo87ms/z352OktJCXi099Ripq7ciTlbKFbjwnzY1Uh+mB62xA5DzGR373c4xBufhZG9PNB0qpCgbXYSa9PCTQ1ROiYUwrwUwPUPYoYMmZ+UdqN8qz3W6VaNRoo9Hn0mwxn32WLvnZjxkIsu9JCbWIGCR0rGcED6Vbl4ySXAwJ+5azeb813A01X+I4a33vWBKG1NSR//AIBijN/3vWuaJwts46ZhmVqpnXELKmhF2rymDEJ49FUjSureN3lLWGQSHuX/BVsGKkrgRgz2353C1h+RQ7XFuAeCw7mMReMXgsVLRMPSkZBSfD0DRSPDn4GqHrtAtbxWblQ/pqnUSQJ/A0KdVeLfYwZnsHvSTyPINEUn+m2zDihZeMiFeFYKqXUyctfz/btNonaxug/LOdMUDbFqyxXByyHRNTR33M0jYcBCFGEh4ZMAF4eEUvbeg="}
-modified: 20181222164455165
+date: 20181118
+modified: 20181222165400996
 tags: encrypted
 title: Amsterdam Images
-tmap.id: b526edec-7b8a-4a17-970c-797a1d1c584e
+tmap.id: 81de1e03-6ef2-4132-962f-521876c39311
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+<$transclude tiddler={{$:/_MyImage}}/>
+<$edit-text tiddler='$:/_MyImage' tag='input' placeholder='(unset)' default=''/>
+
+
+<$macrocall $name='image-picker' actions="
+
+<$action-setfield $tiddler='$:/_MyImage' $value=<<imageTitle>>/>
+
+" subfilter="tag[Amsterdam]"/>
