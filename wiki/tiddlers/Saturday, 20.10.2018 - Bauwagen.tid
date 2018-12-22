@@ -1,0 +1,7 @@
+encrypted: {"iv":"aUmcHjTIv0a/Qm3WMELtKQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"GJPy8fRCx3s=","ct":"YdDUrNSMt6SEFjrpMUKEBIijbvUX8gZtUiSdUPRO1I6py/GrWRnNdlDzpqRPN+7e7JG2mkGIY9uamp07LbQ9uKt1cbD3+6Ze36l4qSIQ49gKgE5eNh0nZsYM3DLN5jk/pAykD6/O+IiXNsKRMNsrNTOENJsFK6mV7H8ugrmm6gmxxpjDDG3tQR0RJEhvsTrC7275hm6cw0BIuBuacYlyJ8kc2JpuCF2eZpvBZGQT8ZD/O5+rasgsJee5ln+eRrZdfHLIs1QC+IH8sz/xExLRO1vLxfLGEWM1oU1i38iZLxnSOZnkg8tidb6CWdf+qn5TkEnZz99YChvZF/ImEQwbpJPZgbDOZ8a270P2leD+6yY3bFjl1VYMfq+WzP/50GZKplQTZE571UrffAcdgPmRqbYSp3IfLkSCBybdd3mE6UYYDbzptQxn9aqWoio2pEvFjKP2Ct4p3KXWuRyYuH61KURljIPUeFGLAOyRZ8DGgJmbexQPlI6uYxNL9pQm13K3bSZxwqY0YA5qIFpF51EG3WlXPFwCmjB0ic1OYtS4DwhdVQXcMO9OR+MTJNPnHqvsxL0B8/81CGzefYe/zAVyLUBEscGSRsgm1s+TDIrMV5t42O2EpJGsyR8yJCDISgQN3WJo8Plp9xiB5NzuicYCacX4Jxvb3/roaUYsIRrjE6H40W7LEK/YycJTUbWX7IfNx5+vOz5tDnAlN1TdnNF6nQIfz/rWe/qldH5pikYCngTWNzGG2aYsYclrC1Zkyt6gRLJFWtPclpJRV3Tg+pfvHz475NnxBHuz1MemJ8W5shD5KbdzYoWC6uHqYw+0QOUh74lZ6Vm86uUjjSsQsw8GfTxh7pUzDl4WERDIiIkt6tfQYft2YfWPKz5Xetm4ugB9DbGdgeqsVQeyA8ifO3Ks+3VBFEclcCf+Pd2BjUrOZqvwKKx1iktRZg=="}
+tags: journal encrypted
+title: Saturday, 20.10.2018 - Bauwagen
+tmap.id: 80fc2793-8e14-44eb-96e6-2319ad163b5c
+type: text/vnd.tiddlywiki
+
+!This is an encrypted Tiddler

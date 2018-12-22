@@ -1,0 +1,18 @@
+date: 20180919
+tags: 
+title: Thursday, 19.09.2018
+tmap.id: 5564d555-3b19-44c3-bee4-ac637b701468
+type: text/vnd.tiddlywiki
+
+<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
+
+After three days, it was finished. 
+</$button>
+<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
+It got new cables, new tires, and a thourough cleaning.
+[img[20180919_160859.jpg]]
+
+Mattis, on a test drive to Lidl. He noticed that the tyres had not yet quite the right pressure.
+[img[20180919_175814.jpg]]
+<br>
+</$reveal>

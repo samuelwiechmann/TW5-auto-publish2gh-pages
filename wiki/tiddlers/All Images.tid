@@ -1,0 +1,16 @@
+tags: 
+title: All Images
+tmap.id: e7397443-cdd6-4433-9ae0-23fe033112c6
+type: text/vnd.tiddlywiki
+
+Image: <$edit-text tiddler='$:/_MyImage' tag='input' placeholder='(unset)' default=''/>
+
+<$transclude tiddler={{$:/_MyImage}}/>
+
+---
+
+<$macrocall $name='image-picker' actions="
+
+<$action-setfield $tiddler='$:/_MyImage' $value=<<imageTitle>>/>
+
+"/>

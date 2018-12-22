@@ -1,0 +1,7 @@
+encrypted: {"iv":"YIjgonCQZtXlCHKtl6Tb8A==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"GJPy8fRCx3s=","ct":"C3FD497Mu1X5hF27jk+6K+uq08EO2xrtI9BI+BecwpGuyPF33c9hrpa9zyYI8aW5rBWY92F7ylIScJNNi4wSeYCIn2jS9Me5VxxUeMRDjMC5kpaSp7M305AuJ1/u34ETRuE3wZw36/xirhZhndWN3l4XLdGAaJ9Kt1gf+ErPUBUPCNsBUW35tnT1Qpj9yHcta7YabVhlOBoObbrjgjZb8Lc2hGrgurR4KU6zzJK5bDDKgcgoDTCHDe4mZvIQAgvlPqykYHVyNcj3b0hiblfh+GwZFNH4vBxZG8cTMTeBpkTb6Vae2treMVSLpawVV0vE4rx2xzmduxyxCfnQIdWioeu63wyE9R6EvWGDp3AiGXjhP3HTSkgA2YcLuJYXvZ7nf7q5rQSB88cdas+IFfFIjKqldNMFV+inCzJBM2JNDPNouwMObwGLbAsG2ofRCHpQmCfxEJWvZeKF9eYDZoK4E0NU/OOuB/cKBBk+TItuslbZVBzp71d++PihX7f6hPp/DOYl5Lhqkq4jRAqaSDJMHAcSPqEnijLPF6wpnlq2lTt4HRL4/iYmKcWUBjbtAqMgHtFPWC1sMqqLZTUZHiKXe2Ra2TipVL/GQSb2yvn+llLp0gJpFvCyAAwGigw/jJbc/fcFSLcrqfZA+nEtqdtktWKhvmXcCiNdlaVo740xbsZLY5qJAHHzVyumjg2pI0astgfSE8dDgZ0INi+XBjxf3/BPr4qwqKewrX+bCIwECeaAAz462nm+EI67njImh6O7qenSv9ZHh0+T2BCa7MtgPfNC5NWMHUKiq/KCHZ2fCtFn818V5k6UwyWWuBlFiM4xgi4xUcFeuUawmFC60AwAWtY5/olRVJcYnEDD+hJWRaKH0ZkTj43diEjYzXIO3o6gJpk9tnBy0LQQ1Z1PLssOuxXPraZe4u42Mme396jB8l4Fv3J41e9X2djDYF4NvtL71el6IJJsfPCYjn2jF4vkmMbHn5vjy3wwZ6+KCMxGhpcCq5yHdl4KK2IY896rBl8JGVDYIWivUDkqHnxe0R0QgchUXVycd3DAmo2UXP/dR0xxoAc="}
+tags: journal encrypted
+title: Tuesday, 25.09.2018
+tmap.id: 8b5017d6-01e9-431f-b2f5-b9189b17aef2
+type: text/vnd.tiddlywiki
+
+!This is an encrypted Tiddler

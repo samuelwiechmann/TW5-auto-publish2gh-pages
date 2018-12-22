@@ -1,0 +1,7 @@
+encrypted: {"iv":"J9kNNbs0IgCoI+xip6HqiA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"GJPy8fRCx3s=","ct":"8qe/p1Kiq37+SROdGHarSPo2BIZl3J0/dqhzB9HnyFQJ2pNE7EIIaayaNVSSJC3wwxPoLVrmxG9QY8vlYONwlUdSrOl3XYCay54shLs/OklQHTcz8o5e4x8tPyV6mkPz+hFegSYNkcuZT9fx5xQwoFM6CFvujoR4EegZfzVh9DpAQRo5/c5in8VU0C7aw2r74EKEoSulQCUs53F4DoE8PDtWmP7f4PVZsJ6HFZmS1bPM8f/9EEjrRb/wVEt1Oj7ErjlPoYQD6c60cagsEgmkNYo6liHRRlf3MXfvmmQC+gY5QeAYP7m/QbGl2HDBtDUvcgdp10E5S/VCuwXHswB+9s5TBDFVswwycw0T9SP4PuCRvVNRWwVZHOknydcHuFGKwstOnLoOeyeyPZf4xhfAODah22338wqWN9IeWWIl/Jz4wrk4NouYx2Zbr+8TCHvbLuZvUXzQMOQnask1oT9bT9zmbOFzRv4pFwPOSiKEsNy29qg5eQqzflXtAvSHXqUvJiNmP3gF9D/lmH56PSb3psAn0wdfX5j+NlJMdiDfe5UaBu2tzM89a63gDzJR+39N6aKL2WvqREgf8560jGBXrfQ5SwKihpgyt1DHwP8D6C6nBASohOSjPkDpRP39VFcehREBSlixDJbN/Ew="}
+tags: journal encrypted
+title: Friday, 05.10.2018
+tmap.id: 20c96464-cb91-4e59-a1bf-7fb549b79e09
+type: text/vnd.tiddlywiki
+
+!This is an encrypted Tiddler

@@ -1,6 +1,6 @@
 created: 20181027230142028
-modified: 20181220155014286
-tags: howto
+modified: 20181221170234582
+tags: howto Amsterdam
 title: Examples
 tmap.id: dca9f0c5-a8cf-4d2e-bd0f-79f9534b02fa
 type: text/vnd.tiddlywiki
@@ -13,3 +13,7 @@ Examples for things that I've learned.
 *RenameTags
 *collapsible text sections: [[Firestarter]]
 **template: [[Collapsible Text Template]]
+*embedded video: [[Why you should define your fears instead of your goals]]
+*[[tag all open Tiddlers]]
+*image-picker Macro: [[All Images]]
+**image-picker Macro with subfilter: [[Amsterdam Images]]

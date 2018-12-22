@@ -1,0 +1,7 @@
+config.show_inter_neighbour_edges: true
+config.vis: {"physics":{"forceAtlas2Based":{"gravitationalConstant":-500}}}
+id: 6564ff54-ae29-4fa9-89bc-cde3cb4ea811
+isview: true
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Firestarter
+type: text/vnd.tiddlywiki
+

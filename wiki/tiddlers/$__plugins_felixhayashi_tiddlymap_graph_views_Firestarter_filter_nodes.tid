@@ -1,0 +1,4 @@
+filter: [tag[Firestarter]] [title[Firestarter]] [tag[journal]] [tag[letter]]
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Firestarter/filter/nodes
+type: text/vnd.tiddlywiki
+

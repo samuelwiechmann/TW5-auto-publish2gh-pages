@@ -1,9 +1,9 @@
 config.neighbourhood_directions: 
-config.neighbourhood_scope: 4
+config.neighbourhood_scope: 2
 config.physics_mode: true
 config.refresh-triggers: $:/temp/tmap/currentTiddler
 config.show_inter_neighbour_edges: false
-config.vis: {"physics":{"forceAtlas2Based":{"springLength":30,"springConstant":0.09,"damping":0.9}},"edges":{"smooth":{"roundness":0.05}}}
+config.vis: {"physics":{"forceAtlas2Based":{"springLength":150,"springConstant":0.31,"damping":0.99,"gravitationalConstant":-1491}},"edges":{"smooth":{"roundness":0.05},"font":{"size":28,"strokeWidth":10}},"nodes":{"font":{"size":50},"size":72}}
 created: 20180306101804004
 isview: true
 modified: 20180902005826778

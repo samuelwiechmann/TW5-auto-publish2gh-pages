@@ -1,0 +1,7 @@
+encrypted: {"iv":"GaNbIDQyHVhTFLwEwEELtw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"GJPy8fRCx3s=","ct":"I8X+YSVEmgua8WfrzuGdUDdmpV77IRQSys92cSrqAPJbLrBVGrO/Vl7U04dq6FJlg2yyAdbONmqv0SqPMHDSnKzBIlidNCraAUq6hZsz3uwWd+HoZnLBqB7782U87LaxOUdftTVVAaRJgWV1n+0glBPWhAL2F7u3MmkSIaG8lwsahd7SH2Uerk7y2ASCkgQqpsJZFxjn/mLWzQtpS3zecMXjZy8sZDxKk3EI3uD8EgwzT2PTTjeaZfFOfj7F//jDeBklLQeM/3XnC9TLSlxzAeP9tyRHRe2vnRiO0gXX0URqzuSt18Uss8oSksp5wi+A40k6j/ABUWBTkiPP1uxq/aOtdKzMNRqpguoN+uNyf3Z+99taJ+siiyVstJLBs0Smc23w/6oQjhdMpA9oZMBNZmJlpsWUIZ36JfFf5C34VwCYlJr7JSJ3iKAmnfBTeb4swiGIsEXBaAJ4j4dX7c0lgP/n/19cYesLa+RN+RrAds7+nwl5j7EKhFC2sw=="}
+tags: encrypted journal
+title: Journal
+tmap.id: 6d57dc97-0c2a-4d74-8294-c79714b86977
+type: text/vnd.tiddlywiki
+
+!This is an encrypted Tiddler

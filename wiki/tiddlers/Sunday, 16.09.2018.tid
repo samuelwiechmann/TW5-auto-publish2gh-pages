@@ -1,0 +1,7 @@
+encrypted: {"iv":"u+z+0gpE4KBWGf4lmdTf3A==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"GJPy8fRCx3s=","ct":"whc/5sqb8ZVQ8bOt9St5qJSn9GEwii3YkB2JhoJgCs0aUb9lkMlEQbpoFujpeKZhxPsWrEEq/9sgrkKTGAboiiud0kWk12KjkENAQnNKulUnefkZRaLpYajKISfBJBC1jgq+H5zevb/tQnMWoD2T7dKBBien8+HjIf0/d8v4VaWubsmceOyWexocTGnRmz8Lg+px4ZuGg+gNvzSxi4aYGpd0BgWfafaEXy5Lv9+dkYjbYpbCXgeTHE9ZNHNJhmsM9Ym423tuvqwp8yiIrDjKo3B/WQc24Nnf32Dfc1Vk1av2aLsw+yM5KpLCSzVgp91yxgHGr442o+Y0X3RrscyxEf3H1yo85bVe3IubL6G/YL4HvjieOrh5ggu3l1Qhw1scVkviECwWd8emxAFkPz19lqSJATBEl9XMuDgYsj24LD7XycMlpeuVoKjz3x0WcFL8ocjb1CAAdauzuxyy6u1WJAt8+wrglBm2Yi+e4zZtTJ3EcZ74FfurGzofkKVz5q6+zcrt2AOF0jKsToS4dFJkCy98aAf2OpGX1ZYOM/YveCVCgRBMFKOtqmp6EWf1qAquCV9UPnOylx2nXczw4d/Mkm3wHR4+AjtJEBSzM4rhHpGPEI9U8aJkwvSXjI6hQiqVKY6K2sNMwbwNTuyv/CRKJAG7tO24qXnyQUdCg7KH9nz/slrTjqVyL2GqT+9FwPF7EBz9BPFp76QuLBtHnH+orkEvC2UzWqRL98PxzLaNHvbtMA=="}
+tags: journal encrypted
+title: Sunday, 16.09.2018
+tmap.id: 1e9605fd-82d6-44ea-9b84-4142e2db0784
+type: text/vnd.tiddlywiki
+
+!This is an encrypted Tiddler

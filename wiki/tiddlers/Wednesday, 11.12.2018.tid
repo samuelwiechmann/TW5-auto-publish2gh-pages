@@ -1,0 +1,7 @@
+encrypted: {"iv":"r8Vhlvzb8cMRilRW2Q6Fmw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"GJPy8fRCx3s=","ct":"tkc0+XctSMCyrYraSBv5Szat+ExaICbUqKVYjxy3dy3jJYPwN8e3VZs0s71RZGmedA9oHDviYF+v6SmDwcY4YxMxP8+PC5qEOt499Nx3XisO7jKcHxpUEN3ADOyDvNYEoza3Hsd5ebFex+dmUz1IFLEUczX+XfMr/SNTc4uihPFrvypfJmmhjbm5YPzauo5DYGSA0DdMP7bL5oqIRB+Uvh0mS9g3vu+wGfWFwyWNPns6LyGe8UQRqhzqQ7sFh1XIu6W2TyoW8M/Zmg+wBIgGY3uaPhRd4teFevntiHD2W9Ph3JwXMxzFABpKrAes2wUZm4UQyqT0LE0+AuLRtG4WJ1d7uJA3CiG01+jhDs4cvz7FpYFppylx+GprGrDAuZ8epGf6RIcWGHPn9BXERaarCmqUXwmyBID4IvZjRgowcW4gJRFqtPyRqnmIufizmoAJom4ljAvmVVEsS4agkspNXtyPZYL7CG5j7A+B0mtazq3HwNbO5yP/XpF/NqusGVgbfi++oxx2"}
+tags: journal encrypted
+title: Wednesday, 11.12.2018
+tmap.id: 8b54af83-b83a-4afb-841d-890769ae149d
+type: text/vnd.tiddlywiki
+
+!This is an encrypted Tiddler
