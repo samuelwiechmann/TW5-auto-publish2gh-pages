@@ -1,8 +1,8 @@
 created: 20180613141450069
-modified: 20181019193716304
-tags: 2018 medium.com 8min content s4 article [[John Gorman]] 2
+modified: 20181222164324419
+tags: JohnGorman 2018 medium.com 8min content s4 article 1
 title: You're Not Lazy
-tmap.edges: {"8be7e9e5-1d95-46a5-a1f1-5d4bf9f32f5d":{"to":"8e942061-a765-4ee7-96d5-abc955bd2712","type":"deals with"},"438a3324-93fe-4a22-920f-01ca788fcd36":{"to":"b1271f6a-3354-4f3f-be52-7f99f549940e","type":"deals with"},"72299da5-6909-497b-8563-23c6ae62a046":{"to":"2eb787cd-cae4-4f26-92dc-688331cc1c3d","type":"deals with"},"82ec0942-32fb-4e7a-b3c3-a4211cf4c6b0":{"to":"abdd5402-c727-4952-8449-1c2e8ac7c8b2","type":"references"},"c3c96edc-99ad-4f8e-91f7-a54a8dd065c5":{"to":"208ad2f2-8df9-4c7b-a27e-f0cbbddd37f7","type":"deals with"},"fe39f630-e9af-4a66-bf2c-9144b35217ae":{"to":"f3b21c63-7948-4de9-872b-a4b46f8e1971","type":"deals with"},"b5b0a9e1-a401-4b0b-b53a-0960561955b1":{"to":"aa389642-aa48-45de-a755-b1a7e9bb2621","type":"links to"}}
+tmap.edges: {"8be7e9e5-1d95-46a5-a1f1-5d4bf9f32f5d":{"to":"8e942061-a765-4ee7-96d5-abc955bd2712","type":"deals with"},"438a3324-93fe-4a22-920f-01ca788fcd36":{"to":"b1271f6a-3354-4f3f-be52-7f99f549940e","type":"deals with"},"72299da5-6909-497b-8563-23c6ae62a046":{"to":"2eb787cd-cae4-4f26-92dc-688331cc1c3d","type":"deals with"}}
 tmap.id: 27a11c9d-ab61-4f5d-ae63-4587e2626df3
 type: text/vnd.tiddlywiki
 
@@ -10,6 +10,3 @@ type: text/vnd.tiddlywiki
 The last motivational blog post you’ll ever need.
 ''John Gorman | Feb 2018 | medium.com | 8 min read''
 
-"Literally, for free, ''I will tell you everything you need to know about achieving success beyond your wildest dreams.''"
-
-"You can't selectively numb emotions."

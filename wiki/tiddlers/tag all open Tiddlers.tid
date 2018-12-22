@@ -1,9 +1,9 @@
-created: 20181222151953514
-encrypted: {"iv":"AjSgiHVQGNc9lWdj0SwUUg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"h7ZixwoHkxc=","ct":"Rkvv81GDdMiSyMDI4L6m4YLt3/MLv0A4zucnQEJdE9EDHNNbTPanuwy2OT9jJE50lGNbMLKJXgXggji9Uw8c50v3kSq+HaLzrx6Y6n8nXJ5BYJZfqcJok1//+k5GkZwOQ5kT5rHvvNL1E5jI7V7+PWLfaTAusq9rENpePV1PI2pz4KPjJQYPqskvjg1iXxKKmh5Z6hrwM1t03P2OaoAcb8vBH2tJx/+eWjlEbEAFm0sxLkqI8zSQ+Dy6IAUvmXjqWDyPsk31I0sOaAh3WO8jTzCGjrEXtbmBPgMWj75LPcyF5k9oA03TQf4VR+sfw4SJT3Z3d+0dcSqLsgWZbB4Ec3WLgeZGzfZN27DyhuLu/kYgMcJ07ZxnepGb1qjP16hmWyGIGQszErct1usNS9pPA4xEYTkwcI+DT3d+IJf38uV1IRYP0VDHDKXr+ikenidWd/vrK2/5S/tvkDwGqBfFi7+Sa6Lh4VwRaMzbQRqEgaiuKk0faoGs5T+axgPiTt4gUm5QKorLCcOruAyoKgeO3OulMamLzNbhKlESex0="}
-modified: 20181222151953514
+created: 20181222154255271
+encrypted: {"iv":"+W7563tsuf9RCkg6qnCk7Q==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"YoDppKvotc+aKaQQMw6Dla2iFcDTfjqMz/9sdvrDv7XoOBRszW77x9pEXXjz4u2ckw/3ez3pvGQl4GHqoCrGjPeyyJyFiNLf41JY6FGwF/4LlvgPckP9Yc1Xh16VqbbZ8IlarBZAZrzeAzb6q2uHzcF+3FdUiczqMPr8PWKrCG/AQqlmJ6ip78m/5jwnE0eY1NWb21TgbeMey+01fvHtpRs0iytWjJ118/MiUTEr+9ACQXNZsEeeAnpV+cMShDpqCo3dMx0cNPl5BlRxa8R46DnCKKk8Pk4SceKKg/MwQbKJkfSH9UZeoFHnRk1Fsr98D918bltMPVnMfrfIB+ZLGbtG17licbOzNPKqe8GA4Kkx0Pk3xSpmyArh97JkzT34BnW0nM9MYLBUCS/oAjccjP7lkeTLcH5WLzp2ufGlOSOmBDG2fGybD3jkU2ztf7RFYMJXCg0kSUVFbH6zvJGzO5wR97LgykRTVtAozkluDGCel5twIXLcpr2SIjyihftp82O33yOTPj/D422J4Ntkl/s1HLcfXruTgBQAuWqo9lSxe9VaV9fHIfeVkd7tGzUGxr+yIUKvqyOvW+UTsvF0MQ7fHcko2ZcGNVQiDlizD8dRTq/QUfG732Xx"}
+modified: 20181222164455282
 tags: Ibiza Ried encrypted Amsterdam
 title: tag all open Tiddlers
-tmap.id: ccfc4018-791b-460a-a30d-e20f60f3097b
+tmap.id: 23606acf-8365-488b-b9bc-69efe568b8c1
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

@@ -1,9 +1,9 @@
 created: 20180317190938089
 list: 
-modified: 20181019173241305
+modified: 20181222164318582
 tags: visualarts 3 humanities art topic
 title: Photography
-tmap.edges: {"7bd57338-ba33-42e7-ae79-44a096d5ddb6":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"3:subclass of"}}
+tmap.edges: {"163667f2-1c10-4e16-bf1f-cc1366322dbc":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"subclass of"},"7bd57338-ba33-42e7-ae79-44a096d5ddb6":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"3:subclass of"}}
 tmap.id: c39fd665-e600-4395-b6d1-a237d067d52b
 type: text/vnd.tiddlywiki
 

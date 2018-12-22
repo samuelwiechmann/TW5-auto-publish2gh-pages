@@ -1,9 +1,9 @@
-created: 20181222151953137
-encrypted: {"iv":"YQaJY6l+SIQ7HyfnOAYHLA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"h7ZixwoHkxc=","ct":"zCyJxUMR1BQqBBIpO7+pq8UZVzGAfoGgeEuVrDsejyVaSbnDIioP+2iblEGOU6l1E3kVNTXq0czF6wP+Ng3N7bv+bJtix9Rs0ue6Uj3JlKGCznYFYB4WuK5kQmrXVshP8t6cYnfaR3nNf2umy0FOV19ci1iea0tfBRlmcZaca2d3uZ5T2gx0MGge0lVtSvoow55mJijyYBcFfxLLTQ2zXOYKvWjn/kWrgIR9iTyWt2ORy1/O4o6SZUMOoa6Ptlt0buVzimMZOb9UulcZcKRfTY2Q/Z0gEKmk0wFzRIkPsSXO0pao6oub5/ABvWEgXZ2FgFmHHCY6ikB8dXIbXDH0fx0JFSS8Xxe4KKsV0uXPMSNjL1wKxs1+F6dgNTWUpZi0gEkHM8XOAF15AX5sjPD8P0SFMI60dlx87U19ujse270mhE4m+8i8LPcI4ioZqylxmC5oYOyygJcO5G+2sIpRQ49uigk9ug3EnIoK/BA6dULd8bVYURUk2kuakBm0nfUIjdp2Bbx/Wvyih7xbxIzgzC9kKVgE6zEKONfi4l7yumyKcu1/heKgJcm61ilGooB5DUwrhDs7Q1gygJ9EjZi55nFAPHsW4p4EhDwPhkqAc55o9KpfcNyfovouREfET2x4YE3rs1fh0m4n6LB+qamomgOJ/0DyfCcOTH1G15k6AGncYgYoypcACrnw1yiwLvt4568mASa+xNV7SuB/HsfSSEwhX8FT6fqhNd4Nz/nTk1XpwGRY+xWUKZUKnIS1E2Nk0lyNFGGxFg=="}
-modified: 20181222151953137
+created: 20181222154251427
+encrypted: {"iv":"6JY0fMIOS2jkyyZ0in5z+A==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"mJ8QD58oZdLfB8g55SMxOMEwSzs+1dLKj/sV7BA0TLqWhsbprYkiYlmZED6VCpbM7NKrDpL+k1mcfsAshp9v2HbprAOIFxTUAEwzF42A7fJ7LdsYQPUjWXsWi+1b7/5IBg2AKNTNOB/pH5FemNqZmfjvkpeGATDUDsOI4aYFPJZ9ybF4o4bPr7rTrlNrR/XTXBQVp6VioH0Vyh2NiZL1TGc8Q+a9+xrfjOcaoiMHUkKXihi9bLoE6TdO+Sl0sFAaIx3wEsdvXKzxpa3u5jG8I66DpMwDvnfwi72M/1KYZP+voC8d/tbTaMxYS8OF0x/zdWHxkcp+ZCpNDUAU6iICyx+DMTFmFwWn1Djgr513V2bVPqY5BKYZOKmF7sgNYU6uY5GqF1GPnVQIdK1nt8r+V2R1Iwcae6gKBRUs/0TM/j7nokxBHTbmv+BtHLsXlvSzZPzkfqlsPMlpef+v+kACH19x7VlnWEqrTISvOC0j65Oi9RdByLSGFszK/Id499gcNIPF2+6l+krgnm7hxt98+BMtG/C0jdokDhoVXthv1s9B6U08LVsFW4H5S7C3VYsooXHP6AU9WMAw22Ay0vYdlw4YAupIkeT8A7puhv7TpIwgS/U0fCM5+u1QIofnVLyWt3ELPXbPGqbKyqd0Vdiuszjg96jUuIOBK6e+6RQfsqYqmq+SgFhIbulLHD80pkdMN8Y6NFo/ASirOk4sqTXa3JPlxdLbu9gWpolsqvRk+CuRe2LlCw0J6iD1HnTK2rxw25qDkl30lFlA2hSMplY9CTnoLQKzv0nU/ej9O80L8VuR62zW91t6g/KU1a0ewsSmX34jEbpxK/zqHA6FDcv4aKNovMg="}
+modified: 20181222164455245
 tags: journal encrypted
 title: Thursday, 28.09.2018
-tmap.id: 3349bc70-f1cc-41d9-a9cc-3ad251789253
+tmap.id: 3c2aeb92-1216-4e33-916b-d61b0cd38fee
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

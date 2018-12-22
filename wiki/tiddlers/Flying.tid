@@ -1,6 +1,6 @@
 created: 20180303143734874
 list: 
-modified: 20181104003828630
+modified: 20181222164314329
 tags: applied science topic 3 transport
 title: Flying
 tmap.edges: {"89521ee6-f6c7-4ecc-b373-35108e8cc9d4":{"to":"1d9eb4f8-287a-46d5-9f63-912dec3150f3","type":"2:subclass of"},"b260cad9-2b9f-47af-87da-706807939489":{"to":"a5bca572-73e4-4ad4-b911-eefa6638bd91","type":"3:subclass of"}}
@@ -12,8 +12,3 @@ type: text/vnd.tiddlywiki
 Many things can fly, from natural aviators such as birds, bats, and insects, to human inventions like aircraft, including airplanes, helicopters, balloons, and rockets which may carry spacecraft.
 
 https://en.wikipedia.org/wiki/Flight
-
-<br>
-''Related Content:''
-
-{{{ [tag[flying]tag[content]] }}}

@@ -1,7 +1,7 @@
 created: 20180301191800076
 list: 
-modified: 20181220133622687
-tags: science topic 3 [[Formal Science]]
+modified: 20181222164321213
+tags: formal science topic 3
 title: Theoretical Computer Science
 tmap.edges: {"d2d77ff8-53d5-41e0-87fb-4fa6ce990ed1":{"to":"20d2bf01-a59c-4645-9eda-049fe2a5e9dd","type":"subclass of"},"e48fc3be-044c-49f1-9ad2-c67f3dc487e2":{"to":"18fc1239-3b0c-4a48-9304-65e638dd271f","type":"2:subclass of"}}
 tmap.id: 012837c4-7199-4815-abe5-465a03b4fc55

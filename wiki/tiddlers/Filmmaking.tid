@@ -1,9 +1,9 @@
 created: 20180317222903116
 list: 
-modified: 20181019173921564
+modified: 20181222164314372
 tags: visualarts 3 humanities art topic
 title: Filmmaking
-tmap.edges: {"63ff2f98-bc30-444b-a09e-db96f89fd62a":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"3:subclass of"},"b764884f-455b-40bc-aeba-af670a1ce845":{"to":"7a4bbc50-71ce-43fa-a920-ff8ddacc420c","type":"3:subclass of"}}
+tmap.edges: {"95e5482d-e5da-47b3-acf0-9ab3f050a0a1":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"subclass of"},"63ff2f98-bc30-444b-a09e-db96f89fd62a":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"3:subclass of"}}
 tmap.id: 4cfa1c7e-f618-4050-89ba-a045bde274eb
 type: text/vnd.tiddlywiki
 

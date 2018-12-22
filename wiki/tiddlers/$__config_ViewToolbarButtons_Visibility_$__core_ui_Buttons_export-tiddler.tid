@@ -1,6 +1,6 @@
 created: 20180306101415388
-modified: 20181221115340160
+modified: 20181222164256566
 title: $:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/export-tiddler
 type: text/vnd.tiddlywiki
 
-hide
+show

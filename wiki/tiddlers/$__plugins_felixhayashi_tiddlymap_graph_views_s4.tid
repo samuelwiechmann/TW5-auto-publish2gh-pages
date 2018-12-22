@@ -3,7 +3,7 @@ config.vis: {"physics":{"forceAtlas2Based":{"gravitationalConstant":-500,"dampin
 created: 20180612093806690
 id: 7d0af39f-aae0-4173-8239-13a9c298c698
 isview: true
-modified: 20180618211928265
+modified: 20181222164309110
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s4
 type: text/vnd.tiddlywiki
 

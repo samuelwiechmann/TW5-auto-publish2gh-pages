@@ -1,6 +1,6 @@
 created: 20180222130616820
 list: 
-modified: 20181016180839520
+modified: 20181222164319920
 tags: topic 1 Academia science
 title: Science
 tmap.edges: {"ed1a1635-6b80-4ad4-8237-91815b4138d0":{"to":"8bff418c-dadb-4472-9dc0-208a2ffd0038","type":"represents"},"d82d9397-b779-4fcf-815d-0c7fe9df8432":{"to":"838a03ec-ac34-41b5-b224-f8f95e599bb2","type":"has little to do with"},"771e3fbe-48df-4d48-8933-6cb8b6fc395e":{"to":"651a5bde-eefc-4903-94f6-b8e3d1b1eb38","type":"0:subclass of"}}

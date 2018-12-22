@@ -1,8 +1,8 @@
 created: 20180313090358290
 fa-icon: f007
-modified: 20181016231500314
+modified: 20181222164308476
 priority: 1
-scope: [tag[person]] [tag[Person]]
+scope: [tag[person]] [tag[Person]] 
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:person
 type: text/vnd.tiddlywiki
 

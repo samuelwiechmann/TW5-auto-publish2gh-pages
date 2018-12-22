@@ -1,11 +1,11 @@
 created: 20180325105922596
-modified: 20181019152904481
+modified: 20181222164324232
 tags: weather wind meteorology website tool source
 title: windy.com
-tmap.edges: {"e94bbded-f630-4fe0-af7b-c70d584a3b5c":{"to":"4a18ddcd-acb8-4b43-91c7-3c68e93f2c64","type":"shows"},"279a061d-f40f-41d3-bab4-19e212b0b7ef":{"to":"04f61ab5-6d17-4992-b8c3-f4154d0ca390","type":"deals with"}}
+tmap.edges: {"e94bbded-f630-4fe0-af7b-c70d584a3b5c":{"to":"4a18ddcd-acb8-4b43-91c7-3c68e93f2c64","type":"shows"}}
 tmap.id: ab1478a0-97d9-4731-8cd5-70f91d8d61d5
 type: text/vnd.tiddlywiki
 
-[[windy.com is a website|https://www.windy.com/]] offering all sorts of detailed and beautiful meteorological information. 
+[[windy.com is a website|https://www.windy.com/]] offering all sorts of beautiful meteorological information. 
 
 [img[windycom.gif]]

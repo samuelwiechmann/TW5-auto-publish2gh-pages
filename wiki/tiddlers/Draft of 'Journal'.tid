@@ -1,9 +1,0 @@
-created: 20181222151954833
-encrypted: {"iv":"BEDSxF65Vi45r8yjJKjpOw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"h7ZixwoHkxc=","ct":"yma31CqiGxY2tL9Wr3sCWmTkRPJhFTvspX81XleHZori7TN0BE9gAwYRcuaiABPyizPB8+WLqOOl8/aFohtV384NktoWy6BDcBCIqSRfASaZAFfR7Eyxl5Tu26SvaBY0cKsnVpEnjLihP4glPJZ26MOsz360wgHQXqxeWeMPZYJHfduMKjmPondgFy5s+R+XfvSgmd3F3q5EnLDOjbYIN1iKXQoiSEvlbMPkEx7IrQzpiJscccnV67nnKu2RJBNya9OTygjgfgYopI1ht3cWhLnP6Hwsj6F9B2+F/L5Lm7agQXDOHZPNXYoUyosrfomxvbWXJ8u+e3iBh9kbJW/2DQIVA/7oIEjUPVelWv5IVRJYhBa0uUSpf//1bL67zmI7rA3wwSUQ9GkdgmaTjvuQ4BkLNQYvv7eVKTa8aSAT0P3pCJ83O0RYIrwJnIQcBS66+r6Y27XqDt/DbkC6Zxa5s00tQ+lg90UEttPIVkLEQLC94aIdgnIcVeOKsReE0ywKMpcV4Qwqa5TCS7PGw96VCYkq2w9d8KBkG1QpUNJmQmnQJmY1JOygLJFXeMx22x64lmGb"}
-modified: 20181222151954833
-tags: encrypted journal
-title: Draft of 'Journal'
-tmap.id: 0c66b19f-f143-4e8c-ae48-ab5e819abb60
-type: text/vnd.tiddlywiki
-
-!This is an encrypted Tiddler

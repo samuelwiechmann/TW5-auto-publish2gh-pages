@@ -1,8 +1,8 @@
 created: 20180304221812401
-modified: 20181019171346334
+modified: 20181222164315669
 tags: content video deutsch literature philosophy 2014
 title: Klassiker der Weltliteratur: Stanislaw Lem
-tmap.edges: {"c39221ed-f301-459b-9fe9-fea00b8abf8d":{"to":"b3b976f2-ddf7-4fec-9918-608f245ead4c","type":"deals with"},"51c3f423-061d-4c67-a82d-09cc008c5bc5":{"to":"54a58170-2fd9-42d6-8062-3340d73b932c","type":"deals with"}}
+tmap.edges: {"c39221ed-f301-459b-9fe9-fea00b8abf8d":{"to":"b3b976f2-ddf7-4fec-9918-608f245ead4c","type":"deals with"},"44c39014-1727-4066-a3d1-ab33fe74ce42":{"to":"0561d7b8-21ea-42ac-864b-831a5b9b4dea","type":"humanities:instance of"}}
 tmap.id: d6677c3a-95d4-4a58-b6b7-b9aa31805179
 tmap.style: {}
 type: text/vnd.tiddlywiki

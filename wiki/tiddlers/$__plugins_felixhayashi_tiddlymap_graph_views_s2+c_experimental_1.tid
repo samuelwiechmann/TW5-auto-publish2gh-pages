@@ -5,7 +5,7 @@ config.vis: {"edges":{"font":{"size":10},"smooth":{"type":"dynamic","roundness":
 created: 20180301181023522
 id: ebea91f0-ffb8-4e31-9c77-848925a10773
 isview: true
-modified: 20180404094447426
+modified: 20181222164308839
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s2+c_experimental_1
 type: text/vnd.tiddlywiki
 

@@ -1,6 +1,6 @@
 created: 20180303142422841
 list: 
-modified: 20181016103844389
+modified: 20181222164311995
 tags: applied science topic 3 Computing
 title: Computer Science
 tmap.edges: {"f3b98c00-8869-4f0e-802e-218470eee1ca":{"to":"26afc735-53ba-4406-9583-e62c070efeb6","type":"subclass of"},"bc21c3a7-87f9-425d-9a46-86eade074bad":{"to":"7cc4b9b1-fc88-4281-a2d7-e27ec6339b00","type":"deals with"},"cf71fb49-a80e-473e-a0c7-7c6ef24010cc":{"to":"26afc735-53ba-4406-9583-e62c070efeb6","type":"2:subclass of"}}

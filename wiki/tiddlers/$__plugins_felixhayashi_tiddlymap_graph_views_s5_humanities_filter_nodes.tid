@@ -1,6 +1,6 @@
 created: 20181016181554192
-filter: [tag[topic]tag[humanities]] [tag[topic]tag[Humanities]] [tag[content]] [tag[Person]] [tag[person]] [field:tmap.id[7a4bbc50-71ce-43fa-a920-ff8ddacc420c]] [field:tmap.id[3f476eab-5e7e-435f-894a-e76cc828b3f0]] [field:tmap.id[bfd159dc-ffd4-45a6-b65a-406a372d00e0]] [field:tmap.id[b2e225e2-d999-44d4-8c38-583fc39b7112]] [field:tmap.id[fd97678d-8a99-4a2e-a039-a6cc84db7079]]
-modified: 20181019203136739
+filter: [tag[topic]tag[humanities]] [tag[topic]tag[Humanities]] [tag[content]] [tag[Person]] [tag[person]] 
+modified: 20181222164309319
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5_humanities/filter/nodes
 type: text/vnd.tiddlywiki
 

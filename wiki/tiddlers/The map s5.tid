@@ -1,0 +1,10 @@
+created: 20180716121048480
+modified: 20181222164321003
+muuri-tiddler-width: 0
+tags: introduction
+title: The map s5
+tmap.id: 98cda13e-7145-4d7b-b877-87ec351cc715
+type: text/vnd.tiddlywiki
+
+Click to activate the map, zoom and navigate, switch to full screen mode and open content behind the round nodes. You can also dare to move the nodes with the cursor. 
+<$tmap view="s5" click-to-use="true" height="600px" design="plain"></$tmap>

@@ -1,9 +1,9 @@
 created: 20180303142332916
 list: 
-modified: 20181019211316454
+modified: 20181222164314657
 tags: topic applied science 3 Technology
 title: Health Science
-tmap.edges: {"0277f8b0-c4fc-4008-acc6-e353ce18dd7d":{"to":"7e0b4d95-7146-41ca-8ece-415269980754","type":"2:subclass of"},"8b7a5a88-bb44-4a15-8bcc-33b880a5ab80":{"to":"245a2020-d4d5-4d7e-a5aa-eb5cdc9b2f43","type":"2:subclass of"}}
+tmap.edges: {"0277f8b0-c4fc-4008-acc6-e353ce18dd7d":{"to":"7e0b4d95-7146-41ca-8ece-415269980754","type":"2:subclass of"}}
 tmap.id: d94a446b-6275-4a18-a474-e5624916b7e2
 tmap.style: {}
 type: text/vnd.tiddlywiki

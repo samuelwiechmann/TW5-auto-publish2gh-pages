@@ -1,9 +1,9 @@
 created: 20180304223959574
 list: 
-modified: 20181019160330055
+modified: 20181222164318708
 tags: humanities literature art topic 3
 title: Poetry
-tmap.edges: {"6869fad6-326b-4fdb-9917-dccc1e2c6d2b":{"to":"0561d7b8-21ea-42ac-864b-831a5b9b4dea","type":"3:subclass of"}}
+tmap.edges: {"1f5b297d-b93d-4370-89dd-02d4e23980a4":{"to":"0561d7b8-21ea-42ac-864b-831a5b9b4dea","type":"subclass of"},"6869fad6-326b-4fdb-9917-dccc1e2c6d2b":{"to":"0561d7b8-21ea-42ac-864b-831a5b9b4dea","type":"3:subclass of"}}
 tmap.id: 05003dd4-c3d9-438b-a65d-9ee6c45aed21
 type: text/vnd.tiddlywiki
 

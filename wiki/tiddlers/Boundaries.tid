@@ -1,8 +1,8 @@
 created: 20180613143245282
-modified: 20181019150214868
+modified: 20181222164311638
 tags: humanconcept 3 s4
 title: Boundaries
-tmap.edges: {}
+tmap.edges: {"9f01d26b-1a6b-44e6-a040-3af4cea2b17d":{"to":"a9898087-8244-4107-a94b-dbc5fad935c7","type":"part of"}}
 tmap.id: 8e942061-a765-4ee7-96d5-abc955bd2712
 type: text/vnd.tiddlywiki
 

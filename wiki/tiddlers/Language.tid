@@ -1,9 +1,9 @@
 created: 20180306154338811
 list: 
-modified: 20181019173103003
+modified: 20181222164316372
 tags: concept topic 2 Humanities
 title: Language
-tmap.edges: {"be2990eb-2fc9-485e-93b7-8d43caf39349":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"1:subclass of"},"d492824d-c141-4d57-81c9-f18b1cb8c711":{"to":"71dbba43-3b69-42cd-bbdc-df48f379c583","type":"2:subclass of"}}
+tmap.edges: {"be2990eb-2fc9-485e-93b7-8d43caf39349":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"1:subclass of"}}
 tmap.id: 8b8b123b-38d5-4c66-8bfc-384a462b5cc7
 type: text/vnd.tiddlywiki
 

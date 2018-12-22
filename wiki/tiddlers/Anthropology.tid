@@ -1,9 +1,9 @@
 created: 20180301195608701
 list: 
-modified: 20181220133508063
-tags: science topic 3 [[Social Science]]
+modified: 20181222164311494
+tags: science topic social 3
 title: Anthropology
-tmap.edges: {"2b722f8a-8917-43f3-b96f-33afbb48065e":{"to":"f19565eb-4457-41e5-93f6-a405d456bd3d","type":"subclass of"},"ca76eed4-d51e-49ef-b9fe-89a2fc4634d5":{"to":"7f143bab-0fac-48b3-ba1c-c7fc5dfc5d09","type":"studies"},"85d673a3-61ba-4999-89ed-19d6235e49c5":{"to":"f99518af-ecc5-4b52-b1a6-5c271346bfbb","type":"studies"}}
+tmap.edges: {"2b722f8a-8917-43f3-b96f-33afbb48065e":{"to":"f19565eb-4457-41e5-93f6-a405d456bd3d","type":"subclass of"},"ca76eed4-d51e-49ef-b9fe-89a2fc4634d5":{"to":"7f143bab-0fac-48b3-ba1c-c7fc5dfc5d09","type":"studies"}}
 tmap.id: bcbbcd16-a994-4518-ad5a-0c7d0a1c7178
 type: text/vnd.tiddlywiki
 

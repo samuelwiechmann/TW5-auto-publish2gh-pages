@@ -1,9 +1,9 @@
 created: 20180317190808195
 list: 
-modified: 20181220132913501
-tags: 3 humanities art topic [[Visual Arts]]
+modified: 20181222164318668
+tags: visualarts 3 humanities art topic
 title: Painting
-tmap.edges: {"6e40c3c9-779b-4d4c-a368-ce84d94e2463":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"3:subclass of"}}
+tmap.edges: {"f0fff521-e8eb-4ab4-b833-0ca32c49ba01":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"subclass of"},"6e40c3c9-779b-4d4c-a368-ce84d94e2463":{"to":"fff8c909-499c-4126-b215-62c442ae3b68","type":"3:subclass of"}}
 tmap.id: 0fdb00a5-1e29-4ccb-a54a-86acb3d7cbd9
 type: text/vnd.tiddlywiki
 
