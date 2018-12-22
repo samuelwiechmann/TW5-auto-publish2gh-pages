@@ -1,4 +1,4 @@
-list: $:/ControlPanel Journal Firestarter Hello
+list: 
 title: $:/StoryList
 type: text/vnd.tiddlywiki
 

@@ -1,4 +1,4 @@
-tags: Ibiza Ried Amsterdam
+tags: Ibiza Ried Amsterdam encrypted
 title: tag all open Tiddlers
 tmap.id: 1814f505-6450-41dc-80a9-ffb7d94e67c4
 type: text/vnd.tiddlywiki
@@ -6,7 +6,7 @@ type: text/vnd.tiddlywiki
 <$button>Tag with Amsterdam
 <$list filter='[list[$:/StoryList]]'>
 <$fieldmangler tiddler=<<currentTiddler>>>
-<$action-sendmessage $message='tm-add-tag' $param=Amsterdam/>
+<$action-sendmessage $message='tm-add-tag' $param=encrypted/>
 </$fieldmangler>
 </$list>
 </$button>
