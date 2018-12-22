@@ -1,7 +1,9 @@
-encrypted: {"iv":"/x+7S0fS908wYqpBHHCOoA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"GJPy8fRCx3s=","ct":"/k/0IAt3VtweFjB6AUXJZqOtmZalV1pA6OGizh8LwJoDPpGprTlIEsyF76euAymN/3T38Kbb/oPcd61EqrduacE2T4PAmBI2NnKRctflyxWfkmkqM4mpTI9UQ6FqTq3M+QiN26TwGGTGcMtv5WR6wVLHQxvb9SA+Vf/V3LoQCyDYQbtDx/hjsR5x5bMpXH4l/6KTn6ycYY6a7RbzeQNi1WfRM7R7M/bKzjwQFUODLrkT+OT78rW3UgIYH1+cRvn7GgHRw23xmIPSEXLS5pjS8Q3jUTM1OyAOaUaNgYPWvhBxW8QHFHJeFEL4UUxCmWr3fDxqxGAOXE9YmCWP4c1hZj+rQk5eCPCriuwH20vKfxPmOrDkTeQtuEB9e2YDviQG0vtwfL3ibcojewgLKJC9abcHX1mb9lQgFgzUtnBxYlQXEk6N6U2Kz+I27CYsHi0ZMB8xjzj5E09qeTKROljrBNJtcrfpmbaIazpT/kuPqGdt6gu0ryqMstd9xlr6fE/pfKG1gbUSdDvqQMMirJRbkU9k2GfJUB7Thr298e2IGvOqDGKmfSDHht0+7XRmmzoik/4X"}
+created: 20181222151954833
+encrypted: {"iv":"BEDSxF65Vi45r8yjJKjpOw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"h7ZixwoHkxc=","ct":"yma31CqiGxY2tL9Wr3sCWmTkRPJhFTvspX81XleHZori7TN0BE9gAwYRcuaiABPyizPB8+WLqOOl8/aFohtV384NktoWy6BDcBCIqSRfASaZAFfR7Eyxl5Tu26SvaBY0cKsnVpEnjLihP4glPJZ26MOsz360wgHQXqxeWeMPZYJHfduMKjmPondgFy5s+R+XfvSgmd3F3q5EnLDOjbYIN1iKXQoiSEvlbMPkEx7IrQzpiJscccnV67nnKu2RJBNya9OTygjgfgYopI1ht3cWhLnP6Hwsj6F9B2+F/L5Lm7agQXDOHZPNXYoUyosrfomxvbWXJ8u+e3iBh9kbJW/2DQIVA/7oIEjUPVelWv5IVRJYhBa0uUSpf//1bL67zmI7rA3wwSUQ9GkdgmaTjvuQ4BkLNQYvv7eVKTa8aSAT0P3pCJ83O0RYIrwJnIQcBS66+r6Y27XqDt/DbkC6Zxa5s00tQ+lg90UEttPIVkLEQLC94aIdgnIcVeOKsReE0ywKMpcV4Qwqa5TCS7PGw96VCYkq2w9d8KBkG1QpUNJmQmnQJmY1JOygLJFXeMx22x64lmGb"}
+modified: 20181222151954833
 tags: encrypted journal
 title: Draft of 'Journal'
-tmap.id: 3f6af368-435a-4b9c-a010-9ad1b14b73ac
+tmap.id: 0c66b19f-f143-4e8c-ae48-ab5e819abb60
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

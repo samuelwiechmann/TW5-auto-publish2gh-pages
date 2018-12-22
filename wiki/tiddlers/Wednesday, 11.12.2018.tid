@@ -1,7 +1,9 @@
-encrypted: {"iv":"r8Vhlvzb8cMRilRW2Q6Fmw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"GJPy8fRCx3s=","ct":"tkc0+XctSMCyrYraSBv5Szat+ExaICbUqKVYjxy3dy3jJYPwN8e3VZs0s71RZGmedA9oHDviYF+v6SmDwcY4YxMxP8+PC5qEOt499Nx3XisO7jKcHxpUEN3ADOyDvNYEoza3Hsd5ebFex+dmUz1IFLEUczX+XfMr/SNTc4uihPFrvypfJmmhjbm5YPzauo5DYGSA0DdMP7bL5oqIRB+Uvh0mS9g3vu+wGfWFwyWNPns6LyGe8UQRqhzqQ7sFh1XIu6W2TyoW8M/Zmg+wBIgGY3uaPhRd4teFevntiHD2W9Ph3JwXMxzFABpKrAes2wUZm4UQyqT0LE0+AuLRtG4WJ1d7uJA3CiG01+jhDs4cvz7FpYFppylx+GprGrDAuZ8epGf6RIcWGHPn9BXERaarCmqUXwmyBID4IvZjRgowcW4gJRFqtPyRqnmIufizmoAJom4ljAvmVVEsS4agkspNXtyPZYL7CG5j7A+B0mtazq3HwNbO5yP/XpF/NqusGVgbfi++oxx2"}
+created: 20181222151955453
+encrypted: {"iv":"+H5UxMmQ+EEpTikj6UJEpA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"h7ZixwoHkxc=","ct":"nSRPRTh2aoiZrQq8XDezyrUqyZ/AUL4hXbg1gZgDTx7bJ6vN4dwyvbLxzeatukcRjEi6hUR1hg1Df6lryBNL/tnIZDi357pk3s61F8LSv5VzHP8e8bfN27ddMmqZ2iTajQ+Pu5fpgXLy2Ij0QMmC66/98UWbNU3Y4fcVXUn7eMI3h01Ae/xZm3KJPyht3VpKxmZnwMDw+9M7p7DUKPwSsTxlPvKXcZiqNnOW6XHftyeVoQ4a5pnM6tV/yBkStthYK8ZAUsVoEoPt9EZwaK6cNHHF1XC7Y0dZ7uFEqymP3seWA0FqtbGOyz5J/Dh/0jCT/Gz08nMRSY/amnUFrXGbQUN3zEDI3DigfZNSY0puK44OlOkZop+VczFy3eYLKJeqSsHtDrEqaMzJW3rxKvrC7QV7QChpUqVKMBQj9lanpiyEmTiRdhdQHiMXL/DwHvZSnIN6GooFbU1qw2myBW41Sa5tmNSJ2qRgEZzN2Q1oWcRUJmGrHQF1DfjZ4AVKG20HPf+9jZng"}
+modified: 20181222151955453
 tags: journal encrypted
 title: Wednesday, 11.12.2018
-tmap.id: 8b54af83-b83a-4afb-841d-890769ae149d
+tmap.id: bcab9912-3174-4e51-8bf7-b95f4752f743
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

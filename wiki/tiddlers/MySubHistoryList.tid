@@ -1,6 +1,6 @@
 created: 20181220141843991
 current-tiddler: Trip to Amsterdam
-modified: 20181220143617374
+modified: 20181222150950500
 title: MySubHistoryList
 tmap.id: 2e0c0a3f-bf0f-4aa6-b87c-439284155498
 type: application/json
@@ -872,6 +872,17 @@ type: application/json
             "width": 600.5250244140625,
             "right": 685.5250244140625,
             "bottom": 377.47501945495605,
+            "height": 16.80000114440918
+        }
+    },
+    {
+        "title": "Trip to Amsterdam",
+        "fromPageRect": {
+            "top": 419.6750183105469,
+            "left": 85,
+            "width": 600.5250244140625,
+            "right": 685.5250244140625,
+            "bottom": 436.47501945495605,
             "height": 16.80000114440918
         }
     }

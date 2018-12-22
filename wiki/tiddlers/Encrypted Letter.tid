@@ -1,9 +1,10 @@
 created: 20181220150226609
-encrypted: {"iv":"vQWjI1EhspyTQpYyCGPTiw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"ep1r6LB7bXQ=","ct":"BVGFRaVPFbXDLFESrPbkPK86DdsAMC1pvB3aUYKdq1+x0T4VMMGullAbmsUdn6dBrMoH88ExBADzXSvResN8AzToNqcUpt5ptJv/Q/q1uBNH2/Ljr+YU0wmiWMHpEI0bPYhNQXU1qdzWtY1v25HkSHWoGQaHAH9tcBUWPKsSu5DGGXoVmTVY8zVgZh5G/RhCw3BtENeUcAhKC6m86lvnil71agMNO5XOVrb0wH6mzPdFo0/Upq6Od4YEu/BvK1KNxKvUhGC0umHkN9lOyp7qikhpn/HFnNJKTQtRKkgoSB8PHnrPVNQrDPvwptO1R7xfMrx5rGeVrYYIqwLrF4t+rlfUlXQOrUPVCIxLaMKSgt/Ui6wwaaC0YJ66I+eFzG9pItaGzZ7AgBzHnLNjFgzyO+L/b0uvOtpuE2EADxD7gfYN9Av2mBjfi2AseR6Y3PnPpKwOCr/5CBCzGiGn0mQKgohTI8E0fObmSZ3CBb4DrGt/8DKGOEvJA2N2oV01Ls7Avg/TjLSnoA+tNpDi5DhTYDwLfE0C911ozqocfDkyMkaknA2MmMtAUUqWAouiDxJH6ZJDmbnxrGxcmyktYn2SbtnCIiKMiVHuVI1vbP2UHW82D5PQW2Pbrmxp3FfTnDHlkfydM1U="}
 modified: 20181221115256147
 tags: letter
 title: Encrypted Letter
-tmap.id: a524a0e9-adaa-4625-98c6-47777b69518f
+tmap.id: 447cc718-91eb-4f49-a1bb-c8221882541f
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+To decrypt the letter and all included Tiddlers, go to the ''Encrypt Tiddlers'' tab in the  $:/ControlPanel, filter for [tag[encrypted]], enter the ''Password'' and click ''Decrypt''. You're then able to access the included content.
+
+!![[Firestarter]]

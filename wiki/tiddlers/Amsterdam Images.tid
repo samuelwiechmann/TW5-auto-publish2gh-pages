@@ -1,7 +1,9 @@
-encrypted: {"iv":"wxtyBcVQGOZwE0LypvfOCA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"GJPy8fRCx3s=","ct":"vSNJwYhx05Umee11xXrx1HN9l4x/GALgGiCgM8DnRl0I/3IFbjBquIRAu+f+4RujbHXJol4ES7qD/WtXsdObhzWdGaQP+uJDuQCVRDMTBGHHBlGdy0gX7lKF3RQyBeSgJFx35gMHfIFQ54IQEGeab254Vi7+Xaq1GQamDp81zes0fTeZd7/Akflw9vAGiV9kDoxGQ7zvWsvYcueSCh7uOC8VJcFuqzKAhLeaawIvSOG6yHZ3eWMvULU9/c7KgoFQt+2XR7iXfJxc/nitk1OfzWoN7hCf3CmOeZQqd85vIuaI6CtOxsxSzTTx2M/4/N0PX3z6S0oeAafhFeESz2hfV5b7qKTXf8XCGMLvKZQzso595JyYz8moHOr1tQVL1K7DVP+JznonTFOrOfanZM7SQippCJo4SJdrCmL8WtvXdYZSBbmdPYbZvAfEoUE++loktjWzcIgoACqeylFuNRb4vO7FjIFfAjT4QcoJBl79BygDaakBI76KPm8oDqSVNbE59ksD7CklFDw5sFt7SzoT2Qv4V7pshgB60GK5UhMLWvThMrM++hjY0QXjIxCADNaZER9C9gt24FvjalciFtrIGB+YagOW4M1hIrKRwEklZuQnrw=="}
+created: 20181222151955210
+encrypted: {"iv":"zrSdD1OlnIR7qYQDc1s83A==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"h7ZixwoHkxc=","ct":"h4AxN6H6anI/ukDDoKIffPYgI/CjGnKGR2OIukIfZgbcOUAuSjwepWDRVuF+DHjjceWZUWnzz2zbF8N0RkTNSb8bWt813Lnitabqc6ehSHadJE6V8nLNIZ4/QBLFua/xiO8jirI8D0gIhY2DpYWf2wbO2CBRy63Cvv2FC5rSWxPyk0gqqcEOzrjApQ3JEu9052Kw1pUTO4ry60b7c4RqRcc8aFfrzD/uDDiDue1KCw56soddhq39IXvJyCeDszffTLDNKiGHvaFOS1U50LhWFSeDFNWsQAccvxPfQhTFFMunMZEXaAheHJqgpnJ4PNlBNp9HilbF1uImN7qDStM2puexNQsE8w3SmuE5bn4ib4ejoRJona3G2NnEgN4N8eSEhlp1WDFia/i9OJ1yLKEZIO44IYDjfsXjVNzH6c+EewQTt0wfVFMU3YhFbxVnjxFaaJ3+LHpHzoRBCMpc9On4z2cFUA0+0h7lxn8Iqak3rGod25ITQlWGJcIAn52XT7pN+YhvC7xGbKyr3A7IiXykj6holoUwjmBvVPRUZoR8d83meJUM8scgrOKcvONwuZWk+2dkDQj5zSWziPXRb692MPX+LEk1Uc6GXHSxlfFil/BB0Q=="}
+modified: 20181222151955210
 tags: encrypted
 title: Amsterdam Images
-tmap.id: 1d009478-8cb6-4b27-b485-573601106202
+tmap.id: 2dcccb4e-3945-417c-882d-3d3b844abb7b
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

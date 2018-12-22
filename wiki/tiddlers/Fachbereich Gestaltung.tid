@@ -1,7 +1,9 @@
-encrypted: {"iv":"4v3MCwB6GRlCWn/69/XB+g==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"GJPy8fRCx3s=","ct":"ZEQd1b2SsqpZnRPUMckAZGlyO1GV3Fu/X4W10mFJj4pb+IrOvgVw/13gh+S5Qf+jF9Rwtbc7B6kMcWfRw6emBQIJ3Pf8PFN4xeZg5U02jWIsrraAIi6TMkCw4pft65iEK2zngeqGi8st2ZC6UfN3euGVQM/FKypsp0pFwwJVTwqnkI+kkDcMnhLwmhRcE8UbjJ82E9IGKTzAjOoSZ+LL6SsMgDl7KTRexI7tV43Oe3P13lJT5HwCuxELnRTBSvaDIaqndS7xUHzrAPDyGNt0BD9C4wT1r2FAwwol3vnhD+BaLBCxIEvdkkc8TYHRUXX8sbKRXbU9QBFRys1XOuSVY1/isEWvUnI="}
+created: 20181222151954694
+encrypted: {"iv":"wd+EttGNVfvzRljwAzh5ZQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"h7ZixwoHkxc=","ct":"mlltIpXWoXSnSZpNSlrFL4s/KGZH/YdbTyljOYp/ZupqRUKDjhtuQPREB59hCn+r3bqBdXQoPSg4kwj6+7/Qq4+3o0hHPMojr602g5SF44UlQfmWkACY6744DEZWWcYLXHeDVLNQGBBzF7bYFqSHS4Z998XMuWqBxb95OG/3LBFb4Hnc5mHi7om8VTfmXNbyEtgOK1BahYCN4nWfsQtelKDYNlbgxz0H/B4yg1nKVi6PXO20qPCyI7iT9TapHyDp0cCxG+AuVw5DxQrMx0dZBc5ad9jTejhBEdsl09NZoh45Dqza/irhum8K1C+/ltYKAw9Mk0MPkvgP/IPssi2EUvT2MdNTulU="}
+modified: 20181222151954694
 tags: journal encrypted
 title: Fachbereich Gestaltung
-tmap.id: bd8fa6a2-3bb5-4c5e-b27b-f0de3d10b986
+tmap.id: 289359fd-e162-4eba-a3fa-6d60c3dbeae9
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

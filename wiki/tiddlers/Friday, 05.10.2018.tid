@@ -1,7 +1,9 @@
-encrypted: {"iv":"J9kNNbs0IgCoI+xip6HqiA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"GJPy8fRCx3s=","ct":"8qe/p1Kiq37+SROdGHarSPo2BIZl3J0/dqhzB9HnyFQJ2pNE7EIIaayaNVSSJC3wwxPoLVrmxG9QY8vlYONwlUdSrOl3XYCay54shLs/OklQHTcz8o5e4x8tPyV6mkPz+hFegSYNkcuZT9fx5xQwoFM6CFvujoR4EegZfzVh9DpAQRo5/c5in8VU0C7aw2r74EKEoSulQCUs53F4DoE8PDtWmP7f4PVZsJ6HFZmS1bPM8f/9EEjrRb/wVEt1Oj7ErjlPoYQD6c60cagsEgmkNYo6liHRRlf3MXfvmmQC+gY5QeAYP7m/QbGl2HDBtDUvcgdp10E5S/VCuwXHswB+9s5TBDFVswwycw0T9SP4PuCRvVNRWwVZHOknydcHuFGKwstOnLoOeyeyPZf4xhfAODah22338wqWN9IeWWIl/Jz4wrk4NouYx2Zbr+8TCHvbLuZvUXzQMOQnask1oT9bT9zmbOFzRv4pFwPOSiKEsNy29qg5eQqzflXtAvSHXqUvJiNmP3gF9D/lmH56PSb3psAn0wdfX5j+NlJMdiDfe5UaBu2tzM89a63gDzJR+39N6aKL2WvqREgf8560jGBXrfQ5SwKihpgyt1DHwP8D6C6nBASohOSjPkDpRP39VFcehREBSlixDJbN/Ew="}
+created: 20181222151954555
+encrypted: {"iv":"aDHNo6xehvjTiTXfJ5ySZg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"h7ZixwoHkxc=","ct":"Tdn/EQvuL82pce9Iq6gJZYiKU+BsPN8GiJQwEl6XaU9GYk5dhKQNT6++dPt/eSJhrN3YcW20So5zOeRl8Xi375O2GusnabijRGhGN7nPA74RsSbEIJs87pT6vmIWoB3umHCgYclLX5p7D71bhWn86YSDtyjZPFHGjn1KgoKg2CsMWffJ6O64a/6/mFRcllZMHReH+JD4esy0g6JHuuTQtP1dz2TqUir1hTkaNosK1txyaDhyuVWJBYtljES/EhDll4IbvY+slshKNkeKkMzcGiZhZE4F5Vbk9QnWgEO77Ceea8ez7V44ZVc1MxeOL8Rj20dfwUDA7lLq1a6C/9N0UiX4JYljemmk31DREKD8OTabm4ZM08aWyfttR127NDVq1RTa2TYsDgoy8QYL7PFx5trjYVP6D5hd0lFoJPoLy0hOP3aUVidLMPQK92rtlhT4NLBo0Ct9XhotwrfOyOoxU+njmV/JQn1mzLxTu516LcA6UVSYxsZXrmbJ1PB9Yu5N7ZAXoG+CdPfxVe+QYWBMhH759wGSBJqVi/7I/B0+IuaSjbCSL7BLHtmHaED2OtZnpTy/t/NIop7yfnLWz8hVV/7tbZxCs/j0HMUH8gk+eOmjcbguzny9+jLe1G15gcPI4tHbBb0MyHZnYcE="}
+modified: 20181222151954555
 tags: journal encrypted
 title: Friday, 05.10.2018
-tmap.id: 20c96464-cb91-4e59-a1bf-7fb549b79e09
+tmap.id: 70c6455d-09d8-4755-922f-27e1a7577704
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler
