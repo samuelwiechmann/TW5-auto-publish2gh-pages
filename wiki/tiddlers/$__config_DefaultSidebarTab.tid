@@ -1,6 +1,6 @@
 created: 20180306131601656
-modified: 20181222164250542
+modified: 20181223015959484
 title: $:/config/DefaultSidebarTab
 type: text/vnd.tiddlywiki
 
-$:/plugins/felixhayashi/tiddlymap/hook/editor
+$:/core/ui/SideBar/Open

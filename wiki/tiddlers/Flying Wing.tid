@@ -1,0 +1,9 @@
+created: 20181223214415036
+encrypted: {"iv":"hg+HeaCkqjiNFdtPtqe+bQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"/o1TF4nxPZU=","ct":"nDxdLD2o5/xNNrlzVicP1jcGgvP/lsVaHtr5J19GU6ouwxEWR5BBqDhB/HLGtRrVdZuuSaVMiopaSvlNz8dYN1LV+Dhdk3WziwXks4v3nbEico5Qb1EJ7t4LmJbsrSj3ULHiFhOAD3e6dJTjcnLbVsIy0Mc3QYu8JsYL7Wnn/nL34o6FoxTl2qMP01RM5qfJMh8Pw5hjz7TYRDMfrsFQBpTQckR+iEHpBPZ3Y1Zv5AMCzovc5fLSu0U/cIj6Ogi+rMLTAQfWu/7aFPLtr0C5vpFlUPJ85w=="}
+modified: 20181224022233884
+tags: concept idea journal encrypted
+title: Flying Wing
+tmap.id: 4a30c7c2-4ace-4b4e-9b97-b04765cbcd44
+type: text/vnd.tiddlywiki
+
+!This is an encrypted Tiddler

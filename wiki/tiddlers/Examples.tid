@@ -1,5 +1,5 @@
 created: 20181027230142028
-modified: 20181221170234582
+modified: 20181222201731085
 tags: howto Amsterdam
 title: Examples
 tmap.id: dca9f0c5-a8cf-4d2e-bd0f-79f9534b02fa
@@ -9,6 +9,7 @@ Examples for things that I've learned.
 
 *Transcluding links to Tiddlers filtered by tags: [[Flying]]
 *Transcluding Tiddler fields (author, year, length) in text field: [[The Tragic Story of the Man-Child]]
+*[[Table of Contents]]
 *transcluding image with clickable link: [[Still Corners - The Trip]]
 *RenameTags
 *collapsible text sections: [[Firestarter]]

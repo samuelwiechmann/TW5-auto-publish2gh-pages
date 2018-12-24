@@ -4,7 +4,7 @@ config.vis: {"physics":{"forceAtlas2Based":{"springLength":40,"damping":0.8}},"e
 created: 20181016180646943
 id: f794bb03-007a-4d5b-9cd0-7dc34aa1bd54
 isview: true
-modified: 20181222164309337
+modified: 20181223012320711
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5_humanities
 type: text/vnd.tiddlywiki
 

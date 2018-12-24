@@ -1,8 +1,8 @@
 created: 20180228234748067
-modified: 20181222164322416
-tags: content paraglider fun video flying Aviation
+modified: 20181223012520313
+tags: content paraglider fun video Aviation Flying
 title: Urban Side
-tmap.edges: {"74129034-c7b2-40c3-a7a5-e3e51c2de7df":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"humanities:instance of"}}
+tmap.edges: {"74129034-c7b2-40c3-a7a5-e3e51c2de7df":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"humanities:instance of"},"392162bd-456a-477a-bce7-95a873b807fd":{"to":"4cfa1c7e-f618-4050-89ba-a045bde274eb","type":"instance of"}}
 tmap.id: 2de79224-c287-444d-af93-01e108e69c1b
 tmap.style: {}
 type: text/vnd.tiddlywiki

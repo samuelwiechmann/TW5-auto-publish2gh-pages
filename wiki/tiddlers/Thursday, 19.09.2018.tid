@@ -1,4 +1,6 @@
+created: 20181223163558269
 date: 20180919
+modified: 20181223163714902
 tags: 
 title: Thursday, 19.09.2018
 tmap.id: 5564d555-3b19-44c3-bee4-ac637b701468
@@ -6,13 +8,15 @@ type: text/vnd.tiddlywiki
 
 <$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
 
-After three days, it was finished. 
+After three days, the bike was finished. 
 </$button>
 <$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-It got new cables, new tires, and a thourough cleaning.
+"""But I was going to keep it for another week to fix all the minor details and check everything out.
+
+It had gotten new cables, new tires, and a thourough cleaning.
 [img[20180919_160859.jpg]]
 
-Mattis, on a test drive to Lidl. He noticed that the tyres had not yet quite the right pressure.
-[img[20180919_175814.jpg]]
+Mattis, on a test drive to Lidl. He noticed that the tires had not yet quite the right pressure. Quite an important point.
+[img[20180919_175814.jpg]]"""
 <br>
 </$reveal>

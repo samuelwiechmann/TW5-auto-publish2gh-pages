@@ -1,10 +1,10 @@
 created: 20180228232504867
 list: 
-modified: 20181222164323751
+modified: 20181222235237116
 muuri-tiddler-width: 4
-tags: whole object concept 1 topic
+tags: whole concept 1 topic object
 title: World
-tmap.edges: {"26a0dc49-30d0-41e5-ae98-199886698cec":{"to":"ab481b03-2b6d-4f7f-a99a-d435b4a7cb87","type":"do"}}
+tmap.edges: {"26a0dc49-30d0-41e5-ae98-199886698cec":{"to":"ab481b03-2b6d-4f7f-a99a-d435b4a7cb87","type":"do"},"7512c6ed-1cfe-4949-8293-7c3e5b290ef9":{"to":"4a18ddcd-acb8-4b43-91c7-3c68e93f2c64","type":"is"}}
 tmap.id: 14f23f1a-c07b-4f33-a980-bed27fc4a436
 type: text/vnd.tiddlywiki
 

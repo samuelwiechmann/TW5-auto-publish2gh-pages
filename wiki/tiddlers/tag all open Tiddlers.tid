@@ -1,9 +1,14 @@
 created: 20181222154255271
-encrypted: {"iv":"+mN6N/ySecbp9QaQHYlnGw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"y8EuC0uCRXS/I6h3w3HWsmZIV1sJZcrRbiZRoSyO/YT9bCV8xHfTgLLOJgABnQgDnWpq7tx0F0nkSCFFIT5vfzt5+vQTyHNUFmmsiZ8IKUStK0/g/WW+t4jnobMBcFsxdWi1EUsN4x8mZW7uvbU0Isp8/xM5PP3hBZJURYXs2FNITW3wSllOP+k5wLD9Rz3gjOPInc03z2tcvUoSx5MF68b6CLh97xk0syW2Ch29k7s8wxmP4cmBnjHb7+ejS4ohUvr8hHwc//tKYuDtsmTrd4BDeI7D75yyzCACtgS4L5VaAebjUPHCWpU8Z240pEToJoI5MEqJLnC6cwBCHLs/bRLA5/6hnDSh4l19yawWBvNI5PcHiqdUmmcbH0sQ42MI/XyLktIYSCwFc7iLbCiYyVxNHiNg94xfKyqb8S1ERB61NT/NGcjADwyjqtK+2tK3gKyduAGaixX7XXcQzaE8N+N+BShuSApGDOefvqMB9Fdmhjkz4Od+KbjPyXAl2meN0VPPo96EPt+a1pn4iH5aGy0ycKERpy9xpLrIcj1rT6rxRZehMmOokhxaxIYtK9BsQ8IRJpW5KRroX3yV0cnT69w6P2cCgTImrb0Es5awcmydJOU6mmOihZ4T"}
-modified: 20181222185018245
-tags: Ibiza Ried encrypted Amsterdam
+modified: 20181224021839631
+tags: Ried encrypted Amsterdam Ibiza
 title: tag all open Tiddlers
-tmap.id: 083b589e-b3d4-48da-a6cf-4169568dab14
+tmap.id: 1814f505-6450-41dc-80a9-ffb7d94e67c4
 type: text/vnd.tiddlywiki
 
-!This is an encrypted Tiddler
+<$button>Tag with Amsterdam
+<$list filter='[list[$:/StoryList]]'>
+<$fieldmangler tiddler=<<currentTiddler>>>
+<$action-sendmessage $message='tm-add-tag' $param=Ibiza/>
+</$fieldmangler>
+</$list>
+</$button>

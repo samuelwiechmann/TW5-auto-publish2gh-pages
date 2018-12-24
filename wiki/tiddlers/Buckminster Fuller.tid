@@ -1,0 +1,15 @@
+created: 20181223190149029
+modified: 20181223191644252
+tags: Person science design architecture future [[systems theory]]
+title: Buckminster Fuller
+tmap.edges: {"5b1685cd-3bcf-4550-bab0-b12c17336a89":{"to":"8688b317-5488-484e-a7f3-999bdeecd0fd","type":"deals with"},"c234285f-cd02-4eab-953d-8932f596e59b":{"to":"85f51a97-03db-4cee-bd1c-e1021eaf59d6","type":"deals with"},"5b9f1899-92a0-44f2-9ffe-5a26bcec80f8":{"to":"cd4a4bcc-82c0-4531-a89d-d5afb9d2cf05","type":"deals with"}}
+tmap.id: a9fb2332-94a5-462a-85e4-514e8b0700ae
+type: text/vnd.tiddlywiki
+
+Richard Buckminster "Bucky" Fuller (/ˈfʊlər/; July 12, 1895 – July 1, 1983) was an American [[architect|Architecture]], [[systems theorist|Systems Theory]], author, [[designer|Design]], [[inventor|Invention]] and futurist.
+
+Fuller published more than 30 books, coining or popularizing terms such as "[[Spaceship Earth]]", "[[Dymaxion]]" house/car, ephemeralization, [[synergetic|Synergetics]], and "tensegrity". He also developed numerous inventions, mainly architectural designs, and popularized the widely known geodesic dome. Carbon molecules known as fullerenes were later named by scientists for their structural and mathematical resemblance to geodesic spheres.
+
+https://en.wikipedia.org/wiki/Buckminster_Fuller
+
+<$list filter="[tag[Buckminster Fuller]sort[date]]"/>

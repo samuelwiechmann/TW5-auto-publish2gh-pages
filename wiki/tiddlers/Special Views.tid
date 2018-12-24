@@ -1,0 +1,28 @@
+created: 20181223155528678
+modified: 20181223160151898
+tags: 
+title: Special Views
+tmap.id: 3f7f1d13-2622-4adc-b903-b7b8222102ac
+type: text/vnd.tiddlywiki
+
+Wenn Du in der Karte einen Doppelklick auf einen der Kreise machst, öffnet sich im Story River der dazugehörige Tiddler. Genauso funktioniert es auch bei den Themen, bloß haben die keine Kreise.
+
+Dieser View enthält nur Content und Personen:
+<$tmap view="s5_content" click-to-use="true" height="600px" ></$tmap>
+
+
+Weiter geht es mit einem View, in dem sich die Inhalte um das Thema des "Guten Lebens" gruppieren:
+
+<$tmap view="s5_the good life" click-to-use="true" height="600px" ></$tmap>
+
+
+Im folgenden View finden sich die Wissenschafte und all ihre vorhandenen Studienobjekte:
+
+<$tmap view="s5_science" click-to-use="true" height="600px" ></$tmap>
+
+
+Finally, ein View, der alle Inhalte der Kunst - Musik, Film, Literatur um das Akademisch Feld der [[Humanities]] zentriert:
+
+<$tmap view="s5_humanities" click-to-use="true" height="600px" ></$tmap>
+
+Es gibt aber auch noch einige andere Views, darunter auch einige ältere, die Du im Editor rechts im Tab ''Map'' aufrufen kannst.

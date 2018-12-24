@@ -1,7 +1,7 @@
 created: 20180301194646045
 list: 
-modified: 20181222164320578
-tags: science topic 1 applied Academia
+modified: 20181222210419759
+tags: topic 1 Academia [[Applied Science]]
 title: Technology
 tmap.edges: {"63237c20-6116-4421-93de-4ab8899ccffa":{"to":"651a5bde-eefc-4903-94f6-b8e3d1b1eb38","type":"0:subclass of"}}
 tmap.id: 7e0b4d95-7146-41ca-8ece-415269980754
@@ -11,3 +11,8 @@ type: text/vnd.tiddlywiki
 Technology ("science of craft", from Greek τέχνη, techne, "art, skill, cunning of hand"; and -λογία, -logia) is the collection of techniques, skills, methods, and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation. Technology can be the knowledge of techniques, processes, and the like, or it can be embedded in machines to allow for operation without detailed knowledge of their workings.
 
 https://en.wikipedia.org/wiki/Technology
+
+<div class="tc-table-of-contents">
+<<toc-selective-expandable "Applied Science" "sort[title]">>
+</div>
+

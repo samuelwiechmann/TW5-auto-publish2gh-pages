@@ -1,9 +1,14 @@
 created: 20180905211934643
-modified: 20181222164320634
+modified: 20181224020309013
 tags: writer Person
 title: Tania Kotsos
 tmap.edges: {"e9f33964-97b8-44e9-abbd-9e15c1144e6a":{"to":"d7f007ff-9cf7-4de4-af5f-200bb0ae10b6","type":"wrote"}}
 tmap.id: d11b57bb-088e-43d5-947e-bfa4e22cd5f3
 type: text/vnd.tiddlywiki
 
-Hi, my name is [[Tania Kotsos|http://www.mind-your-reality.com/tania_kotsos.html]]. I am the author and creator of Mind Your Reality, which is a product of my ongoing studies and understanding of mind power, the Universe and the nature of reality.
+"Hi, my name is [[Tania Kotsos|http://www.mind-your-reality.com/tania_kotsos.html]]. I am the author and creator of Mind Your Reality, which is a product of my ongoing studies and understanding of mind power, the Universe and the nature of reality."
+
+<br>
+Articles:
+
+<$list filter="[tag[Tania Kotsos]sort[title]]"/>

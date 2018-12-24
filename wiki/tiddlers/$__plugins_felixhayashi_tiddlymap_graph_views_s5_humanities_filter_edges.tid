@@ -1,6 +1,6 @@
 created: 20181016181520381
-filter: -[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-modified: 20181222164309331
+filter: -[prefix[_]] -[[tw-body:link]] [[tw-list:tags]] -[[tw-list:list]] [prefix[humanities]]
+modified: 20181223012320319
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5_humanities/filter/edges
 type: text/vnd.tiddlywiki
 

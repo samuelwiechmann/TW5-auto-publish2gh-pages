@@ -1,9 +1,9 @@
 created: 20181222154307369
-encrypted: {"iv":"Gd0TRvX+P+zAlSj1jVR0xg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"rfn/dYcEDMU=","ct":"Frzx0RAaEFk5U8txVqmUimoQ0TYQeBwEUTiJKKyGwVrsxwS6CfGN5J7D3gUqzPHFbQqqdn1IDkp1uC4XMp9cuMisySFAl156ld2Bd9ioOhnNTV2nl3WHMaYpVq8EqeQCcm6nIQDcGm4iIwO68K0eZbEavmNTcSEz0rlgyLKbBcxB9NMIYh+RpgKwPCe38pAY6vLINy50J1MU+fHLQ9OB3+7pFfEX2blMiTQR9NTyTeQgyfoeGOqfGYz4TxU+MtrDR8ydplzLmHrBg2Xam1oAnCmYxVAruq+D29lwdJksa8Gd8iAXXiBPT7LZAi69+72tsoOZYBBdahmZRJCq/LPq7pZtcyRdAyMrALfgc0NQqkjo8hYuXWrP9xbX3qb0hx8oL5WEbbfkf6c+U4P2gQJQO4N+KcOmIcbhofGqaG1TvItF0PvYFCr/iW77zpuGFQ14dahNuKPRK7OKtNk537qGeGZfpZRgSw1hQ9hqSjdgTkFROzysmNjTOeiKV2qhk0Y45DhZQoG5Hs2QP7GWs5i+9eUDIgIC0i/Zd5SGZWiXDbNBftwe4SNXZmppWUMQkIuEEJ+4TxgDMHs="}
-modified: 20181222185017237
-tags: encrypted journal
+encrypted: {"iv":"ABZmuO3zwlvJN7OWOWCMPg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"/o1TF4nxPZU=","ct":"zg9+AfztualgF9XVisJJ16sPXdBEkPkclQpuxzuf+sHctOU0qqOPSsrhuRYAQ0OPKhTXQxGlSbP7bP4gfrnCkwaF+xgyPdmqLPsu4imvb7O0ixevh/FtKb42xZUoiIezFyTUYvlE+ru8+8nsHFb+EZb4TdY8IUbdyYNJ2dkBNc+9GX+4WYmGetNLWmgkiCPUXEPJHh1KZzTKUFI55zNF8coGMsGK8wmblv+wG+xChWULln43zZl9hFvpK+npoRtlqklFvUBGPcJ1sia1Z2YofCICTPjpyZrgxndSx8jXCkbQe8YDuQK8jeQNYJrRYa1eZXyhFTk/Eg6DJTO75PyZ7YeKlNEAByvnQFGYSTHpIu6kkNbsq1rZuJRZIxS5jio2p1uPr5fvO2xtYB51qFrT3f8pzrMtsRQTR1aFjRxy4Iv5YyZv916myHjmMrsW9JnyBd/HWFLGODFUKv0CyojcHO7myIubQ7n5hTf741XRq5PG6+8EPcsoba8LSTVqrqs6mPOm0gkhObq1V2BJbaRrrL90AFfb8EZAv0X7JwhNerTwQuvM+yLrEJkFff3PHMQ="}
+modified: 20181224022233776
+tags: encrypted journal Person
 title: Journal
-tmap.id: 88115416-efb1-4093-8075-6ffa8e96892a
+tmap.id: fb4fc132-26cf-403d-8d35-a15a9f498bcb
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

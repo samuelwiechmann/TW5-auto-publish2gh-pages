@@ -1,9 +1,9 @@
 created: 20180830151007161
 list: 
-modified: 20181222164314129
+modified: 20181223233447405
 tags: 3 humanities topic Philosophy
 title: Ethics
-tmap.edges: {"56eccff4-e0c2-487e-87b7-fe5ac3fb530f":{"to":"95353a5a-1017-4513-8eaf-d97bee5b947a","type":"subclass of"},"6e7bd05b-822c-47c7-9b44-ebc366befccc":{"to":"2bcf7eee-a02b-41a5-90c1-b1b0e94865d4","type":"deals with"},"9c0cbe1a-1d1e-45dc-a3ab-c1400b7f41de":{"to":"b1271f6a-3354-4f3f-be52-7f99f549940e","type":"deals with"}}
+tmap.edges: {"56eccff4-e0c2-487e-87b7-fe5ac3fb530f":{"to":"95353a5a-1017-4513-8eaf-d97bee5b947a","type":"subclass of"},"6e7bd05b-822c-47c7-9b44-ebc366befccc":{"to":"2bcf7eee-a02b-41a5-90c1-b1b0e94865d4","type":"deals with"},"9c0cbe1a-1d1e-45dc-a3ab-c1400b7f41de":{"to":"b1271f6a-3354-4f3f-be52-7f99f549940e","type":"deals with"},"e66ee3fa-295c-45f0-a535-2aa743861628":{"to":"f7a586a1-4140-4d3a-86d7-a18b776c9ef0","type":"deals with"}}
 tmap.id: ba5fe686-1cb9-4b7e-8094-ae05f54d3fe2
 type: text/vnd.tiddlywiki
 

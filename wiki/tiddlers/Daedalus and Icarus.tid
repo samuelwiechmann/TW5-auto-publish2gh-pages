@@ -1,9 +1,9 @@
 created: 20180317223232209
 list: 
-modified: 20181222164313488
-tags: humanities literature art topic mythology 5
+modified: 20181222210739009
+tags: humanities literature art topic 5 Mythology
 title: Daedalus and Icarus
-tmap.edges: {"151a5ffa-0af0-44e5-8a7c-eaf44a8e82fe":{"to":"a4f37d29-d85d-4e38-beec-c9c0d9beebc4","type":"humanities:instance of"}}
+tmap.edges: {"151a5ffa-0af0-44e5-8a7c-eaf44a8e82fe":{"to":"a4f37d29-d85d-4e38-beec-c9c0d9beebc4","type":"humanities:instance of"},"6ef403b4-a997-463a-bbde-ae2a69f92daf":{"to":"44b96680-9445-4c53-9e5f-393a11ec1fb8","type":"instance of"}}
 tmap.id: 9604a03e-34dd-4028-a002-f417f23f5ec7
 type: text/vnd.tiddlywiki
 

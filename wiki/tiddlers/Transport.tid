@@ -1,9 +1,12 @@
 created: 20180303143256168
 list: 
-modified: 20181222164322082
+modified: 20181222210431506
 tags: applied science topic 3 Technology
 title: Transport
 tmap.edges: {"7361bf11-6ec6-4197-823f-a329401e991c":{"to":"7e0b4d95-7146-41ca-8ece-415269980754","type":"2:subclass of"}}
 tmap.id: 1d9eb4f8-287a-46d5-9f63-912dec3150f3
 type: text/vnd.tiddlywiki
 
+<div class="tc-table-of-contents">
+<<toc-selective-expandable "Transport" "sort[title]">>
+</div>
