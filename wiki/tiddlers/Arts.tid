@@ -3,7 +3,7 @@ list:
 modified: 20181222164311433
 tags: topic 1 Humanities
 title: Arts
-tmap.edges: {"0506037e-d410-4a1c-ae53-58c8108bf5ac":{"to":"4062ca27-0fd3-46eb-8aaf-62fcd2dbdb59","type":"expression of"},"6b6a7900-88e2-43f0-81a8-78d966f27552":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"1:subclass of"}}
+tmap.edges: {"0506037e-d410-4a1c-ae53-58c8108bf5ac":{"to":"4062ca27-0fd3-46eb-8aaf-62fcd2dbdb59","type":"expression of"},"6b6a7900-88e2-43f0-81a8-78d966f27552":{"to":"2dca5c98-6b56-4275-a574-083c170193ca","type":"1:subclass of"},"1e26820b-8643-41de-ba92-42e2971051e9":{"to":"71dbba43-3b69-42cd-bbdc-df48f379c583","type":"1:subclass of"}}
 tmap.id: 6f710a8b-46a5-477b-ad37-35f252189b22
 type: text/vnd.tiddlywiki
 

@@ -1,6 +1,6 @@
 created: 20180301181023519
-filter: -[prefix[_]] [[tw-body:link]] [[tw-list:tags]] [[tw-list:list]]
-modified: 20181224015013804
+filter: -[prefix[_]] -[1:subclass_of] [[tw-body:link]] [[tw-list:tags]] [[tw-list:list]]
+modified: 20190106031603727
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5/filter/edges
 type: text/vnd.tiddlywiki
 

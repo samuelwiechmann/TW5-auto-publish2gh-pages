@@ -1,6 +1,9 @@
 created: 20181224021451465
-modified: 20181224021453098
-tags: Person [[Process Philosophy]] philosophy humanities
+modified: 20190106032439028
+tags: person Person [[Process Philosophy]] philosophy humanities
 title: Alfred North Whitehead
+tmap.edges: {"16ba4467-01dd-4a2d-b28b-b7a5e3528ae9":{"to":"f0bf2f4a-6f14-45a8-8566-85cadbfe3595","type":"wrote "}}
+tmap.id: 1747a9fc-98e7-4dae-830b-bf9bd421d9e9
 type: text/vnd.tiddlywiki
 
+<$list filter="[tag[Alfred North Whitehead]sort[date]]"/>

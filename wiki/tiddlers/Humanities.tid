@@ -1,8 +1,9 @@
 created: 20181016013336189
 list: 
-modified: 20181222210931312
-tags: Academia topic 1
+modified: 20190105224155664
+tags: Academia topic 1 Humanities
 title: Humanities
+tmap.edges: {"b6da9227-eba5-4aa2-879c-a3845b106dcd":{"to":"651a5bde-eefc-4903-94f6-b8e3d1b1eb38","type":"0:subclass of"}}
 tmap.id: 71dbba43-3b69-42cd-bbdc-df48f379c583
 type: text/vnd.tiddlywiki
 
@@ -14,4 +15,4 @@ https://en.wikipedia.org/wiki/Humanities
 <<toc-selective-expandable "Humanities" "sort[title]">>
 </div>
 
-[[All topics of Humanities expanded|All topics of Humanities]] 
+[[All sub-topics of Humanities expanded|All topics of Humanities]] 

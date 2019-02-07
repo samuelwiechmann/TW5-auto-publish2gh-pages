@@ -1,20 +1,9 @@
 created: 20181222154300733
-modified: 20181224021839684
-tags: Firestarter encrypted letter
+encrypted: {"iv":"3dMWHXZG7FIQU24euH8RrA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"L8DCkIqayhc=","ct":"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"}
+modified: 20190207100858469
+tags: Firestarter encrypted letter journal
 title: Open Letter from Sabeth
-tmap.id: cfe9f162-48ef-403f-83d6-a66389c36c40
+tmap.id: 3c54493d-a848-4a5f-9c75-0ef456dec10a
 type: text/vnd.tiddlywiki
 
-<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
-
-One month ago on a Tuesday I went to Professor Theinert's design course.</$button>
-<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-"""Right at the beginning of the course, Professor Theinert asks us if we had read the email that Sabeth had sent out the evening before. I had not but hurried to read it on Eliza's phone while Professor Theinert started talking about it. 
-
-She had written a very long mail commenting on the current situation at our faculty.
-I like the mail so much that I have translated it and attached to this mail so you can read it if you're interested. Okay, it's not attached to a mail. [[It's here|Ein offener Brief von Sabeth]]. In her letter she reflects quite accurately what's going wrong and gives a good insight into what it's like to be a woman at our department.
-
-Later in the course I talked about a conversation I had with a teacher the week before - and about my psychedelic experience. It seemed to fit too good into the broad theme of our conversation - the relation between mind and matter. My fellow students were surprisingly thankful for me sharing this story and Professor Theinert complemented it with a story about a birth-trauma-regression he once did under hypnosis.
-
-The interesting thing about the letter is that I have the impression that it really kickstarted a quite radical change. I don't know whether it will persist or whether it's just the advent of Christmas that has changed the atmosphere. But the possibility alone that a single letter to everyone from one institution could give a cause for thought that catches almost everyone is fascinating to me."""
-</$reveal>
+!This is an encrypted Tiddler

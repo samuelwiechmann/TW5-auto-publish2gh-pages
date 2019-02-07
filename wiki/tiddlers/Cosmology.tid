@@ -1,9 +1,9 @@
 created: 20180830151422843
 list: 
-modified: 20181222164312144
+modified: 20190106032600329
 tags: 4 humanities topic Metaphysics philosophy
 title: Cosmology
-tmap.edges: {"bca51472-9f87-4d90-b6b5-8aa1024109fa":{"to":"e082da5a-390f-46f1-b852-1d6ac745e72d","type":"subclass of"},"2abcc292-1374-4e64-860e-cb4068427022":{"to":"47e4ad6c-ed92-44c2-9c3d-0c6f6b59a98f","type":"deals with"}}
+tmap.edges: {"bca51472-9f87-4d90-b6b5-8aa1024109fa":{"to":"e082da5a-390f-46f1-b852-1d6ac745e72d","type":"subclass of"}}
 tmap.id: 95b28546-0329-4ebf-a573-941a39fc3f5d
 type: text/vnd.tiddlywiki
 

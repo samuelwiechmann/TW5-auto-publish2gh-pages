@@ -1,20 +1,9 @@
 created: 20181223164918549
-date: 20181011
-modified: 20181223170739267
+encrypted: {"iv":"cKal2n8bsPYLqQOk5dMAhw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"L8DCkIqayhc=","ct":"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"}
+modified: 20190207100856017
 tags: Ibiza journal
 title: Watching a Lizard
-tmap.id: 197378af-4dc7-4a06-a7df-bd7f4e93d6c9
+tmap.id: 0afdc781-d8dd-47a7-a35d-710331bd76e2
 type: text/vnd.tiddlywiki
 
-On one of the last days we're finally visiting the Cala Comte, a beautiful beach in the south-west of the island.
-{{20181011_145855.jpg}}
-
-Besides sitting under a rock and reading I find great joy in walking over the rocky cliffs with bare foot. It demands constant concentration and the active use of my feet muscles.
-
-At one point I discover a lizard going about with his own business. I squat down and watch him - probably more than 15 minutes - without any thought, any distraction. He runs around and switches between relaxing in the sun, hiding in the shadow, and seeking prey between the plants. 
-
-Only a few days earlier I had seen an interview with [[Robert Sapolsky on Life and Free Will]] that had depressed me quite a bit.
-
-But watching this lizard - a much simpler creature than any human being - walking around, making decisions, living his life, kind of released my pain about the lack of free will on a biological level.
-
-<br>
+!This is an encrypted Tiddler

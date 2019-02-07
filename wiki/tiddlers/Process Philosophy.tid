@@ -1,9 +1,9 @@
 created: 20180902120853825
 list: 
-modified: 20181224004055596
+modified: 20190205234235922
 tags: 2 topic Philosophy humanities
 title: Process Philosophy
-tmap.edges: {"67bde96c-92b9-4560-9981-28ff8b7782b0":{"to":"d688c42b-da91-4120-9d72-ac4ad026869a","type":"subclass of"}}
+tmap.edges: {"67bde96c-92b9-4560-9981-28ff8b7782b0":{"to":"d688c42b-da91-4120-9d72-ac4ad026869a","type":"subclass of"},"4dec488c-73bb-4954-b149-9ee014e233e5":{"to":"d327d910-1477-4600-a78d-e7c192efb985","type":"deals with"}}
 tmap.id: 28d9b684-0af3-4c51-85dd-50553ac7eee0
 type: text/vnd.tiddlywiki
 
@@ -13,4 +13,4 @@ Since the time of Plato and Aristotle, philosophers have posited true reality as
 
 Therefore, classic ontology denies any full reality to change, which is conceived as only accidental and not essential. This classical ontology is what made knowledge and a [[theory of knowledge|Epistemology]] possible, as it was thought that a science of something in becoming was an impossible feat to achieve.
  
-Philosophers who appeal to process rather than substance include Heraclitus, Karl Marx, Friedrich Nietzsche, Henri Bergson, Martin Heidegger, Charles Sanders Peirce, William James, [[Alfred North Whitehead]], Alfred Korzybski, R. G. Collingwood, [[Alan Watts]], Robert M. Pirsig, Charles Hartshorne, Arran Gare, Nicholas Rescher, Colin Wilson, Jacques Derrida, and Gilles Deleuze.
+Philosophers who appeal to process rather than substance include Heraclitus, Karl Marx, Friedrich Nietzsche, Henri Bergson, Martin Heidegger, Charles Sanders Peirce, William James, [[Alfred North Whitehead]], Alfred Korzybski, R. G. Collingwood, [[Alan Watts]], [[Robert M. Pirsig]], Charles Hartshorne, Arran Gare, Nicholas Rescher, Colin Wilson, Jacques Derrida, and Gilles Deleuze.

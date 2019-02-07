@@ -1,5 +1,5 @@
 created: 20181027230142028
-modified: 20181222201731085
+modified: 20190106025618754
 tags: howto Amsterdam
 title: Examples
 tmap.id: dca9f0c5-a8cf-4d2e-bd0f-79f9534b02fa
@@ -18,3 +18,4 @@ Examples for things that I've learned.
 *[[tag all open Tiddlers]]
 *image-picker Macro: [[All Images]]
 **image-picker Macro with subfilter: [[Amsterdam Images]]
+*list-links: [[Tania Kotsos]]

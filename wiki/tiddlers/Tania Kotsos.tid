@@ -1,5 +1,5 @@
 created: 20180905211934643
-modified: 20181224020309013
+modified: 20190106025005675
 tags: writer Person
 title: Tania Kotsos
 tmap.edges: {"e9f33964-97b8-44e9-abbd-9e15c1144e6a":{"to":"d7f007ff-9cf7-4de4-af5f-200bb0ae10b6","type":"wrote"}}
@@ -10,5 +10,4 @@ type: text/vnd.tiddlywiki
 
 <br>
 Articles:
-
-<$list filter="[tag[Tania Kotsos]sort[title]]"/>
+<<list-links "[tag[Tania Kotsos]]">>

@@ -1,7 +1,8 @@
 created: 20181029224857397
-modified: 20181029234219841
+modified: 20190205234927273
 tags: Person
 title: William Morris
+tmap.edges: {"e1d63354-896a-4bb9-991d-8e1f36522c38":{"to":"f0f6fd19-5b95-4e8d-b007-a863d4c55cb0","type":"wrote"}}
 tmap.id: 6d9b0e3c-efa5-4e52-b57e-d963d23f5e20
 type: text/vnd.tiddlywiki
 

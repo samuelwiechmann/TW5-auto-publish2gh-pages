@@ -1,9 +1,9 @@
 created: 20181222154259342
-encrypted: {"iv":"i2/f1r/B0tB3Zs0IrG8Wfg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"/o1TF4nxPZU=","ct":"riel02y9cYdUNV1O+0o0xRZbHoUH26AS64y/BzGm/Er0445EL4UH7vW9rEL+FqkIazpNtKN9NYrFKoBdI3EWbeIMVmBUmqmNOaYGYqaKG9ScPG4awR0scJdHpBj4ji/EW2U0pz8ptbvV3F0/3TGGjbGDMMMepftW95O+cL1++mPlPO7B8aejvNTbpp1aVOU2OZe1huQKgvWWCl6nCGpPrtAaKZmXkBrdCECxmhiDyawsfS+7WYnAERUA2RNkEtTnFUd+qFh50FeHMS1pCOHgsoDMj8KAvUau2J6vhT9I+jqWjnvSZtpinrWdrGbx/xoY4gJLtxoE1W9Ixd1bB/hQjYI2N6noCIoO7uVchq3L9V3aUOYzb4LTdn8PmxNyJWQU0EeS98VPIm9/hVX3NfV3baf3uRFtgFjFrfI1L3IeOYuoqCRyJZM/0mr4nn7r"}
-modified: 20181224022233767
+encrypted: {"iv":"jJVEG0JXRikvzIkVQqv3ng==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"L8DCkIqayhc=","ct":"TUrqtFjDYVj3D+pNoJjsV1IoMRgnlq+u/UuK4hFc31680kMFtpNMk7SDMhm8PTiaxyG8vRMEC486J/aYuKHsD+FP5fk+tjiaumvIAjIdCxBI8JpGPYYg3hNuW4ondXz/m/mUwEhS7baI1SNttfZaRVYuNgCCoc7VHn+ExaRqtaOtkh8B4PO9L8ILTKweXQgCXg+lOCNF3tBUJu6JLPuiBh9yEIDwe00Bk8TaHCDc7B5sDf6MPpaTXzkQwjdGjRtPyHExtIPMV80k1/TvgLFFD4zd5Vaox2PpA4DPUyY57mltLGpl9OM16p2xIXl4g1A+5x1SdRSVNi387zQomOjg6Jx0W1jk4KbaUYH4UVBV3dAdjhKXXgjbVRJ4Uq0k4lSITReW1a/yOM32Z9ne5KeulWWsKPWZMShkaHlyLjD9xlR/HQTH5ZSrUJsvZRWgOTXAwP1pfav2gMfbjbAvHQMO3q4BfAnSl+rVNUDutQ5tzR/ZPZ1+78rsd+JY9B3JnnfS9/uOLn0l2RXBP8jFFUZu2an9DIEBuPUKPry3OxAD19EvS6wn/p7Py/fwnqXJMYAedwuKAsBrWW+tefwOqCsgbj/+G2ufU9Zaz5foEnj1HirExMXSIG444kuDMo+XLO8KkUFWYJRFQYt6yi0QqzgOg91tDkz3yXNkfFvAGQPgg4Q6bNrcpSGyjsXx/IHI7gcbDjGN9WviZyiKNMFsx+FPVo3BlBKEP00Kf1Dp9lY4/tyLY/9FLPdHW8IFESPEt1hrsrrLix4ezpk1paLCanraZ1rUEpzo4DPHra6JsKZHb1odT18sm5fufqBUQVeA78cIjHB+HDuwEwH8Gz+ra1Gs2mFpVp29vyKYc6/UyE135dB887zDQyrM/1L6MIE0QwuKiH9+CyVklEl3EkwckSuEVyGm1y31TLVS3j0vo+Fr0bI1wuJlK65ZR3OF2yl4sMFtLIPYIqnSUCrUvd6xZ9qcHjmlIPzZ0sgZEX9DHtYBxJNdPJnIxRuzb6sooz1V2d0tL4KtXVfLLN368S8ztCdt+qaCgYzxP/BctKcTc5owUU7pC1+bKPfp6S96DwxJqYacW/GjKAgAgLcNL6+m6zey04mpdUTQYuU3FYvxp1u39dYD/tzIPZm36ijbmSnWXUXGf610+gU="}
+modified: 20190207100858277
 tags: journal encrypted
 title: Saturday, 14.12.2018
-tmap.id: 8fffe65b-13da-490a-b264-69a2dea295ac
+tmap.id: 9d93ea86-e151-4c8e-9bb4-585fec0f7bb9
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

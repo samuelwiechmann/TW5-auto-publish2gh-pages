@@ -1,9 +1,9 @@
 created: 20180303142236537
 list: 
-modified: 20181222164310338
+modified: 20190106023105825
 tags: applied science topic 3 Engineering
 title: Aeronautical Engineering
-tmap.edges: {"c6ea878d-b82d-4bb9-93e7-1dc1c0e4c56d":{"to":"136bd070-5596-4f51-8cd2-39a427d7ef14","type":"subclass of"},"839c40a8-631a-45d7-9ec5-c8ccf27c65b7":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"enables"},"89d07834-46d1-44da-8c93-477390a3b690":{"to":"88aea68f-ddf8-48fd-9dba-cf78b0bf0537","type":"2:subclass of"}}
+tmap.edges: {"c6ea878d-b82d-4bb9-93e7-1dc1c0e4c56d":{"to":"136bd070-5596-4f51-8cd2-39a427d7ef14","type":"subclass of"},"839c40a8-631a-45d7-9ec5-c8ccf27c65b7":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"enables"},"89d07834-46d1-44da-8c93-477390a3b690":{"to":"88aea68f-ddf8-48fd-9dba-cf78b0bf0537","type":"2:subclass of"},"d47c1f8f-ced7-496e-b0a4-6289dd5fc331":{"to":"99f8665b-fc00-47f7-81d0-da4603e4a07d","type":"studies"}}
 tmap.id: e17b93b9-e44a-4a48-a5c7-dc8291661978
 type: text/vnd.tiddlywiki
 

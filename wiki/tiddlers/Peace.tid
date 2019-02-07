@@ -1,7 +1,8 @@
 created: 20181019195720544
-modified: 20181019195738176
+modified: 20190205234220135
 tags: humanconcept 3 topic
 title: Peace
+tmap.edges: {"50e9f2d5-6e6d-41eb-98a8-032c4bc68954":{"to":"6e1149cb-4404-4e24-880c-3798ada42f86","type":"subclass of"}}
 tmap.id: 5cf0228c-d126-4d7a-bc50-54df532a24d1
 type: text/vnd.tiddlywiki
 

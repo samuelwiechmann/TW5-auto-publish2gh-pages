@@ -1,7 +1,8 @@
 created: 20181029224842148
-modified: 20181029234219838
+modified: 20190205234400072
 tags: Person
 title: Johannes Itten
+tmap.edges: {"802a66a0-06e9-461b-a9bc-0333a042f38b":{"to":"6048bbcd-97d5-4a1c-9774-2dfa176c468d","type":"wrote"}}
 tmap.id: d23b0582-928e-480a-a639-653804a16e9b
 type: text/vnd.tiddlywiki
 
