@@ -1,9 +1,9 @@
 created: 20180902120853825
 list: 
-modified: 20190205234235922
+modified: 20190327000401264
 tags: 2 topic Philosophy humanities
 title: Process Philosophy
-tmap.edges: {"67bde96c-92b9-4560-9981-28ff8b7782b0":{"to":"d688c42b-da91-4120-9d72-ac4ad026869a","type":"subclass of"},"4dec488c-73bb-4954-b149-9ee014e233e5":{"to":"d327d910-1477-4600-a78d-e7c192efb985","type":"deals with"}}
+tmap.edges: {"67bde96c-92b9-4560-9981-28ff8b7782b0":{"to":"d688c42b-da91-4120-9d72-ac4ad026869a","type":"subclass of"},"4dec488c-73bb-4954-b149-9ee014e233e5":{"to":"d327d910-1477-4600-a78d-e7c192efb985","type":"deals with"},"f1d66703-f6b5-406a-8f29-f4ed8521596d":{"to":"ccd96cb6-7cd6-40c4-9359-5ded931e31b7","type":"deals with"}}
 tmap.id: 28d9b684-0af3-4c51-85dd-50553ac7eee0
 type: text/vnd.tiddlywiki
 

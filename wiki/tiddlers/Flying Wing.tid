@@ -1,9 +1,9 @@
 created: 20181223214415036
-encrypted: {"iv":"OJmFAWD3E2yK51Q8BbFOSQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"L8DCkIqayhc=","ct":"DzZF6LU4Sm+Z2IP+Hb6STCzSliZHkBiJvMSr0jiHaHdplT2drSnThZfatUsAEpyEqSN+OXWxIGmRbcSGmQpTABeqgr6xpa0TtGHOXGy8RvX5yxl9OgMXrzi9bzVDtSCxUnI8ET9jrNkWWv6EoPoYXJjpUlowthsS3lb+bvAVgTL4Plbc4cZVrNwxUDa6BDb0dPtrSFAx4snkSfOLLMquTR0CDnfr39SdVC4eqGOO0DNOB5470hNj9ZigRwOlOgg6KbL8CfFEJtydvu7PRcUBOB2ZTGrb0Cg1evvv7s4+pKaWEoPLQsbFAw4cz8qd60uHxmVksIS8As28D1wNin/DKhGf1AywIjIP2qeCVaYph48G/DnkmW2SN1HSDXIetYZFUnlBLC9dAeW0g3jLQqX2bOU/KwCeq/6MpVw+2XPJJVbbgYwL17zCTreov/r97tgaROe+2I7nMWWXU7VKAWd9vX4tdprAzdlSyWbzt5cRfIsaK03XIIEOPR9LDrZSlAA152oB/5o62Oamym0mhgQQBnv2HbeLysvRQwNhOE1oMjaDmanPXeL9r0PpE2eiSA1ZlnF0iiWtPBHmaKnSR1m/Wc00/y6MLvwtBfjJPdE1m05fTLZWlOXf7ckD1I5/t7AqyGfr3qZHnmNTmN0VRe3FAa18JOqSFqGUqDlO402mHjVeBNQUNTSu29uwIYFW2acwT6IHfMHUH92R7cjCjR0xnpTYvG68kRxzX6Nqp63UIM22g1/rzcWUIr8a5FnKnx0CLRWMm1tWTdHrN/qhdROCRfGty1du645ap4Zfwfd0D1yH6BnG25xSXVJGIu6+g4+F5Nbcw7/aUrFbAJuqX/7cOFjs56q5/Zl+2IYtzrMcOByn5M+5LcZ5L0hn0lciJ1/XB2+zCUHOFPEme3bRySMnTcfBp3KUspX4Hzt76SXs+bBdz3DFWsngKaoa8D69aNYvt1l7l/jeknZjW3cE+801H/ZLJERtYnbXE7mdTYpy92+0lNA2esZuRspvXtO9Rb10PdknteE="}
-modified: 20190207100859590
+encrypted: {"iv":"csIFwJxOKyhCbuwM+F8ylA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"7c/Nh9UMKcU=","ct":"FVvj2ld8Voh9JxnA6vzu9fi8it+xPS5c4e25/YXHN0Y1L9JC/V7kFAtal6XAdEhQoHXgA49ZCU7ng/Dumnui/p3AiykA+j3TcQPStBAFrMzDRCB3gTyM3hauCeoc0bEJjK1plFIA0juLYT+Y1IIHaEuYf/PVV0ch5JdKSBng1z6enUrxr44cPD9dt2icS1oU9KSADArYU1wK2M8nhuyo6vIdb57/3Z4wiRkp2rh/+zeZ4y/fNMCrBglWeSlZ36PAMEZsnYKxBqSnWpAfbJlQ1QzRUk+mYSjcDKN1i2V06e3JgoiGFZMLip8+a02aktbRlU/pnYwqpSAZwWiZ48DpkH88Zh6VqHbHUTAn1Xr2RjV5NA=="}
+modified: 20190327100846487
 tags: concept idea journal encrypted
 title: Flying Wing
-tmap.id: 1df5835e-5be5-4b33-ab96-d8087baa550c
+tmap.id: e77cf050-cd3b-4ded-bb5c-449b87c8b551
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

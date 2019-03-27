@@ -1,9 +1,9 @@
 created: 20181222154307369
-encrypted: {"iv":"iYrROsBFlxsOMnOR70XP1Q==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"L8DCkIqayhc=","ct":"1bdV6vVbLhn1WoNp/qFKo/3mPgO8PrJb5hx+ETnqfigZuVM5duuPRHCDU6ZCIAE3e9aOfE/gRa9xRJ/gBTviE6r9goORZZO0fz9bcnMXoVmW43M4ggR0aBaimb/CwGHAtivNs3SDISolpP1CEA/GSI4C103R1c4p8sA47nbb2FpdQtDaJqIRYop3RB4ZH5jHBO83xNwYOAtsQ+bSA+0EtIkArKvZepbgWy0JXNG13xL00V0jTIIPM8ySQk8QfYetp+ux1HApycvIrP0WMnjyBJZgMCingBGsiKPPm1SN27ACKtENWJqf6YF/+uFjLwWK+S6CyymmUcfn79eQZQUyU6TaTTxtIxNBgIZJrTP9Unr6YvX9aDNlDYz6/WkcYXRLxiQDBZiQV/X0Zdyljlq4Hhh74tkHNXwqq1FqwEO7c/hDti4Emdgt/3veFPD6g9rPr87U7sBtnVpNsYHiUgr6Mpe3FjWLTmOeusvwbly/TwWImICR13whkhGMHbNVDbtT+AdeoLYTS47+aIR4cppvCkkURSOMEPHlWhoFIgIpF318gvXADrmcssmWHxPvlyXuzopIJezAhdV+kE3J7p5BNaDWXAyQdvYuyDhh4nVQWqGpcSQE7mYu0G1BkpnIZpZ4L5yIfQdo7LOWJt61Ws7hkldUXeAgigDwLfyPl2emiQuQe7zKUlBnr4MVWQR6qXMsA2GkyGe55SLoK2Nlfq1M+duwThoz/YnFTF8wk1aJVGEOVQJ+8B7UY85gZlBytzq4cUyLRSepQpFxGsb+NAx2xRZff/zh17a8RuDfxeJqJKkw8Z4/qFzbKC8DaQvNV3+ObkFcHZcnNMMcnPX40VzKtu1WncA79nOQc4fa4d6oXoe/DTYrxKP1EZleGMofcdrDUvetcHFqxJA8PUfv3NTRaoCRhiz/ilpaF900kKBdRv87QBrL55aM2bwD07OFOosEJ+hKxHsseE1UEIpyLLbs6Hg9/RiuIJEPy5hZudFyAmgp6dIkmPfgL0Fiq5cCyX8V++VCyObKpF+gRHSxopIxMgPmn+anxga5Fv1zSJhpVXhSUTFqJIcB4YXbk/w95VLpfwvjHaxX9QFDeIwtmMaQALCSwqQ1vR4/k5iPcRcw0L2ZinzMcexld56nDyHRJvhl6zVShg40Xf8fmnqAJ+b9vrpOzlEPkbRZTWsrAob/4D/02R+TotF0XCTBbWUU0ljORVUujom+uMWTGnzJ29yxIqMjw5+TVS0sGcHURfCoE0P6O6ttYby3UUpSdFo="}
-modified: 20190207100858824
+encrypted: {"iv":"5ZVwSGnOlkfuSHcjxZIkfw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"7c/Nh9UMKcU=","ct":"QdG4DVw7jSURbcAPURVQPH8EVmNXRVixiDJ9KD9dP2464s58J9pjq0LOaimDuKFRVnS8pSEMJTw7N6Wur0vQ8oWxnWC/6VxagRsn3XF0S0IiUWh0DPPL+CnuwdFMJKU6GOK9qiwTL80UjEhj1y+ufcSaEq41HbUxOZRq2+7laGYXg3FaYRweLWF+7BogjzIRxdtxuN1iCCP4GHHoG0X1Co2/vb1fMdksWo2n80mvu8NpyG6/t7zNCjMK3MRr8+C9F20SZ6BValpwC9w83mv5nngDXkqRQmgp8H9sRtA6c1jRt4CZnmgMYOST4LNlS2BDoIaSGKDjjUSud1out1AsiKTWkv/As2/NXvaablfWsVRs9i+UUOnIy412duu2pp68jUUI4SqifMhZJWTcbjRk8plTPZapNo6kELvSaPyMXKcfyQjfZ712jtrRfV8AVOxfZ4Me/tJtTRnmanl62K1e/9o2Zp9dnM2+LmXQ6gdQJT7gXeTi+Upu+qGnukwl80pU/hzaMbbvs5GTgz8bDS/ISow/Mw6YfaZkFK6JfT4kIhK4Xg9cKL+bknY="}
+modified: 20190327100845837
 tags: encrypted journal
 title: Journal
-tmap.id: 70c2e176-82a3-44f2-8757-dbc20266997d
+tmap.id: 5d808d44-0e31-4e88-80e5-0ca66998646c
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

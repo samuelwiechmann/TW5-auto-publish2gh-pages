@@ -1,7 +1,7 @@
-_canonical_uri: ./images/20181020_165636.jpg
 created: 20181222184831953
-modified: 20181224021839910
+encrypted: {"iv":"bZDM08XXCawc40581crlIQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"7c/Nh9UMKcU=","ct":"JlwUbDeWhFnpJOQE3mI5mbQroV7+mNF+e8Hh9XtcBmDQ/sc0TOVgkQ0N8SHG+qXR8qc5j24QMVHZCGyesynJlePTMgWnfywoVBN54Ul8Gzvnaa4VpRn8Z91MrL27VFWMWBKb9LXQ6RhruhL0IP9eBuK1WeaI2bY1sGqxvfyzKQi/MYJCaGDNVcf9t8xwag88Z9trXs9Uc+idKmSomkYkfuuNFNLZzpG6LbefjHFa6wJBy7+u51SP8lxtDiJNjIa2lGmjzkzuGZbjeljy/YxI8/kK3AkpVpho6j4WdE/xOuKqo2OnhBxEcWjt7PuYPQWMWgm93I5hpkumiFKM0ckW2ol5CDalgcsrGknlFHSw5Gqq8nktjhqpsTvD5Mq+AY5+MEP5Wpix"}
+modified: 20190327100844019
 tags: Bauwagen encrypted
 title: 20181020_165636.jpg
-tmap.id: c35cd1af-eb5d-45c0-85d2-2aa702c5bbd1
-type: image/jpeg
+tmap.id: 5c781606-1568-461e-b784-bcc629adb82d
+type: text/vnd.tiddlywiki

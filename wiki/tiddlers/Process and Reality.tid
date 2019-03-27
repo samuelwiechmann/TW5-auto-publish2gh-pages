@@ -1,9 +1,9 @@
 created: 20190105224334424
 date: 00001929
-modified: 20190205234237313
+modified: 20190327000402859
 tags: [[Alfred North Whitehead]] content book 1929
 title: Process and Reality
-tmap.edges: {"b3c18192-6fab-4c2a-b62c-a8035d4d842f":{"to":"28d9b684-0af3-4c51-85dd-50553ac7eee0","type":"instance of"},"99d73603-d99f-4d07-a3cf-2610793c7312":{"to":"e082da5a-390f-46f1-b852-1d6ac745e72d","type":"instance of"},"2a2e1e83-143b-47fb-9eb9-64fc08b72c6a":{"to":"95b28546-0329-4ebf-a573-941a39fc3f5d","type":"instance of"},"e36ee697-fbf9-4110-89a3-54fe38a6d38b":{"to":"d327d910-1477-4600-a78d-e7c192efb985","type":"deals with"}}
+tmap.edges: {"b3c18192-6fab-4c2a-b62c-a8035d4d842f":{"to":"28d9b684-0af3-4c51-85dd-50553ac7eee0","type":"instance of"},"99d73603-d99f-4d07-a3cf-2610793c7312":{"to":"e082da5a-390f-46f1-b852-1d6ac745e72d","type":"instance of"},"2a2e1e83-143b-47fb-9eb9-64fc08b72c6a":{"to":"95b28546-0329-4ebf-a573-941a39fc3f5d","type":"instance of"},"e36ee697-fbf9-4110-89a3-54fe38a6d38b":{"to":"d327d910-1477-4600-a78d-e7c192efb985","type":"deals with"},"edff74cd-09e0-4d01-9e80-0e1282c5516b":{"to":"ccd96cb6-7cd6-40c4-9359-5ded931e31b7","type":"deals with"}}
 tmap.id: f0bf2f4a-6f14-45a8-8566-85cadbfe3595
 type: text/vnd.tiddlywiki
 

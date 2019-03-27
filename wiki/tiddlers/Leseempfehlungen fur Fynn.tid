@@ -1,9 +1,9 @@
 created: 20181224021334128
-encrypted: {"iv":"dFcJRsNDVFlrPy4H8jo5xw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"01nP0j4Ye5w=","ct":"mGDgqXHvlwiuVVoSAInqNjbyLbIaD6CvG1RLGiZBOTjvDxBF5uoJd8nbTdo5ytAw41Poh6XvRH9Z+o04c2hAwztYpueBnSOHE7r9yTwJo3CtfFiCc04zj0I3IB7EmeWZ6h40sUAYk5c6NuxXCvPnXN/9BoxdpHW0HeT4K9+4LICAgDffPlSBS7VPgThZvCG/SyY5qfN57o7vvqlOPgpT7TLT7VRa3xc+HEJOclt9D03POZelISPeBL4T16DPaCHtfLjUFjmKGaJzq/MEWMxUtn2RPG+wAA+/dpvSPr53EFf/uOlsLOba8RFD8pvjrisvrj++VOnmwu3Tv+7H9huLqZzaCU+pqk1GxwavqNXTaHu1Y8Z0FNaM0OT/zy67xHUeat8rfW5I2tyg14ZfHo2ZJDm3JXWjs+hcaay01gttRGiwxFRDKReayg=="}
-modified: 20181224021951446
+encrypted: {"iv":"DaDfZAxsC6YrCyfaooElJw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"7c/Nh9UMKcU=","ct":"zZDHSrdU4q68lCAPixKBOeRMjMhxfZrBSU4fiVxXhaVdGuDmfjjNAmPMztIwstyZ0KTpfMuX3j5G4zkBSFf6RvjxvPmLORFwN6y3zEIOK/hOeQPbxT5B/r8OmeWkAbxSEO9grCFVGH6eGW0al2nC5GK0k9+p4kYlP6cBlNFKMS/iaNdYlCrnfmsGgsITL5dMlgJuiu/GM4+mXUth9Qb3205T51yUc5+i7LWVYT2Bdz0dfHTvafUhOKxjtXefBsD0pzN5mXM2BUF0v5rX/mvzAxsZNgx4KTg4sGKgSigjWvW6EnUiHYwx83ltwUTQR9rXtjl2lqFx3z7ym0bUOLYPC/alpGUG0hRjhYgVU7uq7w0M1el5kKSCFjvHmAJBA/C1y5uf6dQmpWTtbNAxAVXcaTallv2imffx7fxojObVUz/CB5zYvwLYDc6yvDyZajbahmabKOGdHqKTPxldwKFcs8a1YnqvYkP6G+FaFMm5D4RG1LY2CJ1c4Tcd9z72ZCk3V8o2SFMtT70YCguU8JZVSqSbC29N6KGKjUotd6BGh0cfg64S8rvf4GylHshe/vjUluUBN4ucUf9tN4Rn5OKnEcI+maxKvr46FafJt1ux22/ASw1w5VV/7YZpDFzKMoIXxu+drHMO9N8i77TBBqT9MHssnOVDYQGGylz0TTHJW9a66S849PgbYjgezZLyun0EsAuWQkfUww253iIzLxPJEvd3Ikw23v3ofyGwP8LIivFAE+EdbhZR1nQmVFyGfgw3GyxhDSkZdxyJGJcN2nHofaL//t7h1DA2Ac2EHxb4HzetdXNnrYhBoHG4spqAiKRsvKSDtkifnaLiMAIGhDuzH1auntAsmIUpIATMZOS9Yl83RCK3A8WX/1DWZoyvDKm365x0r3DT4IvL+9gcdb2fYpOXrZKDC46mDg6zHptVQf5s699GefLhYk0EVD5iXZb3qTjBMeqGFH6QOZKKngZuIi+ukB/JxaLuUG29V5wUCfwpgJCtbA0gFPFlb5t4NdRlIjtvgr0eWVm/G+Xay6tGwV0kd8ObVLQNJdQpjmkwS24GoygBLhOp110YGMduK7wVe479a5sIGML4+khUdTkrCwhmS22vj3Khh5dDh+9NnHDVkZlXEQu8YbpM4gphSm1jR3zs7Jvi4SvzR+WI06dTfR9x73Vonzwwva5RPra/Dhuk9IURTLg+JJVzxvzVP3c="}
+modified: 20190327100845827
 tags: letter Fynn encrypted
 title: Leseempfehlungen für Fynn
-tmap.id: 4b1fdd12-923d-4f28-acda-f71104d282c7
+tmap.id: 5284d86c-487f-443b-bc5f-2b2568d69c41
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

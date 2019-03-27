@@ -1,21 +1,9 @@
 created: 20181221173043316
-date: 20180801
-modified: 20181224021839757
-tags: Firestarter encrypted letter
+encrypted: {"iv":"eJg9UMKTtDe8ZFGVuGp3BQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"7c/Nh9UMKcU=","ct":"qfzGMisgQfYEHM4sI9P10TWqjRZOw9R71Fmw3gguSy1Tu1EwL44zNbwH++f60v2g0d2GT7FndGfX5i73QB8GPiAPYP+oaKR3GOD1Hs95u8ox6czGogucbOcLUcTyuzUknmYg8XTG+Y4RltljWCekUIXXc4LqRLYWNgfa1H0lc/KEK4e4Ql+HgBatZiFhm08n9hRPORu/Tbz81F1Ec2xSHoVc+mjuIha1bAKW4JIfMDbYb5SdOAJrsZX2EPo08KBJF8vA4431qAJ9U16d/V+Cpt6nehfHo37y2T5JKIVZjbvtVTWt4xseDrFxmZEfQs+Sb9hpInIbWV9tZy3+uZMhC8gXfmuynw20m+4hYJngr0o2ECwUfKebjnJbxhMuujgUfkKCSQJWh699HFcrebqUYfcX/jzCOQbTjGnmjHFesmLlI7+wZuOzcxHiI1ZCo50YY8mt7kuGoj8lAPlpzfvHIUsg5Cm3e0lPbLoVuZGYPCetOlnu1HHgFWth08gZ/1vJSgy/fd5yMLFqr5WhI6fQ/uKH30E4V9OalOKnUMdp43DF3VtlWxQLR5xoH2wLprWr4hcRVHB2fBlcvb4gzrGBrrtC8J/hdyqpI8byIQwbCAHRYYMGlKxP6Mk2yHyPCbGI6DtME6uNJfbE03zMgf5T+2rmF4TcZRLsDwlSJd3DA7TWrA+Le32dniG4aT0rzyPYV/SouzRfr1zLKFVC//KFg05yREKku1MiIY59duG1bWTPgRTcs3WCjFBQKx1VW93PQK2oga+fPKZlpWITZszlliaGH4B0nr1y/vZd3vNsaMW/+5zJ9vFEal6tWuq/e8tdY9rwdH9nsFzKZv/A4n16veH/pG+eTP4lRFLl4q+E0AeSEoXngAnIYhMstjNYSizfDTTYZINbQx15OQX/MoRaOFfrH6nfF4RzWIJrbAzvVFr/EMfbjdQX5vxneXse2tQwo0LRngNhf5iSAkg4PiB1CzyuIX1UvFQLiBpeyqAG8/TK2IWcp7mAKuDC1gkGxV7vJ61mBkPCGXbUky7VsG/xXRNyAqU/x15HE+aEoAtwQCdb+q/84Bcx"}
+modified: 20190327100843714
+tags: Firestarter encrypted letter Gaby
 title: August 2018
-tmap.id: 097978e4-e2b1-4ce4-8166-8c35a5d27b96
+tmap.id: c935acc2-6118-43ab-bee0-c1ad73471902
 type: text/vnd.tiddlywiki
 
-!!August 2018
-
-Back in August I had a lot of fun with my new road bike. Thank you for encouraging me to buy it. Some excerpts from my journal:
-
-{{Tuesday, 21.08.2018 - I'm in love}}
-{{Wednesday, 22.08.2018 - I'm so wasted}}
-{{Thursday, 25.08.2018}}
-{{Friday, 24.08.2018}}
-
-
-I also had some very nice flights in August. It was also due to the feeling of accomplishment after riding to the airfield by bike in the morning that I could relax in a different way and go for more than I had ever before.
-
-{{Sunday, 26.08.2018}}
+!This is an encrypted Tiddler

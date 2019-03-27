@@ -1,8 +1,8 @@
 created: 20180612180647851
-modified: 20181222164313806
+modified: 20190327000343574
 tags: teacher author s4 Person
 title: Eckhart Tolle
-tmap.edges: {"fe4f1ef2-f804-4715-a820-9738fe6968bc":{"to":"5c0a622f-629f-4f67-b0d1-e86e75b6c4c8","type":"talks"},"a94a3188-0e18-45de-8fca-0d75910dd3f8":{"to":"bc33c79f-3bff-484e-b834-95d2ecb4eade","type":"talks"},"815dae6a-92a2-4986-a5df-5fb132922737":{"to":"1d9983cf-4b6f-4cb5-bed9-27b0c4dc467a","type":"talks"},"fc56e138-1a5e-412e-b53b-f3307b85d3b3":{"to":"d3b83e12-a60c-4c67-b354-98448db10bcf","type":"deals with"},"7afa2ed0-392a-487c-86ec-12c96c04a0fd":{"to":"ab481b03-2b6d-4f7f-a99a-d435b4a7cb87","type":"deals with"}}
+tmap.edges: {"fe4f1ef2-f804-4715-a820-9738fe6968bc":{"to":"5c0a622f-629f-4f67-b0d1-e86e75b6c4c8","type":"talks"},"a94a3188-0e18-45de-8fca-0d75910dd3f8":{"to":"bc33c79f-3bff-484e-b834-95d2ecb4eade","type":"talks"},"815dae6a-92a2-4986-a5df-5fb132922737":{"to":"1d9983cf-4b6f-4cb5-bed9-27b0c4dc467a","type":"talks"},"fc56e138-1a5e-412e-b53b-f3307b85d3b3":{"to":"d3b83e12-a60c-4c67-b354-98448db10bcf","type":"deals with"},"7afa2ed0-392a-487c-86ec-12c96c04a0fd":{"to":"ab481b03-2b6d-4f7f-a99a-d435b4a7cb87","type":"deals with"},"da904723-643b-4cb7-9ec2-4d964cf168bb":{"to":"81939d31-1ac9-4b60-a9a7-79e7e211812d","type":"deals with"}}
 tmap.id: e0d541b4-5b1a-4615-8d15-ecc07d70ee13
 type: text/vnd.tiddlywiki
 

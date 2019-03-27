@@ -1,6 +1,6 @@
 created: 20180313102613840
-modified: 20181222164309055
-priority: 2
+modified: 20190326231549393
+priority: 3
 scope: [tag[topic]]
 style: {"color":{"border":"rgba(118,114,119,1)","background":"rgba(203,232,239,1)"}}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:topic

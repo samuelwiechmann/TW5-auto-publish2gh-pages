@@ -1,25 +1,9 @@
 created: 20181222154301492
-date: 20181202
-modified: 20181224021839690
-tags: Firestarter encrypted letter
+encrypted: {"iv":"y/ZJgYg2L3+HiWOkVbzT3A==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"7c/Nh9UMKcU=","ct":"QUBaEQwtULrko3aZN04vbV+Lb58lpQ7XzmqVGr7NnG/I7Bo88NM6j88+svdfoR/UjdDrBavK7e3QmOEDGf5QhmxNKfwyVyjqFT12g3Fp1MTurIW+tKqs4f036x5Srtto2JQ0kyJrhmLOns7B1f2bUdNT1IBlP543DFyMoC0BP+1hqE1nstYA1ZRFBH0fJuYN4xGhTillOSKPouXA8rWfzoV+8/zPRz9Ec6lsjWyiWB6GU+loVb04TkHniH6LAOXl50QTzPj2oRxPFonNQ6fUOGf2qCr7DIeAro259vXDiTldvK8LokTO/gFyhwmieJO6wF2lfO0zCNG3TzZGtIG67je2MPV81vj90arOsVLcxekt8wPgFYuPlXSoiEDCAK5yVNXXPudbMKEq3mAX+GS/d/m+4q0vw8/Qj9YWCmPtctyWqEgTA33m3yXIzklR6NnMgnZsl9chMj9o1kL8uSy7CcqZtaOF4btJVT85iKgdACLtqGabaMubtHzO7LICJ9fTsUFMrsPCpKBlT2+JLH4ExZVvoiYs0TDFAcXWbS8B3S0fqyyFrRZhh1Rvfcn3MILyEbC6GSGdYe8YDOQ4Y1V790xb3pszOvzblb9rH+MDRl3LwusVJP6FROL28jW+YrYLuW4YC7isjYcc5zRB+0qexFOs7wX2ZHd6MhElY3qzTeB0dsWEPmHmAqh33hUhNaKp8TxHu9MPmu+UcP3y38qYCmx1gTdH+bUTUYTyxb4V2GiJHGJ1PoH0nbg+8Wkzi7nx3VwY+AYDqWA6WP146FEML+MKg7JBcsDLmXt4DWw/9bInbRQFcpWc7uJGpk6Q4edP2jT3JLluh0kz+JpV7o/AXZ9fABEo8HNN0MNNrK0Sdj7ZqHRAPk6jRulKxReY29rKNSJn6I98TI5RlsH8eWm+l/TPX7k9uF6m+uY4ZuwZB1YMNYoFvZ8q/VXurHq+lAEE1BJp/lWtA4joULS4UkVunY6aBnRRh4Q69nOqhxdCGZTOelWoJJfclse8lkJDr/vPUzWXg3HkZjQ+NZTVERqO5uAJoOR/2RyswIDie56AodHEb6rC+UkJgS+L6PiL6H0/lIpa4khfsajVYiLz4/ZWSskrurGGMww98bZCwg0O5ULbt8Ovk91/m/aNb3vxGPrGd1ywyFH/p5dJieaRZBxfyQixE78F7h+Ek46Dx4IMxCxMIYNaCHYjAAAguLF86RuCp3ASh2Q45beMwWiTr/QGCOMCUsUVQAl+QeVYLcHwMkBMQHHe9uSXuhjjjNho2fVASJcgfO3DRc5Tk7X20YP3h1Z3wd0KIOsUy2dYTMHWAspqISI2cpc0ntnGG2YA/k1yv+knlAsrlKEd/GUyTXbtP/Blp7t4hWQX743rqV+TVIV9a7zcToK89ICY0G648S1Jy2QkXN++YpQVu/eP/EKY08fkuw12nU1oIr1v2ts1mg8g3Ciw0swYmB0eJFVDoc8t5phaXn55Ohstw7eDD1zOKbS8mhZZ0feL+GTVrDM4Sm5hbAD5u6SYIHxsOIKT2MDM3TZWR704dKULqDgfifoQaeg7cjsGIkITWSB+syQJ2X/u9J00BL4uJngOZsRjyM4tHB22wQtXEBEmrYMOgLle1zZ/QK9lobyybjVLNZFny1kw+rvrfQS1lKiz4AhE6kWMlRWVhU3qocqJobB4hxLyKIrONWy+7pi6uCx9aKGXDJjokw=="}
+modified: 20190327100845832
+tags: Firestarter encrypted letter journal
 title: L.A. Salami concert
-tmap.id: 39a10ff1-148c-4a0b-870e-966ffe06b993
+tmap.id: b7854ef8-de70-45af-804f-1cf2cf9a5f25
 type: text/vnd.tiddlywiki
 
-<$button class="tc-btn-invisible" popup=<<qualify "$:/temp/popup">>>
-
-First weekend in December, Marianne has a guy she met on Tinder visiting her.</$button>
-<$reveal type="nomatch" state=<<qualify "$:/temp/popup">> text="">
-"""Few hours later, Mattis is on his way home and goes into the Kessel to go to the toilet. He meets two guys from our faculty and invites them to come with him. They enter our flat, see the pair of shoes in front of Mariannes room and ask: "Is Benjamin here??" 
-
-Some minutes later I join them in Mattis room and both our flat communities are united in our flat. What a freaking coincidence. 
-
-
-One day later, on Sunday, Mattis, Marianne and I visit a concert with L.A. Salami in Frankfurt. And who do we meet at the train station in Darmstadt? The three guys from the day before...
-
-In front of the location my eye gets stuck on a small graffiti. It's the only photo I took this evening.
-
-[img[20181202_203013.jpg]]"""
-</$reveal> 
-
-<br>
+!This is an encrypted Tiddler
