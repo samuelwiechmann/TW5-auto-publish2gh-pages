@@ -1,6 +1,6 @@
 created: 20181016183305635
-filter: [tag[topic]tag[science]] [tag[topic]tag[Science]] [tag[content]] [tag[Person]] -[tag[technology]] -[tag[Technology]] -[tag[applied]] [tag[object]] [tag[organism]]
-modified: 20181222225011850
+filter: [tag[topic]tag[science]] [tag[topic]tag[Science]] [tag[content]] [tag[Person]] -[tag[technology]] -[tag[Technology]] -[tag[applied]] [tag[object]] [tag[organism]] [title[Science]]
+modified: 20190817231544626
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5_science/filter/nodes
 type: text/vnd.tiddlywiki
 

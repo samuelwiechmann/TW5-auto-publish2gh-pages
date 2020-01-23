@@ -1,5 +1,5 @@
 created: 20181016181125264
-modified: 20181222225633426
+modified: 20190817231527383
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s5_science/map
 type: text/vnd.tiddlywiki
 
@@ -664,10 +664,6 @@ type: text/vnd.tiddlywiki
   "x": -678,
   "y": -19
  },
- "1ebd141b-1486-4230-8149-51f49e8b09bc": {
-  "x": 1827,
-  "y": -2506
- },
  "1e8833a5-31f7-40cb-b01c-bddf5cda64c7": {
   "x": -2370,
   "y": -1943
@@ -736,10 +732,6 @@ type: text/vnd.tiddlywiki
   "x": -571,
   "y": -2324
  },
- "0e233fb5-3607-4c25-b34e-366734a135fc": {
-  "x": -2613,
-  "y": -2142
- },
  "5673476a-43e9-4ca4-a322-e4fe6add2c5a": {
   "x": -501,
   "y": -274
@@ -767,10 +759,6 @@ type: text/vnd.tiddlywiki
  "25ec8107-4e61-4bed-a651-e7af5eac1248": {
   "x": -2102,
   "y": 1092
- },
- "308bfba1-c16e-46ab-8b4f-1f42f3718ec1": {
-  "x": -3315,
-  "y": -649
  },
  "781fc2b8-b051-4f3f-8b7e-e22718c7b5f8": {
   "x": -2285,
@@ -1024,10 +1012,6 @@ type: text/vnd.tiddlywiki
   "x": -2587,
   "y": 1868
  },
- "407e5d51-25b5-466b-b9a0-921fc51d1d7a": {
-  "x": 3349,
-  "y": -472
- },
  "0918351b-f568-4799-8bac-0253f67cd06b": {
   "x": 2984,
   "y": 1575
@@ -1219,10 +1203,6 @@ type: text/vnd.tiddlywiki
  "d585bb17-d273-4e11-97ef-78a8ea96280b": {
   "x": 399,
   "y": -962
- },
- "9df828d0-3c1a-4bee-9eeb-d4b251c02114": {
-  "x": 698,
-  "y": -1259
  },
  "47545129-c5f0-49cb-8e56-7f148254ab29": {
   "x": -665,

@@ -1,9 +1,9 @@
 created: 20180222130546823
 list: 
-modified: 20190326235731709
+modified: 20190817231948720
 tags: organism people topic 2
 title: Humans
-tmap.edges: {"be5df33b-18a1-41b0-b803-a1874738ac0f":{"to":"1071da49-4685-45cb-89f6-512f3165c1f2","type":"form"},"86e1a7d2-1440-493a-a3aa-d42b189c0a62":{"to":"33616a59-3a33-4fab-b18f-19e26fc01346","type":"form"},"175c233f-ac47-4ea6-804e-549703d62512":{"to":"287fadec-fdd4-4a29-912b-e86d6ed9abfb","type":"sublass of"},"d5b48517-b5b3-4479-bb37-c7e56575497a":{"to":"2bcf7eee-a02b-41a5-90c1-b1b0e94865d4","type":"form"},"42487dfe-b62c-4539-80cc-9d5a2b37e2e8":{"to":"fbf1234b-7fe7-47d6-ada8-1162c7875c16","type":"have"},"5b491079-fd0f-4a51-aa99-6e9a2ded514a":{"to":"3e5c7fad-95e6-4ba9-9118-a2b2bd4c5867","type":"have"},"8859db1b-e6ac-48f9-a47d-e153c716294c":{"to":"68508957-3387-472b-9965-f466691e7493","type":"form"},"a0f99958-e5ec-4b0c-b6c7-c941a0578430":{"to":"ab481b03-2b6d-4f7f-a99a-d435b4a7cb87","type":"do"},"94eaaa02-3f31-40b6-a276-ac5f336f864f":{"to":"47545129-c5f0-49cb-8e56-7f148254ab29","type":"2:subclass of"}}
+tmap.edges: {"be5df33b-18a1-41b0-b803-a1874738ac0f":{"to":"1071da49-4685-45cb-89f6-512f3165c1f2","type":"form"},"86e1a7d2-1440-493a-a3aa-d42b189c0a62":{"to":"33616a59-3a33-4fab-b18f-19e26fc01346","type":"form"},"175c233f-ac47-4ea6-804e-549703d62512":{"to":"287fadec-fdd4-4a29-912b-e86d6ed9abfb","type":"sublass of"},"d5b48517-b5b3-4479-bb37-c7e56575497a":{"to":"2bcf7eee-a02b-41a5-90c1-b1b0e94865d4","type":"form"},"42487dfe-b62c-4539-80cc-9d5a2b37e2e8":{"to":"fbf1234b-7fe7-47d6-ada8-1162c7875c16","type":"have"},"5b491079-fd0f-4a51-aa99-6e9a2ded514a":{"to":"3e5c7fad-95e6-4ba9-9118-a2b2bd4c5867","type":"have"},"8859db1b-e6ac-48f9-a47d-e153c716294c":{"to":"68508957-3387-472b-9965-f466691e7493","type":"form"},"a0f99958-e5ec-4b0c-b6c7-c941a0578430":{"to":"ab481b03-2b6d-4f7f-a99a-d435b4a7cb87","type":"do"},"94eaaa02-3f31-40b6-a276-ac5f336f864f":{"to":"47545129-c5f0-49cb-8e56-7f148254ab29","type":"2:subclass of"},"f413d0a6-0ec9-4e15-aceb-c4be8a43aa7d":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"part of"}}
 tmap.id: 7f143bab-0fac-48b3-ba1c-c7fc5dfc5d09
 tmap.style: {}
 type: text/vnd.tiddlywiki

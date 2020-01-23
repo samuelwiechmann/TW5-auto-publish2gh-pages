@@ -1,9 +1,9 @@
 created: 20180222130610273
 list: 
-modified: 20181222164315388
+modified: 20190817232000702
 tags: concept topic organism 3
 title: Humanity
-tmap.edges: {}
+tmap.edges: {"f7ac9dcc-f3ca-4124-b3a7-f617f3d27fc1":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"part of"}}
 tmap.id: 2bcf7eee-a02b-41a5-90c1-b1b0e94865d4
 type: text/vnd.tiddlywiki
 
