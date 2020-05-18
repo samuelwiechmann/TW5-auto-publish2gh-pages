@@ -1,0 +1,143 @@
+created: 20180404071217369
+draft.of: Linear Course One
+draft.title: Linear Course One
+modified: 20200518161118809
+tags: course 1 samuel
+title: Draft of 'Linear Course One'
+tmap.id: 99ba796c-3ac6-45b5-a502-4579149c61f4
+type: text/vnd.tiddlywiki
+
+Nearly one year ago I started exploring the topic of structure in order to create a draft around it. The following text documents the course on which I wandered myself for the following few months.
+
+In the beginning I focused on two kinds of structure: 
+<br><br><br>
+''1.  Structure constructed from Lines, Surfaces and Volumes''. 
+
+Everything that looks as if it comes straight from the drawing board.  
+
+[img[construction.jpg]]
+<br><br>[[see more|https://www.pinterest.de/samuelwiechmann/struktur-linie-fläche-raum/]]
+<br><br><br>
+
+''2.  Organic Structure'' 
+
+Everything natural, soft or growing. I thought it was completely different from the other kind of structure but soon discovered some structures that would fit into both categories. If you look at [[the other Pinterest Board|https://www.pinterest.de/samuelwiechmann/struktur-organisch/]] you will notice the overlaps.
+
+[img[rivers.jpg]]
+
+
+
+<br>
+
+A good example for that overlap is a snowflake. It comes into existence in a natural process of growth, quite similar to life. So from a philosophical point of view it would clearly fit into the category of organic structure. 
+But from an aesthetic point of view it looks kind of constructed. It could also come from a drawing board. It could also be the invention of an artist. The symmetry just deosn't seem natural:
+
+[img[snowflake.jpg]]
+
+<br>
+
+So this got me interested. How can it be that there are structures in nature that look so constructive?
+
+At first I tried to approach the overlap from the technological side. I started generating trees with the computer. This is quite easy using a system that recursively replaces parts of its own build instructions with the same rules over and over again. You may start with simply X and then the first rule might be to replace X with one step Forward, followed by a double Branching with a set offset angle each and a new X on each end. Depending on the set branching angle and the number of steps you get a tree that branches as far as you want in an ever-repeating way. Animating trees with angles from 0 to 90 degrees looks something like this:
+
+[img[l-system-tree.gif]]
+
+!! After understanding this I was walking around and looking at those leafless winter-trees as if they were magicians. 
+
+They did not only follow an algorithm, they did also follow their chaotic environmental influences. In theory, it was simple. Clever trees. But how did they get there?
+
+<br>
+<br>
+<br>
+
+Asking this question I discovered a physical law that was proposed by [[Adrian Bejan]] in 1996. The so-called Constructal Law states the following: 
+
+{{Constructal Law}}
+
+[img[river-gif.gif]]
+source: [[What rivers can tell us about the earth's history]] 
+
+!! This really struck me. 
+Is this the explanation for the Origin of Life? If it is, it might also explain the rise of sentient beings, the rise of consciousness and rational thought.
+
+<br>
+<br>
+<br>
+
+It got me even more interested and I found an awful lot of information about that topic. As an example I discovered this great documentary on the origin of life:
+
+[[How Life Started on Earth]]
+
+<br>
+
+Soon later I discovered something called the Gaia-Theory, which to me seemed just like common sense but actually it is still very controversial. Maybe because many non-scientists picked it up and made up their own theory from it, it never got popular in the scientific world. But there is still a great documentary about it:
+
+[[Global Brain]]
+
+<br>
+
+I was now trying to get deeper into physics and understand how life and its complexity could arise in a world where physics in general tend to create more and more chaos. This is a problem that the often so-called "father of information technology", Claude Shannon, discovered already 70 years ago, only few decades after Ludwig Boltzmann killed himself because of the exact same discovery. If I got it right it was the equivalence of information and entropy. Boltzmann could just not understand how life could arise in a world where entropy is ever-increasing, where order is destroyed by the forces of nature. 
+
+!! But Shannon had a use for the formulas he found - he was going to work out the basics of information transmission. 
+
+{{Information and Entropy}}
+
+<br>
+
+The next thing I needed to think about was where to go with that whole project. I decided to try to pack everything I found out in some kind of structure that would allow to explore it. I started by taking a look at time and discovered how extremely short our era of modern life was compared to the cosmic scale of life. You can get a feeling of this [[over here|http://hereistoday.com/]].
+There is also another great project [[visualizing all recorded History of Wikipedia|Histography]].
+
+<br>
+
+After using InDesign to creat an overview of my collected contents I later discovered Cmap Tools by the IHMC and started creating Concept Maps. Concept Maps are really great to map out relations between topics and ideas, but they can look quite awkward:
+<br>
+
+[img[conceptmap of humanism.png]]
+
+<br>
+Besides their rigid style they are not suitable for managing any content. Even though they can contain a short description and links to media they were not able to really manage content on their own. What I soon started looking for was a combination of concept maps and a wiki.<br>
+
+Being kind of lost I eventually discovered the Open Source software ~TiddlyWiki with its plugin ~TiddlyMap. This was exactly what I had been looking for and it's also what you are looking at right now. 
+
+!! I really love it. 
+
+It is a bit hard to understand at first because it is quite different from all other wiki software, but it's worth to understand. With this software philosophy and realization go hand in hand and I guess this is due to the fact that it is Open Source. 
+
+I now use this software to organize everything interesting I find on the web and at least for me, it is way easier to find something again than in any browser bookmark directory.
+
+Another cool thing is that I can visually see how topics relate to each other from my point of view. Also there is the possibility to create different kinds of views with different types of relations between them.
+
+I now have endless possibilities of changing the style and physics of the graph network:
+
+[img[view physics demo.gif]]
+
+<br><br>
+
+!! If you want to use this for your own purposes, it's quite simple:
+
+{{Private use}}
+
+<br><br>
+
+!! While being on vacation last week 
+I discovered an article about Andy Clark, a philosopher thinking about where the mind starts and where it ends. I heard the article in one evening and one evening later had a truly magical experience. 
+
+I believe his thoughts have something deeply true to it.
+
+{{The Mind-Expanding Ideas of Andy Clark}}
+
+<br><br>
+
+Putting an temporary end to this story I can conclude that over the last few months I learned an awful lot about life and the world. I cannot succinctly explain why or how, but I feel better now than I did before. 
+
+I hope that this project might also be helpful to someone else in some sense. I will probably continue to share my personal insights and discoveries right here. Have fun exploring.
+
+<br><br><br><br><br>
+
+!! Where could this go in the future?
+Answering that question is quite simple. Even better than a twodimensional force-directed graph would be a [[3D force-directed graph|https://vasturiano.github.io/3d-force-graph/example/auto-colored/]]. At the time there just doesn't seem to be an open-source software combining such a thing with a wiki. As I am not a programmer it might take some time to get this right. 
+
+Another imaginable option would be to create a 2-dimensional graph with multiple layers. Those layers could represent different levels of detail or even different slices in time.
+
+But the greatest thing I can imagine right now would be a Graph Network with even more than 3 dimensions. Rotating it in a 3D-projection could then successively change the view into a whole different network. This could allow to shift from a philosophers perspective to a politicians perspective in a fluent way or allow to connect time to the structure itself.
+
