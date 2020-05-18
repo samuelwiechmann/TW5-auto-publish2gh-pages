@@ -1,8 +1,8 @@
 created: 20181024104051080
-modified: 20181222225430193
+modified: 20190817231941046
 tags: 1 life organism topic
 title: Organism
-tmap.edges: {"f0d082d2-4c2d-4028-9f9c-302aa33a7e39":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"instance of"},"4e3392af-452c-4c33-929d-3534dd37586f":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"1:subclass of"}}
+tmap.edges: {"f0d082d2-4c2d-4028-9f9c-302aa33a7e39":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"instance of"},"4e3392af-452c-4c33-929d-3534dd37586f":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"1:subclass of"},"6e10ee43-bbc5-4c60-bdfa-4490877cf194":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"part of"}}
 tmap.id: 47545129-c5f0-49cb-8e56-7f148254ab29
 type: text/vnd.tiddlywiki
 
